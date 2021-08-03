@@ -1,0 +1,36 @@
+.header {
+    height: 10vh;
+    width: 100vw;
+    padding-top: 2vh;
+    background: #0099ff;
+    color: #ffffff;
+    text-align: center;
+    font-size: 6vh;
+    font-family: cursive;
+}
+
+.background {
+    height: 90vh;
+    width: 100vw;
+    background: #0055b6;
+}
+
+img {
+    height: 30vh;
+    width: 90vw;
+    margin-top: 8vh;
+    padding-left: 5vw;
+    padding-right: 5vw;
+}
+
+button {
+    height: 8.5vh;
+    width: 80vw;
+    margin-top: 6vh;
+    margin-left: 10vw;
+    background: #ffffff;
+    color: #0099ff;
+    font-size: 3.5vh;
+    font-weight: bold;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
