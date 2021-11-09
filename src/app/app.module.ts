@@ -6,6 +6,8 @@ import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
 import { SearchRecordsComponent } from './search-records/search-records.component';
 
+import { ReactiveFormsModule } from '@angular/forms';
+
 const routes: Routes = [
   { path: 'home', component: HomeComponent },
   { path: 'search', component: SearchRecordsComponent },
@@ -20,7 +22,8 @@ const routes: Routes = [
   ],
   imports: [
     BrowserModule,
-    RouterModule.forRoot(routes)
+    RouterModule.forRoot(routes),
+    ReactiveFormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

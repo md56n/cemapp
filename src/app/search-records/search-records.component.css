@@ -1,0 +1,79 @@
+.header {
+    height: 10vh;
+    width: 100vw;
+    min-width: 350px;
+    min-height: 55px;
+    padding-top: 3vh;
+    background: #0099ff;
+    color: #ffffff;
+    text-align: center;
+    font-size: 4vh;
+    font-family: cursive;
+}
+
+.background {
+    height: 95vh;
+    width: 100vw;
+    min-width: 350px;
+    min-height: 600px;
+    background: #0055b6;
+    text-align: center;
+}
+
+.toolbar {
+    height: 6vh;
+    width: 100vw;
+    background: #0000a8;
+    text-align: left;
+}
+
+.toolbarbutton {
+    height: 6vh;
+    width: 20vw;
+    background: none;
+    display: inline-block;
+}
+
+.toolbartext {
+    width: 60vw;
+    color: #ffffff;
+    font-size: 3vh;
+    padding-top: 1vh;
+    display: inline-block;
+    text-align: center;
+}
+
+form {
+    padding-top: 5vh;
+}
+
+.field {
+    height: 5vh;
+    width: 30vw;
+    padding-right: 5vw;
+    color: white;
+    font-size: 2.5vh;
+    text-align: end;
+    display: inline-block;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+input {
+    height: 3vh;
+    width: 55vw;
+    margin-bottom: 3vh;
+    font-size: 2.5vh;
+    display: inline-block;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.submit {
+    height: 5vh;
+    width: 50vw;
+    margin-top: 6vh;
+    background: #ffffff;
+    color: #0099ff;
+    font-size: 2.5vh;
+    font-weight: bold;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}

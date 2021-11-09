@@ -1,36 +1,40 @@
 .header {
     height: 10vh;
     width: 100vw;
-    padding-top: 2vh;
+    min-width: 350px;
+    min-height: 55px;
+    padding-top: 3vh;
     background: #0099ff;
     color: #ffffff;
     text-align: center;
-    font-size: 6vh;
+    font-size: 4vh;
     font-family: cursive;
 }
 
 .background {
-    height: 90vh;
+    height: 95vh;
     width: 100vw;
+    min-width: 350px;
+    min-height: 600px;
     background: #0055b6;
+    text-align: center;
 }
 
 img {
     height: 30vh;
     width: 90vw;
     margin-top: 8vh;
-    padding-left: 5vw;
-    padding-right: 5vw;
 }
 
 button {
     height: 8.5vh;
     width: 80vw;
+    min-width: 330px;
+    min-height: 40px;
     margin-top: 6vh;
-    margin-left: 10vw;
     background: #ffffff;
     color: #0099ff;
-    font-size: 3.5vh;
+    font-size: 2.5vh;
     font-weight: bold;
     font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
