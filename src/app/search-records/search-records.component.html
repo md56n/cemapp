@@ -3,15 +3,26 @@
 </div>
 <div class="background">
     <div class="toolbar">
-        <button class="toolbarbutton"><img src='/src/assets/leftarrow.png'></button>
-        <span class="toolbartext">Search Cemetery Records</span>
+        <button class="toolbarbutton" (click)="back()">
+            <img class="arrow" src='../assets/leftarrow.png'>
+        </button>
+        <div class="text">Search Cemetery Records</div>
     </div>
     <form [formGroup]="searchForm" (ngSubmit)="search()">
         <div class="field">First Name: </div><input formControlName="firstName"  placeholder="Enter first name"/>
         <div class="field">Middle Name: </div><input formControlName="middleName"  placeholder="Enter middle name"/>
         <div class="field">Last Name: </div><input formControlName="lastName"  placeholder="Enter last name">
-        <div class="field">Birth Year: </div><input formControlName="birthYear"  placeholder="Enter birth year">
         <div class="field">Death Year: </div><input formControlName="deathYear"  placeholder="Enter death year">
+        <div class="field">Gender: </div>
+        <select (change)="changeGender($event)" formControlName="gender">
+            <!-- <option value="">Choose gender</option> -->
+            <option *ngFor="let g of genders" [ngValue]="g">{{g}}</option>
+         </select>
+         <div class="field">Race: </div>
+         <select (change)="changeRace($event)" formControlName="race">
+            <!-- <option value="">Choose race</option> -->
+            <option *ngFor="let r of races" [ngValue]="r">{{r}}</option>
+         </select>
         <button type="submit" class="submit">Submit</button>
     </form>
 </div>
