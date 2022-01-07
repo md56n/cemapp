@@ -400,6 +400,23 @@
 	},
 	{
 		"Last": Crumpton,
-		"Title": .,', '"Suffix": .,', '"First": Charles,', '"Middle": .,', '"Sex": M,', '"Race": B,', '"Death": .,', '"AgeYears": .,', '"AgeMonths": .,', '"AgeDays": .,', '"Grave": 1,', '"Lot": 11,', '"Block": 4,', '"Burial": 23 Aug 1909,', '"Comments": .,', '"Permit": 12050,', '"Int": 38,', '"Baby": .
+		"Title": .,
+		"Suffix": .,
+		"First": Charles,
+		"Middle": .,
+		"Sex": M,
+		"Race": B,
+		"Death": .,
+		"AgeYears": .,
+		"AgeMonths": .,
+		"AgeDays": .,
+		"Grave": 1,
+		"Lot": 11,
+		"Block": 4,
+		"Burial": 23 Aug 1909,
+		"Comments": .,
+		"Permit": 12050,
+		"Int": 38,
+		"Baby": .
 	}
 ]
