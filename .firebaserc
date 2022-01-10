@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "highland-cem": {
+      "hosting": {
+        "cemapp": [
+          "highland-cem"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "highland-cem"
+  }
+}
