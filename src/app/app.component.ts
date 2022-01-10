@@ -8,7 +8,21 @@ import { AngularFireDatabase } from '@angular/fire/compat/database';
 })
 export class AppComponent {
 
-  constructor(private db: AngularFireDatabase) {
+  constructor(
+    private db: AngularFireDatabase
+  ){ }
 
+  ngOnInit(): void {
+    this.saveData("test");
+  }
+
+  saveData(inputValue: string) {
+    const ref = this.db.list("items");
+
+    ref.push(inputValue).then((res) => {
+      console.log(res);
+    }).catch((error) => {
+      console.error(error);
+    })
   }
 }
