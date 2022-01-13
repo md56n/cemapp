@@ -62,25 +62,41 @@ export class SearchRecordsComponent implements OnInit {
   }
 
   search() {
-    for(let i=0; i<this.home.tempArr.length-1; i++) {
-      if(this.home.tempArr[i].FirstName.toUpperCase().includes(this.searchForm.value.firstName.toUpperCase())) {
+    // skip first name search
+    if(this.searchForm.value.firstName == null) {
+      for(let i=0; i<this.home.tempArr.length-1; i++) {
         this.nums.push(this.home.tempArr[i].Int);
         this.searches.push(this.home.tempArr[i]);
-        for(let j=0; j<this.home.tempArr2.length-1; j++) {
-          if(this.home.tempArr2[j].Int == this.home.tempArr[i].Int || this.home.tempArr2[j].Permit == this.home.tempArr[i].Permit) {
-            this.searches.push(this.home.tempArr2[j]);
+      }
+      for(let i=0; i<this.home.tempArr2.length-1; i++) {
+        if(!this.nums.includes(this.home.tempArr2[i].Int)) {
+          this.nums.push(this.home.tempArr2[i].Int);
+        }
+        this.searches.push(this.home.tempArr2[i]);
+      }
+    } else {
+      // search cem records for first name and linked int records
+      for(let i=0; i<this.home.tempArr.length-1; i++) {
+        if(this.home.tempArr[i].FirstName.toUpperCase().includes(this.searchForm.value.firstName.toUpperCase()) || this.home.tempArr[i].FirstName=='') {
+          this.nums.push(this.home.tempArr[i].Int);
+          this.searches.push(this.home.tempArr[i]);
+          for(let j=0; j<this.home.tempArr2.length-1; j++) {
+            if(this.home.tempArr2[j].Int == this.home.tempArr[i].Int || this.home.tempArr2[j].Permit == this.home.tempArr[i].Permit) {
+              this.searches.push(this.home.tempArr2[j]);
+              this.nums.push(this.home.tempArr2[j].Int)
+            }
           }
         }
       }
-    }
-    for(let i=0; i<this.home.tempArr2.length-1; i++) {
-      if(this.home.tempArr2[i].First.toUpperCase().includes(this.searchForm.value.firstName.toUpperCase())) {
-        if(!this.searches.includes(this.home.tempArr2[i])) {
+      // search int records for first name and linked cem records
+      for(let i=0; i<this.home.tempArr2.length-1; i++) {
+        if(this.home.tempArr2[i].First.toUpperCase().includes(this.searchForm.value.firstName.toUpperCase()) && !this.nums.includes(this.home.tempArr[i].Int)) {
           this.nums.push(this.home.tempArr2[i].Int);
           this.searches.push(this.home.tempArr2[i]);
           for(let j=0; j<this.home.tempArr.length-1; j++) {
-            if(this.home.tempArr2[j].Int == this.home.tempArr[i].Int || this.home.tempArr2[j].Permit == this.home.tempArr[i].Permit) {
+            if(this.home.tempArr2[i].Int == this.home.tempArr[j].Int || this.home.tempArr2[i].Permit == this.home.tempArr[j].Permit) {
               this.searches.push(this.home.tempArr[j]);
+              this.nums.push(this.home.tempArr[j].Int)
             }
           }
         }
@@ -91,6 +107,8 @@ export class SearchRecordsComponent implements OnInit {
 
   backToSearch() {
     this.searched = false;
+    this.searches = [];
+    this.nums = [];
   }
 
   select(result: any) {

@@ -165,6 +165,5 @@ export class AppComponent {
 }
 
 
-// search should include blanks
 // button should open page with record details
 // more search filters
