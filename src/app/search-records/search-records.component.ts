@@ -118,17 +118,16 @@ export class SearchRecordsComponent implements OnInit {
       this.searches = tempsearched;
     }
     // if death year searched
-    // wont work until death format changed
-    // if(this.searchForm.value.deathYear != null) {
-    //   let tempsearched = [];
-    //   for(let i=0; i<this.searches.length; i++) {
-    //     console.log(this.searches[i].DateOfDeath, this.searchForm.value.deathYear);
-    //     if(this.searches[i].DateOfDeath.includes(this.searchForm.value.deathYear.toString()) || this.searches[i].DateOfDeath=='') {
-    //       tempsearched.push(this.searches[i]);
-    //     }
-    //   }
-    //   this.searches = tempsearched;
-    // }
+    if(this.searchForm.value.deathYear != null) {
+      let tempsearched = [];
+      for(let i=0; i<this.searches.length; i++) {
+        console.log(this.searches[i].DateOfDeath, this.searchForm.value.deathYear);
+        if(this.searches[i].DateOfDeath.includes(this.searchForm.value.deathYear.toString()) || this.searches[i].DateOfDeath=='') {
+          tempsearched.push(this.searches[i]);
+        }
+      }
+      this.searches = tempsearched;
+    }
     // if gender searched
     if(this.searchForm.value.gender != null) {
       let tempsearched = [];
