@@ -1,7 +1,7 @@
 <div class="header">
     <span>Highland Cemetery</span>
 </div>
-<div class="background">
+<div class="background" *ngIf="!searched">
     <div class="toolbar">
         <button class="toolbarbutton" (click)="back()">
             <img class="arrow" src='../assets/leftarrow.png'>
@@ -10,19 +10,39 @@
     </div>
     <form [formGroup]="searchForm" (ngSubmit)="search()">
         <div class="field">First Name: </div><input formControlName="firstName"  placeholder="Enter first name"/>
-        <div class="field">Middle Name: </div><input formControlName="middleName"  placeholder="Enter middle name"/>
+        <!-- <div class="field">Middle Name: </div><input formControlName="middleName"  placeholder="Enter middle name"/>
         <div class="field">Last Name: </div><input formControlName="lastName"  placeholder="Enter last name">
         <div class="field">Death Year: </div><input formControlName="deathYear"  placeholder="Enter death year">
-        <div class="field">Gender: </div>
-        <select (change)="changeGender($event)" formControlName="gender">
+        <div class="field">Gender: </div> -->
+        <!-- <select (change)="changeGender($event)" formControlName="gender"> -->
             <!-- <option value="">Choose gender</option> -->
-            <option *ngFor="let g of genders" [ngValue]="g">{{g}}</option>
-         </select>
-         <div class="field">Race: </div>
-         <select (change)="changeRace($event)" formControlName="race">
+            <!-- <option *ngFor="let g of genders" [ngValue]="g">{{g}}</option> -->
+         <!-- </select> -->
+         <!-- <div class="field">Race: </div> -->
+         <!-- <select (change)="changeRace($event)" formControlName="race"> -->
             <!-- <option value="">Choose race</option> -->
-            <option *ngFor="let r of races" [ngValue]="r">{{r}}</option>
-         </select>
+            <!-- <option *ngFor="let r of races" [ngValue]="r">{{r}}</option> -->
+         <!-- </select> -->
         <button type="submit" class="submit">Submit</button>
     </form>
+</div>
+<div class="background" *ngIf="searched">
+    <div class="toolbar">
+        <button class="toolbarbutton" (click)="backToSearch()">
+            <img class="arrow" src='../assets/leftarrow.png'>
+        </button>
+        <div class="text">Search Results</div>
+    </div>
+    <div *ngFor="let result of searches">
+        <div class="cards" *ngIf="result.RecordType=='Cemetery'" (click)="select(result)">
+            <div class="name">Name: {{result.Title}} {{result.FirstName}} {{result.Middle}} {{result.Last}} {{result.Suffix}}</div>
+            <div class="title">Date of Death: {{result.DateOfDeath}}</div>
+            <div class="title">Cemetery Record</div>
+        </div>
+        <div class="cards" *ngIf="result.RecordType=='Internment'" (click)="select(result)">
+            <div class="name">Name: {{result.First}} {{result.Last}}</div>
+            <div class="title">Date of Death: {{result.DateOfDeath}}</div>
+            <div class="title">Internment Record</div>
+        </div>
+    </div>
 </div>
