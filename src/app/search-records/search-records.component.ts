@@ -142,11 +142,11 @@ export class SearchRecordsComponent implements OnInit {
       let tempsearched = [];
       for(let i=0; i<this.searches.length; i++) {
         if(this.searches[i].RecordType == 'Cemetery') {
-          if(this.searchForm.value.race[0] == this.searches[i].Race || this.searches[i].Race=='') {
+          if(this.searches[i].Race.toUpperCase().includes(this.searchForm.value.race[0]) || this.searches[i].Race=='') {
             tempsearched.push(this.searches[i]);
           }
         } else {
-          if(this.searchForm.value.race[0] == this.searches[i].Color || this.searches[i].Color=='') {
+          if(this.searches[i].Color.toUpperCase().includes(this.searchForm.value.race[0]) || this.searches[i].Race=='') {
             tempsearched.push(this.searches[i]);
           }
         }
