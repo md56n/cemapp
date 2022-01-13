@@ -164,6 +164,6 @@ export class AppComponent {
   // }
 }
 
-
+// searches include unknown man/baby etc
 // button should open page with record details
 // more search filters
