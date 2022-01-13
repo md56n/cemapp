@@ -131,8 +131,24 @@ export class SearchRecordsComponent implements OnInit {
     if(this.searchForm.value.gender != null) {
       let tempsearched = [];
       for(let i=0; i<this.searches.length; i++) {
-        if(this.searchForm.value.gender[0] == this.searches[i].Sex) {
+        if(this.searchForm.value.gender[0] == this.searches[i].Sex || this.searches[i].Sex=='') {
           tempsearched.push(this.searches[i]);
+        }
+      }
+      this.searches = tempsearched;
+    }
+    // if race searched
+    if(this.searchForm.value.race != null) {
+      let tempsearched = [];
+      for(let i=0; i<this.searches.length; i++) {
+        if(this.searches[i].RecordType == 'Cemetery') {
+          if(this.searchForm.value.race[0] == this.searches[i].Race || this.searches[i].Race=='') {
+            tempsearched.push(this.searches[i]);
+          }
+        } else {
+          if(this.searchForm.value.race[0] == this.searches[i].Color || this.searches[i].Color=='') {
+            tempsearched.push(this.searches[i]);
+          }
         }
       }
       this.searches = tempsearched;

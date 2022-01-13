@@ -18,11 +18,11 @@
             <option value="">Choose gender</option>
             <option *ngFor="let g of genders" [ngValue]="g">{{g}}</option>
          </select>
-         <!-- <div class="field">Race: </div> -->
-         <!-- <select (change)="changeRace($event)" formControlName="race"> -->
-            <!-- <option value="">Choose race</option> -->
-            <!-- <option *ngFor="let r of races" [ngValue]="r">{{r}}</option> -->
-         <!-- </select> -->
+         <div class="field">Race: </div>
+         <select (change)="changeRace($event)" formControlName="race">
+            <option value="">Choose race</option>
+            <option *ngFor="let r of races" [ngValue]="r">{{r}}</option>
+         </select>
         <button type="submit" [disabled]="isValid(searchForm.value.deathYear)" class="submit">Submit</button>
     </form>
 </div>
