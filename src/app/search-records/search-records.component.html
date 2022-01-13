@@ -26,7 +26,7 @@
         <button type="submit" [disabled]="isValid(searchForm.value.deathYear)" class="submit">Submit</button>
     </form>
 </div>
-<div class="background" *ngIf="searched">
+<div class="background" *ngIf="searched && !showResult">
     <div class="toolbar">
         <button class="toolbarbutton" (click)="backToSearch()">
             <img class="arrow" src='../assets/leftarrow.png'>
@@ -44,5 +44,47 @@
             <div class="title">Date of Death: {{result.DateOfDeath}}</div>
             <div class="title">Internment Record</div>
         </div>
+    </div>
+</div>
+<div class="background" *ngIf="showResult">
+    <div class="toolbar">
+        <button class="toolbarbutton" (click)="backtosearch()">
+            <img class="arrow" src='../assets/leftarrow.png'>
+        </button>
+        <div class="text">{{result.RecordType}} Record</div>
+    </div>
+    <div class="box" *ngIf="result.RecordType=='Cemetery'">
+        <div class="titles">Name: {{result.Title}} {{result.FirstName}} {{result.Middle}} {{result.Last}} {{result.Suffix}}</div>
+        <div class="titles">Sex: {{result.Sex}}</div>
+        <div class="titles">Race: {{result.Race}}</div>
+        <div class="titles">Date of Death: {{result.DateOfDeath}}</div>
+        <div class="titles">Age: {{result.Age}} {{result.Months}} {{result.Days}}</div>
+        <div class="titles">Grave {{result.Grave}} Lot {{result.Lot}} Block {{result.Block}}</div>
+        <div class="titles">Burial Date: {{result.BurialDate}}</div>
+        <div class="titles">Permit Number: {{result.Permit}}</div>
+        <div class="titles">Internment Number: {{result.Int}}</div>
+        <div class="titles" *ngIf="result.Baby=='*'">Baby</div>
+        <div class="titles">Comments: {{result.Comments}}</div>
+    </div>
+    <div class="box" *ngIf="result.RecordType=='Internment'">
+        <div class="titles">Name: {{result.First}} {{result.Last}}</div>
+        <div class="titles">Sex: {{result.Sex}}</div>
+        <div class="titles">Race: {{result.Color}}</div>
+        <div class="titles">Residence: {{result.Residence}}</div>
+        <div class="titles">Date of Death: {{result.DateOfDeath}}</div>
+        <div class="titles">Place of Death: {{result.PlaceOfDeath}}</div>
+        <div class="titles">Age: {{result.Years}} {{result.Months}} {{result.Days}}</div>
+        <div class="titles">Attending Physician: {{result.AttendingPhysician}}</div>
+        <div class="titles">Cause of Death: {{result.CauseOfDeath}}</div>
+        <div class="titles">Undertaker: {{result.Undertaker}}</div>
+        <div class="titles">Catacomb Number: {{result.Catacomb}}</div>
+        <div class="titles">Date Received: {{result.DateReceived}}</div>
+        <div class="titles">Date Removed: {{result.Removed}}</div>
+        <div class="titles">Grave {{result.Grave}} Lot {{result.Lot}} Block {{result.Block}}</div>
+        <div class="titles">Burial Date: {{result.Date}}</div>
+        <div class="titles">Permit Number: {{result.Permit}}</div>
+        <div class="titles">Internment Number: {{result.Int}}</div>
+        <div class="titles">Relative or Friend: {{result.RelativeOrFriend}}</div>
+        <div class="titles">Comments: {{result.Remarks}}</div>
     </div>
 </div>

@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { FormControl, FormGroup } from '@angular/forms';
 import { Router } from '@angular/router';
-import { AppComponent, CemModel } from '../app.component';
+import { AppComponent } from '../app.component';
 
 @Component({
   selector: 'app-search-records',
@@ -21,6 +21,8 @@ export class SearchRecordsComponent implements OnInit {
   races = ['Black', 'Mexican', 'White'];
   searches: any[] = [];
   searched = false;
+  showResult = false;
+  result: any;
 
   constructor(private router: Router, private home: AppComponent) { }
 
@@ -170,7 +172,8 @@ export class SearchRecordsComponent implements OnInit {
   }
 
   select(result: any) {
-    console.log(result);
+    this.result = result;
+    this.showResult = true;
   }
 
   isValid(input: any):boolean {
@@ -181,5 +184,9 @@ export class SearchRecordsComponent implements OnInit {
       return false
     }
     return true
+  }
+
+  backtosearch() {
+    this.showResult = false;
   }
 }
