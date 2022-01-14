@@ -87,4 +87,9 @@
         <div class="titles">Relative or Friend: {{result.RelativeOrFriend}}</div>
         <div class="titles">Comments: {{result.Remarks}}</div>
     </div>
+    <div *ngIf="result.RecordType=='Internment'">
+        <div *ngIf="result.Photo!='.'">
+            <img class="photo" src='../assets/{{result.Int}}.jpg'>
+        </div>
+    </div>
 </div>

@@ -121,7 +121,6 @@ export class SearchRecordsComponent implements OnInit {
     if(this.searchForm.value.deathYear != null) {
       let tempsearched = [];
       for(let i=0; i<this.searches.length; i++) {
-        console.log(this.searches[i].DateOfDeath, this.searchForm.value.deathYear);
         if(this.searches[i].DateOfDeath.includes(this.searchForm.value.deathYear.toString()) || this.searches[i].DateOfDeath=='') {
           tempsearched.push(this.searches[i]);
         }

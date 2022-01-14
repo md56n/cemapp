@@ -132,3 +132,8 @@ select {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: start;
 }
+
+.photo {
+    height: 90%;
+    width: 90%;
+}

@@ -50,6 +50,7 @@ export interface IntModel {
   Date: string;
   RelativeOrFriend: string;
   Remarks: string;
+  Photo: string;
   RecordType: string;
 }
 
@@ -143,6 +144,7 @@ export class AppComponent {
             Date: newtemp[i][22],
             RelativeOrFriend: newtemp[i][23],
             Remarks: newtemp[i][24],
+            Photo: newtemp[i][25],
             RecordType: 'Internment'
           });
         }
@@ -165,5 +167,5 @@ export class AppComponent {
 }
 
 // searches include unknown man/baby etc
-// button should open page with record details
 // check result if baby age has weeks/months
+// results coming back twice
