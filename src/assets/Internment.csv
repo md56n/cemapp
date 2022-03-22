@@ -1,62 +1,113 @@
-Int #,Year,First,Last,Sex,Color,Residence ,Place of Death,Date of Death,Years,Months,Days,Attending Physician ,Cause of Death,Undertaker,Permit #,Catacomb #,Date Received ,Removed,Grave,Lot,Block,Date,Relative or Friend,Remarks
-826,1912,Viola,Wright,F,Bl,.,.,19 Oct 1912,.,10,.,.,Pertussis,A. T. Moore,3635,.,.,.,2nd Row Baby,175,1,21 Oct 1912,Grandmother Mrs Cravford,.
-827,1912,Edward,Nelson,M,Bl,2420 Woodland,Same,22 Oct 1912,30,.,.,.,Pulmonary Tuberculosis,Watkins Bros,None,.,.,.,9,180,1,23 Oct 1912,Mother Mrs Nelson,.
-828,1912,Martin,Magens,M,Bl,2016 Grove,Same ,24 Oct 1912,5,.,.,.,Chorea,Watkins Bros,2706,.,.,.,2nd Row Baby,175,1,26 Oct 1912,Chas Magens Father,.
-829,1912,Laura,Taylor,F,Bl,2709 Bell St,Same,25 Oct 1912,75,.,.,.,Chronic Nephritis,Watkins Bros,3704,.,.,.,3,73,4,27 Oct 1912,Son Adolphis Bryant ,Single grave section
-830,1912,John,Doring,M,Bl,1900 E 19th St,Same,16 Oct 1912,55,.,.,.,Pulmonary Tuberculosis,A. T. Moore,3652,.,.,.,2,190,1,28 Oct 1912,.,.
-831,1912,Donie,Proctor,F,Bl,.,.,26 Oct 1912,31,.,.,.,Pulmonary Tuberculosis,Watkins Bros,3705,.,.,.,1,190,1,29 Oct 1912,.,.
-832,1912,Anna,Johnson,F,Bl,615 E 10th St,Genl Hospital,28 Oct 1912,22,.,.,.,Rupture + Hemorrhage,C. H. Countee,3743,.,.,.,8,59,4,31 Oct 1912,Mr Johnson Husband,Single grave section
-833,1912,John,Johnson,M,Bl,.,Genl Hospital,23 Oct 1912,34,.,.,.,Inomatic Rheumatism,C. H. Countee,3744,.,.,.,Strangers,Rest,.,31 Oct 1912,.,.
-834,1912,Millier,McClendon,M,Bl,1314 Highland,Same,26 Oct 1912,.,4 weeks,.,.,Cholera Infantum,Watkins Bros,3745,.,.,.,Strangers,Rest,.,31 Oct 1912,.,.
-835,1912,George,Soman,M,Bl,1308 Highland,Same,30 Oct 1912,30,.,.,.,Lobar Pneumonia,A. T. Moore,3746,.,.,.,5,126,6,1 Nov 1912,Mr Soman Father,Balance of lot - Reserved
-836,1912,Fannie Mae,Wright,F,B,560 Troost,Same,30 Oct 1912,9,.,.,.,Oedema of Lungs,K.C. Und Co,3777,.,.,.,1,58,4,3 Nov 1912,Wm Wright Father,15.00 single grave sec
-837,1912,Rubin,Austin,M,Bl,1712 Tracy,Same,2 Nov 1912,54,.,.,.,Acute Nephritis,Watkins Bros,3797,.,.,.,7,58,4,4 Nov 1912,Julia Jones 711 Everett KCK,$15.00 single grave sec
-838,1912,Nemona,Beverly,F,Bl,1317 Kensington,Same,3 Nov 1912,24,.,.,.,Pulmonary Tuberculosis,Watkins Bros,3798,.,.,.,EXT7,72,4,5 Nov 1912,Mother Pricilla Jackson,15.00 single grave sec
-839,1912,Arthur,Moore,M,Bl,2443 Michigan,Same,4 Nov 1912,26,.,.,.,Pneumonia,Watkins Bros,3808,.,.,.,6,74,4,6 Nov 1912,Laura Moore Mother,Single grave sec
-840,1912,Samuel,Bland,M,Bl,.,Genl Hospital,23 Oct 1912,54,.,.,.,Syphilis,Watkins Bros,3802,.,.,.,Strangers,Rest,.,6 Nov 1912,.,.
-841,1912,Baby,Clymer,F,Bl,.,.,31 Oct 1912,0,.,.,.,Still Born,Watkins Bros,3803,.,.,.,Strangers,Rest,.,6 Nov 1912,Shipped in for Burial,.
-842,1912,Baby,Merriweather,M,Bl,1007 Pacific,Same,5 Nov 1912,0,.,.,.,Still Born,K.C. Und Co,to come,.,.,.,Strangers,Rest,.,6 Nov 1912,.,.
-843,1912,Thomas,Jones,M,Bl,1106 Highland,Same,13 Nov 1912,44,.,.,.,Diabetes Mellitus,A. T. Moore,3913,.,.,.,12,73,4,15 Nov 1912,Mrs Dolly Jones Wife,$15.00 single grave sec
-844,1912,Alfred H,Smith,M,Bl,2307 Highland,Jefferson City,13 Nov 1912,30,.,.,Dr A H Myerdick,Tubsolocue Peritoneum,C. H. Countee,no number lic no 327,.,.,.,11,73,4,18 Nov 1912,Dianah Smith Mother,No chk 1500 single grave sec shipped in for Burial
-845,1912,Jennie,Houley,F,Bl,1521 Virginia,Chicago,15 Nov 1912,35,.,.,.,Aortic Regingation,Watkins Bros,3971,.,.,.,10,73,4,20 Nov 1912,Brother Wm Hauley,$1500 single grave sec Shipped in for burial
-846,1912,James,Searcey,M,Bl,576 Troost ave,Same,.,58,.,.,.,.,Kans City Und Co,to come,.,.,.,7,179,1,20 Nov 1912,Sister Lena Hence,10.00 single grave sec
-847,1912,Julia,White,F,Bl,1511 Belvecleve,Same,20 Nov 1912,52,.,.,.,Acute Nephritis,Kans City Und Co,3986,.,.,.,5,74,4,22 Nov 1912,.,$1500 single grave sec
-848,1912,David,Fields,M,Bl,721 Charlotte,Same,22 Nov 1912,26,.,.,.,Pulmonary Tuberculosis,A. T. Moore,4019,.,.,.,2,73,4,24 Nov 1912,.,1500 single grave sec
-849,1912,George,Foster,M,Bl,.,.,16 Nov 1912,46,.,.,.,Myocarditis Acute Insuff,Watkins Bros,3992,.,.,.,12,180,1,24 Nov 1912,.,$10.00 single grave sec
-850,1912,Baby,Moore,F,Bl,2228 Michigan,Same,22 Nov 1912,0,.,.,.,Still Born,Watkins Bros,4018,.,.,.,Strangers,Rest,.,24 Nov 1912,.,.
-851,1912,Daisy,Snell,F,Bl,815 Pacific,Same,23 Nov 1912,34,.,.,.,Lobar Pneumonia,Watkins Bros,4052,.,.,.,4,74,4,27 Nov 1912,.,single grave sec
-852,1912,Lottie,Frazier,F,Bl,601 Harrison St,Same,26 Nov 1912,49,.,.,.,Chronic Nephritis,Watkins Bros,4080,.,.,.,1,73,4,30 Nov 1912,Mrs Nankins,$15.00 single grave sec
-853,1912,Hazel,Davis,F,Bl,2016 Bales ave,Old Genl Hosp,29 Nov 1912,17,.,.,.,Pulmonary Tuberculosis,C. H. Countee,4091,.,.,.,5,81,4,1 Dec 1912,Mrs Haniford,1500 single grave sec
-854,1912,Katie,Wilson,F,Bl,616 Cottage Lane,Same,29 Nov 1912,0,.,.,.,Still Born,Leo J. Stewart,4090,.,.,.,2nd Row Baby Sec,175,1,2 Dec 1912,Father Mr Wilson,$1500 Baby Sec
-855,1912,James,Langston,M,Bl,1326 E 16 St,Same,1 Dec 1912,34,.,.,.,Rupture of Aortic Anemupme,Watkins Bros,4112,.,.,.,7,124,6,3 Dec 1912,.,2000 single grave sec
-856,1912,Henry,Barton,M,Bl,621 Wornall Road,Same,30 Nov 1912,57,.,.,.,Lobar Pneumonia,R. V. Lindsey,4113,.,.,.,6,189,1,3 Dec 1912,Mimie Baker 320 W 65 St,1000 single grave sec
-857,1912,Ollie,Jackson,M,Bl,1735 Lydia,Same,25 Nov 1912,35,.,.,.,Tuberculosis of Lungs,Watkins Bros,4111,.,.,.,Strangers,Rest,.,3 Dec 1912,.,.
-858,1912,A. E.,Jenkins,M,Bl,1324 Vine St,Same,2 Dec 1912,50,.,.,.,Myocarditis,C. H. Countee,4144,.,.,.,6,142,6,5 Dec 1912,Wife Mrs A E Jenkins,Graves 3-4-5 Reserved
-859,1912,Richard,Wevels,M,.,.,Genl Hospital,4 Dec 1912,40,.,.,.,Epidemic Cerebrospinal Meningitis,Watkins Bros,4160,.,.,.,Strangers,Rest,.,10 Dec 1912,.,.
-860,1912,Saw,Anthony,M,Bl,651 Grand,Same,5 Dec 1912,50,.,.,.,Spinal Meningitis,Watkins Bros,4159,.,.,.,Strangers,Rest,.,10 Dec 1912,.,.
-861,1912,Clay,Marshall,M,Bl,.,Genl Hospital,21 Nov 1912,69,.,.,.,Pulmonary Tuberculosis,Watkins Bros,4158,.,.,.,Strangers,Rest,.,10 Dec 1912,.,500 grave sec
-862,1912,Mary,Montgomery,F,Bl,552 Troost,Same,8 Dec 1912,50,.,.,.,Chronic Nephritis,C. H. Countee,4190,.,.,.,3,74,4,10 Dec 1912,.,15.00 single grave sec
-863,1912,Robert,Lovejoy,M,Bl,1523 E 13 St,Same,9 Dec 1912,30,.,.,.,Pulmonary Tuberculosis,Watkins Bros,4201,.,.,.,4,81,4,11 Dec 1912,Mother Rosie Lovejoy,1500 single grave sec
-864,1912,Mollie,Brooks,F,Bl,2112 West Prosp,Same,9 Dec 1912,63,.,.,.,Nephritis,Watkins Bros,4202,.,.,.,10,37,1,12 Dec 1912,H. B. Brooks Hus,1500 single grave sec Transferred from Grave 5
-865,1912,Lafayette,Rulford,M,Bl,.,.,23 Dec 1912,43,.,.,.,Nephritis,Watkins Bros,4215,.,.,.,Strangers,Rest,.,14 Dec 1912,.,300 Grave sec
-866,1912,Henry B,Kernes,M,Bl,815 Pacific,Same,7 Dec 1912,64,.,.,.,Mitral Insufficiency,Watkins Bros,4238,.,.,.,12,58,4,15 Dec 1912,.,1500 single grave sec
-867,1912,Edward,McCue,M,Bl,2433 Woodland,Same,11 Dec 1912,51,.,.,.,Intestinal Inflammation of Liver,Watkins Bros,4237,.,.,.,5,37,1,15 Dec 1912,.,1500 single grave sec
-868,1912,James,Carter,M,Bl,1707 E 13-12,Muskogee Oka,8 Dec 1912,49,.,.,.,Pulmonary Phthisis,Kans City Und Co,4248,.,.,.,9,73,4,15 Dec 1912,Wife Sallie Carter,15.00 single grave sec
-869,1912,Grace,Johnson,F,Bl,1716 17th St,Genl Hospital,13 Dec 1912,19,.,.,.,Panhysterectomy,A. T. Moore,4261,.,.,.,9,27,1,16 Dec 1912,Mr Johnson Father,1500 single grave sec
-870,1912,Baby,Armstrong,M,Bl,1243 Penn (near),Same,10 Nov 1912,0,.,.,.,Still Born,A. T. Moore,4085,.,.,.,Strangers,Rest,.,16 Dec 1912,.,2.00 B Sec
-871,1912,James,Hale,M,Bl,3500 Broadway,Same,15 Dec 1912,.,14,.,.,Appendicitis,A. T. Moore,4270,.,.,.,2nd Row Baby Sec,33,1,17 Dec 1912,Cora Hale (Mother),10.00 Baby Sec
-872,1912,Baby,Davis,F,Bl,1717 E 18th St,Same,16 Dec 1912,.,8,.,.,Whooping Cough,Watkins Bros,4290,.,.,.,2nd Row Baby Sec,175,1,18 Dec 1912,Mother Mrs Davis,500 Baby sec
-873,1912,Sylvester,Page,M,Bl,407 Lydia,Same,17 Dec 1912,.,1,.,.,Enteritis,Kans City Und Co,4323,.,.,.,Strangers,Rest,.,20 Dec 1912,.,2.00 Baby sec
-874,1912,Anna,Wenfrey,F,Bl,1903 E 17 St,Same,20 Dec 1912,6,.,.,.,Acute Pneumonia,A. T. Moore,4344,.,.,.,12,181,1,22 Dec 1912,Daughter,1000 single grave sec
-875,1912,Dorthy Maie,Hardy,F,Bl,1216 E 19th St,Same,21 Dec 1912,.,8,.,.,Capillary Bronchitis,A. T. Moore,4343,.,.,.,EX6,73,4,22 Dec 1912,Grandmother Mairy Hardy,1000 Baby sec
-876,1912,Robert,Guy,M,Bl,1906 Vine St,Same,21 Dec 1912,46,.,.,.,Lobar Pneumonia,Watkins Bros,4356,.,.,.,2,74,4,23 Dec 1912,Wife Mrs Guy,$1500 single grave sec
-877,1912,Estella,Garrison,F,Bl,1914 Tracy,Same,24 Dec 1912,20,.,.,.,Pneumonia,A. T. Moore,4395,.,.,.,8,73,4,26 Dec 1912,Ella Garrison Mother,1500 single grave sec
-878,1912,Granison,Walls,M,Bl,1305 Vine St,Same,24 Dec 1912,32,.,.,.,Pulmonary Tuberculosis,Watkins Bros,4414,.,.,.,11,58,4,29 Dec 1912,.,1500 single grave sec
-879,1912,Harriet,Goudlou,F,Bl,2505 Woodland,Same,26 Dec 1912,72,.,.,.,Mitral Insufficiency,A. T. Moore,4421,.,.,.,1,74,4,29 Dec 1912,.,1500 single grave sec
-880,1912,Irma,McCullough,M,Bl,1812 Flora Ave,Same,28 Dec 1912,.,7,16,.,Capillary Bronchitis,Watkins Bros,4448,.,.,.,2nd Row Baby Sec,175,1,30 Dec 1912,Parents,500 Baby sec
-881,1913,Unknown,Baby,.,Bl,.,.,20 Dec 1912,.,.,.,.,Fathis,Kans City Und Co,4368,.,.,.,Strangers,Rest,.,3 Jan 1913,.,2.00 Baby sec
-882,1913,Nelson,Watson,M,Bl,543 Lydia,Same,31 Dec 1912,55,.,.,.,Lobar Pneumonia,Kans City Und Co,26,.,.,.,10,58,4,3 Jan 1913,Lizzie Watson (Wife),$15.00 single grave sec
-884,1913,George,Breedlove,M,Bl,1402 E. 19th St,.,30 Dec 1912,53,.,.,.,Epidemic Mengitis,Watkins Bros,48,.,.,.,Strangers,Rest,.,4 Jan 1913,.,300 Grave sec
-889,1913,Louella,Johnson,F,Bl,.,.,31 Dec 1912,.,.,25,.,Lobar Pneumonia,C. H. Countee,72,.,.,.,Strangers,Rest,.,10 Jan 1913,.,200 Baby grave
-891,1913,Richard,Sarrell,M,Bl,.,.,19 Dec 1912,32,.,.,.,Tubercular deadensalion of Kidneys,Watkins Bros,110,.,.,.,Strangers,Rest,.,13 Jan 1913,.,300 grave sec
-892,1913,Williams,Gus,M,Bl,.,.,24 Dec 1912,45,.,.,.,Tuberculosis,Watkins Bros,113,.,.,.,Strangers,Rest,.,13 Jan 1913,.,300 grave sec
+Int #	Year	First	Last	Sex	Color	Residence 	Place of Death	Date of Death	Years	Months	Days	Attending Physician 	Cause of Death	Undertaker	Permit #	Catacomb #	Date Received 	Removed	Grave	Lot	Block	Date	Relative or Friend	Remarks
+826	1912	Viola	Wright	F	Bl	.	.	19 Oct 1912	.	10	.	.	Pertussis	A. T. Moore	3635	.	.	.	2nd Row Baby	175	1	21 Oct 1912	Grandmother Mrs Cravford	.
+827	1912	Edward	Nelson	M	Bl	2420 Woodland	Same	22 Oct 1912	30	.	.	.	Pulmonary Tuberculosis	Watkins Bros	None	.	.	.	9	180	1	23 Oct 1912	Mother Mrs Nelson	.
+828	1912	Martin	Magens	M	Bl	2016 Grove	Same 	24 Oct 1912	5	.	.	.	Chorea	Watkins Bros	2706	.	.	.	2nd Row Baby	175	1	26 Oct 1912	Chas Magens Father	.
+829	1912	Laura	Taylor	F	Bl	2709 Bell St	Same	25 Oct 1912	75	.	.	.	Chronic Nephritis	Watkins Bros	3704	.	.	.	3	73	4	27 Oct 1912	Son Adolphis Bryant 	Single grave section
+830	1912	John	Doring	M	Bl	1900 E 19th St	Same	16 Oct 1912	55	.	.	.	Pulmonary Tuberculosis	A. T. Moore	3652	.	.	.	2	190	1	28 Oct 1912	.	.
+831	1912	Donie	Proctor	F	Bl	.	.	26 Oct 1912	31	.	.	.	Pulmonary Tuberculosis	Watkins Bros	3705	.	.	.	1	190	1	29 Oct 1912	.	.
+832	1912	Anna	Johnson	F	Bl	615 E 10th St	Genl Hospital	28 Oct 1912	22	.	.	.	Rupture + Hemorrhage	C. H. Countee	3743	.	.	.	8	59	4	31 Oct 1912	Mr Johnson Husband	Single grave section
+833	1912	John	Johnson	M	Bl	.	Genl Hospital	23 Oct 1912	34	.	.	.	Inomatic Rheumatism	C. H. Countee	3744	.	.	.	Strangers	Rest	.	31 Oct 1912	.	.
+834	1912	Millier	McClendon	M	Bl	1314 Highland	Same	26 Oct 1912	.	4 weeks	.	.	Cholera Infantum	Watkins Bros	3745	.	.	.	Strangers	Rest	.	31 Oct 1912	.	.
+835	1912	George	Soman	M	Bl	1308 Highland	Same	30 Oct 1912	30	.	.	.	Lobar Pneumonia	A. T. Moore	3746	.	.	.	5	126	6	1 Nov 1912	Mr Soman Father	Balance of lot - Reserved
+836	1912	Fannie Mae	Wright	F	B	560 Troost	Same	30 Oct 1912	9	.	.	.	Oedema of Lungs	K.C. Und Co	3777	.	.	.	1	58	4	3 Nov 1912	Wm Wright Father	15.00 single grave sec
+837	1912	Rubin	Austin	M	Bl	1712 Tracy	Same	2 Nov 1912	54	.	.	.	Acute Nephritis	Watkins Bros	3797	.	.	.	7	58	4	4 Nov 1912	Julia Jones 711 Everett KCK	$15.00 single grave sec
+838	1912	Nemona	Beverly	F	Bl	1317 Kensington	Same	3 Nov 1912	24	.	.	.	Pulmonary Tuberculosis	Watkins Bros	3798	.	.	.	EXT7	72	4	5 Nov 1912	Mother Pricilla Jackson	15.00 single grave sec
+839	1912	Arthur	Moore	M	Bl	2443 Michigan	Same	4 Nov 1912	26	.	.	.	Pneumonia	Watkins Bros	3808	.	.	.	6	74	4	6 Nov 1912	Laura Moore Mother	Single grave sec
+840	1912	Samuel	Bland	M	Bl	.	Genl Hospital	23 Oct 1912	54	.	.	.	Syphilis	Watkins Bros	3802	.	.	.	Strangers	Rest	.	6 Nov 1912	.	.
+841	1912	Baby	Clymer	F	Bl	.	.	31 Oct 1912	0	.	.	.	Still Born	Watkins Bros	3803	.	.	.	Strangers	Rest	.	6 Nov 1912	Shipped in for Burial	.
+842	1912	Baby	Merriweather	M	Bl	1007 Pacific	Same	5 Nov 1912	0	.	.	.	Still Born	K.C. Und Co	to come	.	.	.	Strangers	Rest	.	6 Nov 1912	.	.
+843	1912	Thomas	Jones	M	Bl	1106 Highland	Same	13 Nov 1912	44	.	.	.	Diabetes Mellitus	A. T. Moore	3913	.	.	.	12	73	4	15 Nov 1912	Mrs Dolly Jones Wife	$15.00 single grave sec
+844	1912	Alfred H	Smith	M	Bl	2307 Highland	Jefferson City	13 Nov 1912	30	.	.	Dr A H Myerdick	Tubsolocue Peritoneum	C. H. Countee	no number lic no 327	.	.	.	11	73	4	18 Nov 1912	Dianah Smith Mother	No chk 1500 single grave sec shipped in for Burial
+845	1912	Jennie	Houley	F	Bl	1521 Virginia	Chicago	15 Nov 1912	35	.	.	.	Aortic Regingation	Watkins Bros	3971	.	.	.	10	73	4	20 Nov 1912	Brother Wm Hauley	$1500 single grave sec Shipped in for burial
+846	1912	James	Searcey	M	Bl	576 Troost ave	Same	.	58	.	.	.	.	Kans City Und Co	to come	.	.	.	7	179	1	20 Nov 1912	Sister Lena Hence	10.00 single grave sec
+847	1912	Julia	White	F	Bl	1511 Belvecleve	Same	20 Nov 1912	52	.	.	.	Acute Nephritis	Kans City Und Co	3986	.	.	.	5	74	4	22 Nov 1912	.	$1500 single grave sec
+848	1912	David	Fields	M	Bl	721 Charlotte	Same	22 Nov 1912	26	.	.	.	Pulmonary Tuberculosis	A. T. Moore	4019	.	.	.	2	73	4	24 Nov 1912	.	1500 single grave sec
+849	1912	George	Foster	M	Bl	.	.	16 Nov 1912	46	.	.	.	Myocarditis Acute Insuff	Watkins Bros	3992	.	.	.	12	180	1	24 Nov 1912	.	$10.00 single grave sec
+850	1912	Baby	Moore	F	Bl	2228 Michigan	Same	22 Nov 1912	0	.	.	.	Still Born	Watkins Bros	4018	.	.	.	Strangers	Rest	.	24 Nov 1912	.	.
+851	1912	Daisy	Snell	F	Bl	815 Pacific	Same	23 Nov 1912	34	.	.	.	Lobar Pneumonia	Watkins Bros	4052	.	.	.	4	74	4	27 Nov 1912	.	single grave sec
+852	1912	Lottie	Frazier	F	Bl	601 Harrison St	Same	26 Nov 1912	49	.	.	.	Chronic Nephritis	Watkins Bros	4080	.	.	.	1	73	4	30 Nov 1912	Mrs Nankins	$15.00 single grave sec
+853	1912	Hazel	Davis	F	Bl	2016 Bales ave	Old Genl Hosp	29 Nov 1912	17	.	.	.	Pulmonary Tuberculosis	C. H. Countee	4091	.	.	.	5	81	4	1 Dec 1912	Mrs Haniford	1500 single grave sec
+854	1912	Katie	Wilson	F	Bl	616 Cottage Lane	Same	29 Nov 1912	0	.	.	.	Still Born	Leo J. Stewart	4090	.	.	.	2nd Row Baby Sec	175	1	2 Dec 1912	Father Mr Wilson	$1500 Baby Sec
+855	1912	James	Langston	M	Bl	1326 E 16 St	Same	1 Dec 1912	34	.	.	.	Rupture of Aortic Anemupme	Watkins Bros	4112	.	.	.	7	124	6	3 Dec 1912	.	2000 single grave sec
+856	1912	Henry	Barton	M	Bl	621 Wornall Road	Same	30 Nov 1912	57	.	.	.	Lobar Pneumonia	R. V. Lindsey	4113	.	.	.	6	189	1	3 Dec 1912	Mimie Baker 320 W 65 St	1000 single grave sec
+857	1912	Ollie	Jackson	M	Bl	1735 Lydia	Same	25 Nov 1912	35	.	.	.	Tuberculosis of Lungs	Watkins Bros	4111	.	.	.	Strangers	Rest	.	3 Dec 1912	.	.
+858	1912	A. E.	Jenkins	M	Bl	1324 Vine St	Same	2 Dec 1912	50	.	.	.	Myocarditis	C. H. Countee	4144	.	.	.	6	142	6	5 Dec 1912	Wife Mrs A E Jenkins	Graves 3-4-5 Reserved
+859	1912	Richard	Wevels	M	.	.	Genl Hospital	4 Dec 1912	40	.	.	.	Epidemic Cerebrospinal Meningitis	Watkins Bros	4160	.	.	.	Strangers	Rest	.	10 Dec 1912	.	.
+860	1912	Saw	Anthony	M	Bl	651 Grand	Same	5 Dec 1912	50	.	.	.	Spinal Meningitis	Watkins Bros	4159	.	.	.	Strangers	Rest	.	10 Dec 1912	.	.
+861	1912	Clay	Marshall	M	Bl	.	Genl Hospital	21 Nov 1912	69	.	.	.	Pulmonary Tuberculosis	Watkins Bros	4158	.	.	.	Strangers	Rest	.	10 Dec 1912	.	500 grave sec
+862	1912	Mary	Montgomery	F	Bl	552 Troost	Same	8 Dec 1912	50	.	.	.	Chronic Nephritis	C. H. Countee	4190	.	.	.	3	74	4	10 Dec 1912	.	15.00 single grave sec
+863	1912	Robert	Lovejoy	M	Bl	1523 E 13 St	Same	9 Dec 1912	30	.	.	.	Pulmonary Tuberculosis	Watkins Bros	4201	.	.	.	4	81	4	11 Dec 1912	Mother Rosie Lovejoy	1500 single grave sec
+864	1912	Mollie	Brooks	F	Bl	2112 West Prosp	Same	9 Dec 1912	63	.	.	.	Nephritis	Watkins Bros	4202	.	.	.	10	37	1	12 Dec 1912	H. B. Brooks Hus	1500 single grave sec Transferred from Grave 5
+865	1912	Lafayette	Rulford	M	Bl	.	.	23 Dec 1912	43	.	.	.	Nephritis	Watkins Bros	4215	.	.	.	Strangers	Rest	.	14 Dec 1912	.	300 Grave sec
+866	1912	Henry B	Kernes	M	Bl	815 Pacific	Same	7 Dec 1912	64	.	.	.	Mitral Insufficiency	Watkins Bros	4238	.	.	.	12	58	4	15 Dec 1912	.	1500 single grave sec
+867	1912	Edward	McCue	M	Bl	2433 Woodland	Same	11 Dec 1912	51	.	.	.	Intestinal Inflammation of Liver	Watkins Bros	4237	.	.	.	5	37	1	15 Dec 1912	.	1500 single grave sec
+868	1912	James	Carter	M	Bl	1707 E 13-12	Muskogee Oka	8 Dec 1912	49	.	.	.	Pulmonary Phthisis	Kans City Und Co	4248	.	.	.	9	73	4	15 Dec 1912	Wife Sallie Carter	15.00 single grave sec
+869	1912	Grace	Johnson	F	Bl	1716 17th St	Genl Hospital	13 Dec 1912	19	.	.	.	Panhysterectomy	A. T. Moore	4261	.	.	.	9	27	1	16 Dec 1912	Mr Johnson Father	1500 single grave sec
+870	1912	Baby	Armstrong	M	Bl	1243 Penn (near)	Same	10 Nov 1912	0	.	.	.	Still Born	A. T. Moore	4085	.	.	.	Strangers	Rest	.	16 Dec 1912	.	2.00 B Sec
+871	1912	James	Hale	M	Bl	3500 Broadway	Same	15 Dec 1912	.	14	.	.	Appendicitis	A. T. Moore	4270	.	.	.	2nd Row Baby Sec	33	1	17 Dec 1912	Cora Hale (Mother)	10.00 Baby Sec
+872	1912	Baby	Davis	F	Bl	1717 E 18th St	Same	16 Dec 1912	.	8	.	.	Whooping Cough	Watkins Bros	4290	.	.	.	2nd Row Baby Sec	175	1	18 Dec 1912	Mother Mrs Davis	500 Baby sec
+873	1912	Sylvester	Page	M	Bl	407 Lydia	Same	17 Dec 1912	.	1	.	.	Enteritis	Kans City Und Co	4323	.	.	.	Strangers	Rest	.	20 Dec 1912	.	2.00 Baby sec
+874	1912	Anna	Wenfrey	F	Bl	1903 E 17 St	Same	20 Dec 1912	6	.	.	.	Acute Pneumonia	A. T. Moore	4344	.	.	.	12	181	1	22 Dec 1912	Daughter	1000 single grave sec
+875	1912	Dorthy Maie	Hardy	F	Bl	1216 E 19th St	Same	21 Dec 1912	.	8	.	.	Capillary Bronchitis	A. T. Moore	4343	.	.	.	EX6	73	4	22 Dec 1912	Grandmother Mairy Hardy	1000 Baby sec
+876	1912	Robert	Guy	M	Bl	1906 Vine St	Same	21 Dec 1912	46	.	.	.	Lobar Pneumonia	Watkins Bros	4356	.	.	.	2	74	4	23 Dec 1912	Wife Mrs Guy	$1500 single grave sec
+877	1912	Estella	Garrison	F	Bl	1914 Tracy	Same	24 Dec 1912	20	.	.	.	Pneumonia	A. T. Moore	4395	.	.	.	8	73	4	26 Dec 1912	Ella Garrison Mother	1500 single grave sec
+878	1912	Granison	Walls	M	Bl	1305 Vine St	Same	24 Dec 1912	32	.	.	.	Pulmonary Tuberculosis	Watkins Bros	4414	.	.	.	11	58	4	29 Dec 1912	.	1500 single grave sec
+879	1912	Harriet	Goudlou	F	Bl	2505 Woodland	Same	26 Dec 1912	72	.	.	.	Mitral Insufficiency	A. T. Moore	4421	.	.	.	1	74	4	29 Dec 1912	.	1500 single grave sec
+880	1912	Irma	McCullough	M	Bl	1812 Flora Ave	Same	28 Dec 1912	.	7	16	.	Capillary Bronchitis	Watkins Bros	4448	.	.	.	2nd Row Baby Sec	175	1	30 Dec 1912	Parents	500 Baby sec
+881	1913	Unknown	Baby	.	Bl	.	.	20 Dec 1912	.	.	.	.	Fathis	Kans City Und Co	4368	.	.	.	Strangers	Rest	.	3 Jan 1913	.	2.00 Baby sec
+882	1913	Nelson	Watson	M	Bl	543 Lydia	Same	31 Dec 1912	55	.	.	.	Lobar Pneumonia	Kans City Und Co	26	.	.	.	10	58	4	3 Jan 1913	Lizzie Watson (Wife)	$15.00 single grave sec
+883	1913	Eliza	Young	F	Bl	1908 Grove St	Same	1 Jan 1913	3	.	.	.	Acute Bronchitis	Watkins Bros	49	.	.	.	2nd Row	175	1	4 Jan 1913	Walter Young (Father)	$500 Baby sec
+884	1913	George	Breedlove	M	Bl	1402 E. 19th St	.	30 Dec 1912	53	.	.	.	Epidemic Mengitis	Watkins Bros	48	.	.	.	Strangers	Rest	.	4 Jan 1913	.	300 Grave sec
+885	1913	Eldridge	McMillen	M	Bl	1103 Woodland	Same	1 Jan 1913	30	.	.	.	Absess of Brain	Watkins Bros	47	.	.	.	10	26	4	5 Jan 1913	Lorenza McMillen (Wife)	1500 Lot sec graves 10-11 Reserved
+886	1913	Ralph	Holmes	M	Bl	1909 Tracy ave	Same	4 Jan 1913	15	.	.	.	Gen shot	Watkins Bros	108	.	.	.	5	27	1	8 Jan 1913	.	1500 single grave sec
+887	1913	Grace	Hill	F	Bl	1227 Highland	Same	5 Jan 1913	31	.	.	.	Pulmonary Tuberculosis	Watkins Bros	127	.	.	.	3	81	4	9 Jan 1913	Wiliam Hill (Hus)	1500 single grave sec
+888	1913	Lila	Gardner	F	Bl	1527 E 11 St	Same	6 Jan 1913	24	.	.	.	Pulmonary Tuberculosis	C. H. Countee	125	.	.	.	7	73	4	9 Jan 1913	(Husband) Mr Gardner	1500 single grave sec
+889	1913	Louella	Johnson	F	Bl	.	.	31 Dec 1912	.	.	25	.	Lobar Pneumonia	C. H. Countee	72	.	.	.	Strangers	Rest	.	10 Jan 1913	.	200 Baby grave
+890	1913	William	Paxton	M	Bl	1834 Paseo	same	7 Jan 1913	49	.	.	.	Chronic Bronchitis	Watkins Bros	200	.	.	.	5	180	1	13 Jan 1913	Mrs Laura Oliff	1000 single grave sec
+891	1913	Richard	Sarrell	M	Bl	.	.	19 Dec 1912	32	.	.	.	Tubercular deadensalion of Kidneys	Watkins Bros	110	.	.	.	Strangers	Rest	.	13 Jan 1913	.	300 grave sec
+892	1913	Williams	Gus	M	Bl	.	.	24 Dec 1912	45	.	.	.	Tuberculosis	Watkins Bros	113	.	.	.	Strangers	Rest	.	13 Jan 1913	.	300 grave sec
+893	1913	Hallie	Kirkpatrick	M	Bl	Cor Whte + 26th St	Genl Hospital	11 Jan 1913	17	.	.	.	Acute Appendicitis	Watkins Bros	198	.	.	.	9	58	4	14 Jan 1913	Mr Gillam (Father)	1500 single grave sec Graves 7-8 Lot 58 allso G.12 L.74 Reserved
+894	1913	Ida	Harrison	F	Bl	1210 E 19th St	same	11 Jan 1913	27	.	.	.	Capillary Bronchitis	Watkins Bros	199	.	.	.	12	10	4	14 Jan 1913	Mrs Hardy (Mother)	1500 grave sec
+895	1913	Howard	Anderson	M	Bl	1616 Howard Ave	.	14 Jan 1913	29	.	.	.	Pulmonary Tuberculosis	Watkins Bros	220	.	.	.	12	81	4	16 Jan 1913	Mrs Anderson (Wife)	1500 single grave sec
+896	1913	Matilda	Munholland	F	Bl	1613 Lydia Ave	Genl Hosp	14 Jan 1913	93	.	.	.	Arteni Scleritis	Watkins Bros	229	.	.	.	11	74	4	16 Jan 1913	Albert Munholland (son)	15.00 single grave sec
+897	1913	Mazar	Degre	M	Bl	.	Genl Hosp	10 Jan 1913	22	.	.	.	Burns	Watkins Bros	193	.	.	.	Strangers	Rest	.	16 Jan 1913	.	300 grave sec
+898	1913	John	Munson	M	Bl	404 E 5th St	Genl Hosp	8 Jan 1913	34	.	.	.	Carbolic Acid Poisoning	Watkins Bros	194	.	.	.	Strangers	Rest	.	16 Jan 1913	.	300 grave sec
+899	1913	V. H.	Mares	M	Bl	.	Genl Hosp	10 Jan 1913	22	.	.	.	Burns	Watkins Bros	195	.	.	.	Strangers	Rest	.	16 Jan 1913	.	300 grave sec
+900	1913	Santiago	Raminos	M	M	.	Genl Hosp	10 Jan 1913	27	.	.	.	Burns	Watkins Bros	196	.	.	.	Strangers	Rest	.	16 Jan 1913	.	300 grave sec
+901	1913	Minie	Martin	F	Bl	1807 Tracy Ave	Genl Hosp	14 Jan 1913	42	.	.	.	Lobar Pneumonia	Watkins Bros	230	.	.	.	2	81	4	18 Jan 1913	Mr Martin (Husband)	1500 single grave sec
+902	1913	Archie G	Howard	M	Bl	2614 Highland	same	14 Jan 1913	53	.	.	.	Erysipelas	Watkins Bros	273	.	.	.	1	20	4	19 Jan 1913	Mrs Lula Howard (Wife)	Entire Lot Reserved 1500 Lot sec
+903	1913	William	Johnson	M	Bl	1809 Waner St	same	14 Jan 1913	46	.	.	.	Saresona of Bladder	Watkins Bros	272	.	.	.	8	124	6	19 Jan 1913	Martha Johnson (Mother)	2000 single grave
+904	1913	James	Pollord	M	Bl	.	Genl Hosp	12 Jan 1913	75	.	.	.	Senile Dementia	C. H. Countee	259	.	.	.	Strangers	Rest	.	19 Jan 1913	.	300 grave sec
+905	1913	Aaron	Williams	M	Bl	2446 Mich	Old Folks + Orph's Home	12 Jan 1913	65	.	.	.	Acute Nephritis	C. H. Countee	260	.	.	.	11	181	1	19 Jan 1913	Mrs Smith	1000 grave sec
+906	1913	Baby	Sightsry	M	Bl	.	.	14 Jan 1913	0	.	.	.	Still Born	Watkins Bros	271	.	.	.	Strangers	Rest	.	20 Jan 1913	.	200 grave sec
+907	1913	Edward	Cox Cose	M	Bl	.	Genl Hosp	17 Jan 1913	40	.	.	.	Lobar Pneumonia	Watkins Bros	282	.	.	.	2	181	1	21 Jan 1913	Mrs Williams	$1000 single grave sec
+908	1913	Lawrence	Farr	M	Bl	2435 Waldrow	.	24 Jan 1913	1	5	26	.	Lobar Pneumonia	Watkins Bros	349	.	.	.	3rd Row	176	1	25 Jun 1913	Dallace Farr (Father)	500 baby sec
+909	1913	Charles	Williams	M	Bl	1730 Michigan	9th Gen St St Joe Mo	21 Jan 1913	52	.	.	E. H. Trowbridge and J. F. Ramsey	General Poresis	A. T. Moore	115	.	.	.	6	30	4	26 Jan 1913	Mrs Williams (Wife)	$1500 Lot Sec G-5 Reserved
+910	1913	Allen	Farmer	M	Bl	1728 Woodland	Genl Hosp	20 Jan 1913	45	.	.	.	Chloroform Narcaris	Watkins Bros	364	.	.	.	4	189	1	27 Jun 1913	Sister 2211 Michigan	1000 single grave sec
+911	1913	Clarence	Draper	M	Bl	1819 Lydia	Same	27 Jan 1913	26	.	.	.	Pulmonary Tuberculosis	Watkins Bros	420	.	.	.	12	44	4	29 Jan 1913	Mrs Alice Dixon Grandmother 1217 E 17th	1500 Lot Sec Grave 10-11 Reserved
+912	1913	Infant	Grum	F	Bl	410 Walase	Same	29 Jan 1913	0	.	.	.	Still Born	Kans City Und Co	400	.	.	.	Strangers	Rest	.	31 Jan 1913	.	200 baby grave
+913	1913	Unknown	Infant	F	Bl	Bel 45 & 5th Troost	.	.	0	.	.	.	Premature birth	Kans City Und Co	399	.	.	.	Strangers	Rest	.	31 Jan 1913	.	Int no 912 913 914 one grave 200 grave space
+914	1913	Baby	McKennis	M	Bl	416 Grilis	Same	30 Jan 1913	.	.	2	.	Prematurity	Kans City Und Co	412	.	.	.	Strangers	Rest	.	31 Jan 1913	.	Int no 912 913 914 same grave
+915	1913	Felia	Mathiea	M	M	.	Old Hosp	27 Jan 1913	22	.	.	.	Burns	Watkins Bros	473	.	.	.	Strangers	Rest	.	4 Feb 1913	.	300 grave sec
+916	1913	Georgie	McAdams	M	Bl	2226 Flora Ave	Same	2 Feb 1913	15	.	.	.	Lobar Pneumonia	Watkins Bros	468	.	.	.	1	81	4	4 Feb 1913	Hery McAdams	1500 single grave sec
+917	1913	Charles	Britt Jr	M	Bl	1807 Grove St	Same	6 Feb 1913	2	.	.	.	Bronchopneumonia	Watkins Bros	542	.	.	.	2nd Row	175	1	9 Feb 1913	Chas Britt (Father)	500 baby sec
+918	1913	Junita	Jacker	F	Bl	1917 1/2 E 19th St	.	7 Feb 1913	.	4	.	.	Lobar Pneumonia	Watkins Bros	541	.	.	.	1st Row	175	1	9 Feb 1913	James Jacker (Father)	500 baby sec
+919	1913	Veia	Miller	F	Bl	1512 E 21 St	Same	7 Feb 1913	3	.	.	.	Cerebrospinal Meningitis	Watkins Bros	543	.	.	.	2nd Row	34	1	9 Feb 1913	Lerry Miller (Father)	1000 baby sec
+920	1913	Isabell	Johnson	F	Bl	2503 Woodland	Same	.	2	.	.	.	.	C. H. Countee	to come 579	.	.	.	3rd Row	34	1	9 Feb 1913	Chas Johnson (Father)	1000 baby grave
+921	1913	Baby	Smith	M	Bl	144 Kensington	Same	2 Feb 1913	0	.	.	.	Still Born	Kans City Und Co	848	.	.	.	Strangers	Rest	.	11 Feb 1913	.	200 baby grave
+922	1913	Edith	Moore	F	Bl	1905 Cherry	Gen'l Hosp.	11 Feb 1913	1	.	.	.	Bronchopneumonia	Watkins Bros	615	.	.	.	3rd Row	176	1	13 Feb 1913	.	500 baby grave
+923	1913	Jessie	Thatcher	F	Bl	1822 Grove St	Same	12 Feb 1913	1	.	.	.	Capillary Bronchitis	Watkins Bros	635	.	.	.	3rd Row	176	1	14 Feb 1913	Alice Thatcher (Mother)	500 baby grave
+924	1913	Baby	William	M	Bl	1013 Wyandotte	Same	10 Dec 1912	0	.	.	.	Still Born	A. T. Moore	603	.	.	.	Strangers	Rest	.	18 Feb 1913	.	200 baby grave
+925 	1913	Infant	Johnson	F	Bl	2503 Woodland	Same	20 Feb 1913	.	.	14	.	Enterocolitis	C. H. Countee	728	.	.	.	2nd Row	175	1	21 Feb 1913	Charles Johnson (Father)	5.00 baby sec
+926	1913	George	Stewart	M	Bl	1722 Oakley	Same	18 Feb 1913	71	.	.	.	Interstitial Nephritis	Watkins Bros	to come 731	.	.	.	6	115	6	21 Feb 1913	Harriett Stewart (Wife)	2000 Lot section. Grave 5 Reserved. See contract Transferred 11 Nov 1915
+927	1913	Milton	Baker	M	Bl	1405 Highland	Same	21 Feb 1913	3	.	.	.	Unknown Natural Cause	A. T. Moore	740	.	.	.	1st Row	34	1	22 Feb 1913	Mrs Baker (Mother)	1000 baby grave
+928	1913	Aulson	Munholland	M	.	1613 Lydia	.	22 Feb 1913	94	.	.	.	Tabes Dorsalis	Watkins Bros	765	.	.	.	9	145	6	23 Feb 1913	Alfred Munholland (Son)	Body transferred from Grave 11 Lot 37 B-1
+929	1913	Steve	Thatcher	M	Bl	1920 Vine St	Same	21 Feb 1913	60	.	.	.	Auymia Pettoral	Jno. W. Jones	766	.	.	.	7	153	6	24 Feb 1913	Mrs Alice Fox (Daughter)	Graves 9-10 Reserved. Ofined grave in lot
+930	1913	Madison	Bransford	M	Bl	558 Troost	Old Genl Hosp	21 Feb 1913	53	.	.	.	Acute Nephritis	Kans City Und Co	775	.	.	.	8	74	4	25 Feb 1913	Addie Branford (Wife)	$1500 single grave sec
+931	1913	Charles H.	Williams	M	Bl	8th + Lombartts	.	28 Feb 1913	58	.	.	.	Multiple Injuries	Watkins Bros	848	.	.	.	7	31	4	2 Mar 1913	Sarah Williams (Wife)	1500 Lot sec. Grave 8 Reserved
+932	1913	Herbert	Huggins	M	Bl	1318 E 18 St	Same	24 Feb 1913	27	.	.	.	Pulmonary Tuberculosis	Watkins Bros	837	.	.	.	11	81	4	2 Mar 1913	.	1500 single grave sec
+933	1913	Ida	Campbell	F	Bl	1622 Walnut St	Same	26 Feb 1913	38	.	.	.	Acute Bronchitis	Watkins Bros	836	.	.	.	6	57	4	2 Mar 1913	.	1500 single grave sec
+934	1913	William K.	Young	M	Bl	811 Charlotte St	Same	26 Feb 1913	31	.	.	.	Nephritis	C. H. Countee	835	.	.	.	7	146	6	2 Mar 1913	Austin Young (Father)	Graves 8-9-10 Reserved. 2000 lot sec
+935	1913	Theodore	Swain	M	Bl	1402 E 19 St	Same	28 Feb 1913	5	.	.	.	Cerebrospinal Meningitis	Watkins Bros	864	.	.	.	3rd Row	34	1	3 Mar 1913	Mack Swain (Father)	Removed from L175 500 sec
+936	1913	Helen	Wevins	F	Bl	1819 Forest	Same	25 Feb 1913	.	8	.	.	Capillary Bronchitis	Watkins Bros	890	.	.	.	3rd Row	175	1	5 Mar 1913	Grant Wevins (Father)	500 baby sec
+937	1913	Charles	Blake	M	Bl	421 W 6th St	.	2 Mar 1913	32	.	.	.	Pleural Effusion Tuberculosis	Watkins Bros	914	.	.	.	10	181	1	6 Mar 1913	Sanford Blake (Brother) 2109 Vine St	1000 single grave sec
