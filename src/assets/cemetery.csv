@@ -1,358 +1,1444 @@
-Last,Title,Suffix,First Name,Middle,Sex,Race,Date of Death,Age,Months,Days,Grave,Lot,Block,Burial Date,Comments,Permit #,Int #,Baby
-Alexander,.,.,Eugine,.,M,B,23 Sep 1912,35,.,.,.,.,.,5 Oct 1912,Stranger Rest,3346,812,.
-Allen,.,.,Mollie,L,F,B,7 Apr 1912,51,.,.,12,27,1,11 Apr 1912,.,1422,647,.
-Anderson,.,.,Sammie,.,M,B,.,1,.,.,.,.,.,21 Feb 1912,Stranger Rest,638,576,.
-Anthony,.,.,Sam,.,M,B,.,50,.,.,.,.,.,10 Dec 1912,Stranger Rest,4159,860,.
-Armstrong,.,.,Baby,.,M,B,.,.,.,0,.,.,.,16 Dec 1912,Stranger Rest,4085,870,.
-Arnold,.,.,John,.,M,B,.,6,.,.,1,50,1,17 Mar 1912,.,994,612,.
-Austin,.,.,Rubin,.,M,B,12 Nov 1912,54,.,.,7,58,4,4 Nov 1912,.,3797,837,.
-Austin,.,.,Thomas,.,M,B,.,40,.,.,8,68,1,3 Mar 1912,.,790,592,.
-Baggs,.,.,Wallace,.,M,B,.,.,2,.,.,.,.,Mar-12,Stranger Rest,828,600,.
-Baker,.,.,Elizabeth,.,F,B,5 Jun 1912,11,.,.,1rw,33,1,6 Jun 1912,.,2147,710,.
-Banks,.,.,Ella,.,F,B,1 Apr 1912,31,.,.,9,65,1,2 Apr 1912,.,.,636,.
-Barber,.,.,Mary,.,F,B,.,37,.,.,.,.,.,2 Feb 1912,Stranger Rest,370,552,.
-Barker,.,.,Edward,.,M,B,9 Apr 1912,40,.,.,.,.,.,17 Apr 1912,Stranger Rest,1548,658,.
-Barnett,.,.,Edward,.,M,B,.,.,.,.,4,68,1,4 Mar 1912,.,.,593,.
-Barton,.,.,Henry,.,M,B,30 Nov 1912,57,.,.,6,189,1,3 Dec 1912,.,4113,856,.
-Bell,.,.,Charles,.,M,B,28 May 1912,46,.,.,7,178,1,5 Jun 1912,.,2141,709,.
-Berry,.,.,Infant,.,F,B,13 Sep 1912,.,.,0,.,.,.,21 Sep 1912,Stranger Rest,3292,795,*
-Beverly,.,.,Winona,.,F,B,3 Nov 1912,24,.,.,ex7,72,4,5 Nov 1912,.,.,838,.
-Biggs,.,.,Rachael,.,F,B,.,3,.,.,.,.,.,1 Mar 1912,Stranger Rest,731,590,.
-Billingsley,.,.,Charity,.,F,B,.,35,.,.,11,153,6,1 Feb 1912,.,365,550,.
-Bishop,.,.,Addie,.,F,B,22 Mar 1912,40,.,.,6,156,6,25 Mar 1912,.,1117,627,.
-Blakely,.,.,Edward,.,M,B,.,53,.,.,9,17,4,31 Jan 1912,.,371,548,.
-Bland,.,.,Samuel,.,M,B,23 Oct 1912,54,.,.,.,.,.,6 Nov 1912,Stranger Rest,3802,840,.
-Bolton,.,.,Lucit,.,F,B,6 Jun 1912,66,.,.,12,179,1,7 Jun 1912,.,2163,712,.
-Booth,.,.,Jack,.,M,B,17 Sep 1912,57,.,.,2,59,4,19 Sep 1912,.,3291,790,.
-Boyd,.,.,Felix,.,M,B,.,37,.,.,12,45,1,14 Jan 1912,.,148,533,.
-Bradford,.,.,Willie,.,M,B,.,22,.,.,11,38,1,28 Jan 1912,.,317,542,.
-Bradshaw,.,.,Prince,Henry,M,B,.,9,.,.,2,178,1,21 Feb 1912,.,637,574,.
-Bronson,.,.,Leonard,.,M,B,8 Jul 1912,3,.,.,.,.,.,12 Jul 1912,Stranger Rest,2502,738,.
-Brooks,.,.,Mollie,.,F,B,.,63,.,.,10,37,1,.,.,4202,864,.
-Brown,.,.,Earl,.,M,B,20 Sep 1912,20,.,.,6,58,1,22 Sep 1912,.,3301,796,.
-Brown,.,.,Jake,.,M,B,14 Sep 1912,60,.,.,3,180,1,16 Sep 1912,.,3256,786,.
-Buchanan,.,.,Lewis,.,M,B,25 Apr 1912,48,.,.,.,.,.,7 May 1912,Stranger Rest,1802,685,.
-Burns,.,.,Eskins,S,M,B,13 Oct 1912,.,6,.,2ndrw,.,176,15 Oct 1912,.,3582,823,*
-Burns,.,.,Joseph,.,M,B,29 Mar 1912,17,.,.,10,25,4,4 Apr 1912,.,1305,640,.
-Burton,.,.,Wallace,.,M,B,7 Apr 1912,18,.,.,.,.,.,16 Apr 1912,Stranger Rest,1507,657,.
-Campbell,.,.,Mabel,.,F,B,22 Apr 1912,.,8,.,6,174,1,26 Apr 1912,.,1659,675,.
-Campbell,.,.,Peter,W,M,B,21 Apr 1912,39,.,.,6,46,1,25 Apr 1912,.,1640,674,.
-Carr,.,.,Baby,.,F,B,1 Sep 1912,.,.,.,.,.,.,18 Sep 1912,Stranger Rest,3274,781,*
-Carroll,.,.,Baby,.,M,B,20 May 1912,.,5,.,.,.,.,28 May 1912,Stranger Rest,1981,705,*
-Carter,.,.,Beverly,.,M,B,27 May 1912,50,.,.,10,27,1,26 May 1912,.,2042,699,.
-Carter,.,.,James,.,M,B,8 Dec 1912,49,.,.,9,27,1,.,.,4248,868,.
-Carter,.,.,Leroy,.,M,B,7 Apr 1912,7,.,.,10,34,1,10 Apr 1912,.,1424,644,.
-Carter,.,.,Lucille,.,F,B,17 Jul 1912,.,.,.,.,.,.,16 Jul 1912,Stranger Rest,2585,740,.
-Carvill,.,.,Louise,.,F,B,.,37,.,.,6,190,1,10 Feb 1912,.,102,562,.
-Cason,.,.,Allrano,.,M,B,16 Sep 1912,18,.,.,10,59,4,18 Sep 1912,.,3273,789,.
-Cathey,.,.,Nathaniel,.,M,B,30 Sep 1912,32,.,.,3,181,1,1 Oct 1912,.,3438,810,.
-Chambers,.,.,James,.,M,B,.,36,.,.,5,60,4,9 Jun 1912,.,2171,713,.
-Chandler,.,.,Mamie,.,F,B,25 Sep 1912,7,.,.,2rw,174,1,28 Sep 1912,.,3424,804,*
-Cheqtman,.,.,H,H,M,B,6 Apr 1912,38,.,.,11,68,1,10 Apr 1912,.,1395,645,.
-Clarke,.,.,Jemina,.,F,B,15 Apr 1912,47,.,.,11,28,1,17 Apr 1912,.,1551,661,.
-Clayton,.,.,Fanny,.,F,B,.,.,.,.,4,60,4,25 Jul 1912,.,2699,747,.
-Clymer,.,.,Baby,.,F,B,31 Oct 1912,.,.,0,.,.,.,6 Nov 1912,Stranger Rest,3803,841,*
-Coffer,.,.,Jessie,.,F,B,.,52,.,.,7,44,.,7 Jan 1912,.,63,528,.
-Colbert,.,.,Moses,.,M,B,.,35,.,.,2,191,1,.,.,1526,659,.
-Coleman,.,.,David,.,M,B,8 Oct 1912,30,.,.,3,58,4,10 Oct 1912,.,978,820,.
-Collins,.,.,Sidina,.,M,B,1 May 1912,.,9,.,.,.,.,6 May 1912,Stranger Rest,1794,684,*
-Combs,.,.,Arthur,.,M,B,8 Sep 1912,28,.,.,3,59,4,15 Sep 1912,.,3237,782,.
-Conley,.,.,Charley,.,M,B,.,40,.,.,9,43,4,2 Feb 1912,.,397,553,.
-Conley,.,.,Janes,R,M,B,9 May 1912,.,6,.,8,43,4,14 May 1912,.,1876,693,.
-Cook,.,.,Rebecca,.,F,B,.,80,.,.,2,45,1,24 Feb 1912,.,676,582,.
-Cooper,.,.,Sullie /Annie Greer,.,F,B,23 Sep 1912,59,.,.,1,59,4,26 Sep 1912,.,3364,801,.
-Craig,.,.,Anna,.,F,B,13 May 1912,32,.,.,4,57,1,17 May 1912,.,1920,694,.
-Crawford,.,.,Mary,F,F,B,4 Sep 1912,52,.,.,8,72,4,7 Sep 1912,.,3135,774,.
-Crews,.,.,Wendel,.,M,B,.,18,.,.,4,148,6,2 Mar 1912,.,772,594,.
-Crockett,.,.,Maggie,.,F,B,.,4,.,.,1rw,175,1,22 Jun 1912,.,2286,722,*
-Crowly,.,.,John,.,M,B,.,66,.,.,7,68,1,31 Jan 1912,.,376,549,.
-Crump,.,.,Dovie,.,F,B,20 Mar 1912,46,.,.,1,67,4,23 Mar 1912,.,.,626,.
-Crutchfield,.,.,Eliza,.,F,B,23 Jun 1912,43,.,.,9,60,4,25 Jun 1912,.,2317,724,.
-Cuba,.,.,Callie,.,F,B,.,49,.,.,10,28,1,20 May 1912,.,1950,696,.
-Cummings,.,.,Ella,.,F,B,10 Sep 1912,17,.,.,1,72,4,13 Sep 1912,.,3215,780,.
-Cummings,.,.,Wm,.,M,B,.,57,.,.,1,44,1,10 Jan 1912,.,99,530,.
-Dale,.,.,Jack,.,M,B,.,.,.,.,4,179,1,7 May 1912,.,113,686,.
-Davis,.,.,Baby,.,F,B,16 Dec 1912,8,.,.,2ndrw,175,1,18 Dec 1912,.,4290,872,*
-Davis,.,.,Hazel,.,F,B,29 Nov 1912,17,.,.,5,81,4,1 Dec 1912,.,4091,853,.
-Desmukes,.,.,Callie,.,.,.,.,.,6,.,1rw,34,1,23 Feb 1912,.,667,580,*
-Diggs,.,.,Christie,.,F,B,12 Apr 1912,22,.,.,6,28,1,14 Apr 1912,.,1494,656,.
-Dixon,.,.,Lillie,B,F,B,.,42,.,.,4,47,4,25 Jan 1912,.,289,541,.
-Dotson,.,.,Maria,.,F,B,15 Aug 1912,80,.,.,6,180,1,18 Aug 1912,.,2946,761,.
-Douglas,.,.,Geo,.,M,B,10 Aug 1912,42,.,.,11,72,4,18 Aug 1912,.,.,759,.
-Downsing,.,.,John,.,M,B,16 Oct 1912,55,.,.,2,190,1,28 Oct 1912,.,3652,830,.
-Doxey,.,.,Mary,.,F,B,11 Aug 1912,71,.,.,7,10,4,14 Aug 1912,.,2921,756,.
-Dunn,.,.,James,.,M,B,21 Mar 1912,28,.,.,10,50,1,25 Mar 1912,.,1123,620,.
-Eads,.,.,Mary,.,F,B,1 May 1912,53,.,.,8,178,1,4 May 1912,.,1769,681,.
-Edwards,.,.,Luella,.,F,B,20 Sep 1912,30,.,.,EX1,72,4,23 Sep 1912,.,3320,798,.
-Ellis,.,.,Ella,.,F,B,4 Jun 1912,48,.,.,12,60,4,9 Jun 1912,.,2164,714,.
-Ellis,.,.,Williams,.,M,B,.,.,.,.,1,56,1,21 Mar 1912,.,1028,618,.
-Evans,.,.,David,.,M,B,31 Aug 1912,36,.,.,10,16,4,2 Sep 1912,.,3101,771,.
-Everett,.,.,Stella,.,F,B,31 Mar 1912,27,.,.,9,193,6,4 Jul 1912,.,1273,635,.
-Ewing,.,.,Baby,.,M,B,20 Mar 1912,.,.,1,.,.,.,3 Apr 1912,Stranger Rest,1272,638,*
-Ewing,.,.,Ernest,.,M,B,.,25,.,.,6,178,1,31 Jan 1912,.,374,547,.
-Ewing,.,.,Percy,.,M,B,21 Mar 1912,28,.,.,3,57,1,28 Mar 1912,.,1173,629,.
-Farr,.,.,Goldie,.,F,B,.,16,.,.,11,59,4,17 Sep 1912,.,3253,787,.
-Ferguson,.,.,Charlotte,.,F,B,8 Jun 1912,64,.,.,12,125,6,12 Jun 1912,.,2203,716,.
-Fields,.,.,David,.,M,B,22 Nov 1912,26,.,.,2,73,4,24 Nov 1912,.,4019,848,.
-Fields,.,.,Lucy,.,F,B,19 Sep 1912,63,.,.,4,181,1,20 Sep 1912,.,3303,791,.
-Floyd,.,.,Wm,.,M,B,4 Apr 1912,70,.,.,3,191,1,.,.,1363,646,.
-Foster,.,.,George,.,M,B,16 Nov 1912,46,.,.,12,180,1,24 Nov 1912,.,3992,849,.
-Franklin,.,.,Emma,.,F,B,16 Aug 1912,9,.,.,6,72,4,18 Aug 1912,.,2948,760,.
-Frazier,.,.,Lottie,.,F,B,26 Nov 1912,49,.,.,1,73,4,30 Nov 1912,.,4080,852,.
-Frye,.,.,Vera,.,.,.,.,36,.,.,6,83,4,.,.,.,654,.
-Fulton,.,.,Andrew,.,M,B,29 Mar 1912,49,.,.,.,.,.,12 Apr 1912,Stranger Rest,1401,649,.
-Gardner,.,.,Benjamin,.,M,B,22 Jun 1912,28,.,.,6,10,4,26 Jun 1912,.,2320,725,.
-Gardner,.,.,Sadie,.,F,B,22 Jun 1912,33,.,.,5,10,4,26 Jun 1912,.,2321,726,.
-Gardon,.,.,James,B,M,B,13 Sep 1912,70,.,.,6,124,6,15 Sep 1912,.,3304,783,.
-Garner,.,.,Cornelius,.,M,B,27 Mar 1912,20,.,.,1,65,1,28 Mar 1912,.,1174,631,.
-Garner,.,.,Jonson,.,M,B,21 Jul 1912,63,.,.,21,28,1,2 Aug 1912,.,2783,752,.
-Garrison,.,.,Estella,.,F,B,24 Dec 1912,20,.,.,8,73,4,26 Dec 1912,.,4395,877,.
-Gentry,.,.,Mary,.,F,B,.,.,.,.,2,178,1,17 Mar 1912,.,979,613,.
-George,.,.,Emma,.,F,B,10 Jan 1912,34,.,.,.,.,.,4 Feb 1912,Stranger Rest,98,558,.
-Gooden,.,.,Chas,.,M,B,.,48,.,.,6,43,4,4 Feb 1912,.,408,556,.
-Goodlow,.,.,Harriet,.,F,B,.,72,.,.,1,74,4,29 Dec 1912,.,.,879,.
-Graig,.,.,Thomas,.,M,B,.,37,.,.,5,45,1,21 Jan 1912,.,195,536,.
-Gray,.,.,Ida,.,F,B,.,44,.,.,1,142,6,14 Feb 1912,.,525,568,.
-Green,.,.,Baby,.,M,B,22 Jul 1912,.,.,0,.,.,.,24 Jul 1912,Stranger Rest,2680,746,*
-Green,.,.,John,.,M,B,17 Sep 1912,33,.,.,10,179,1,30 Sep 1912,.,3347,808,.
-Green,.,.,Mary,.,F,B,.,52,.,.,4,28,1,19 May 1912,.,1930,695,.
-Griffin,.,.,Henry,.,M,B,17 Apr 1912,45,.,.,6,190,1,29 Apr 1912,.,1705,677,.
-Griffin,.,.,Robert,.,M,B,4 Apr 1912,44,.,.,.,.,.,12 Apr 1912,Stranger Rest,1402,650,.
-Guy,.,.,Robert,.,M,B,.,46,.,.,2,74,4,23 Dec 1912,.,4356,876,.
-Hair,.,.,Jerry,.,M,B,25 Sep 1912,48,.,.,5,73,4,6 Oct 1912,.,3426,816,.
-Hair,.,.,James,.,M,B,15 Dec 1912,14,.,.,2ndrw,33,1,17 Dec 1912,.,4270,871,*
-Hall,.,.,John,.,M,B,.,33,.,.,4,45,1,11 Feb 1912,.,116,565,.
-Hamilton,.,.,Claude,.,M,B,.,.,2,.,.,.,.,4 Feb 1912,Stranger Rest,411,555,.
-Hanlely,.,.,Jannie,.,F,B,15 Nov 1912,35,.,.,10,73,4,20 Nov 1912,.,3971,845,.
-Hannah,.,.,Baby,.,F,B,30 May 1912,.,.,0,.,.,.,1 Jun 1912,Stranger Rest,2096,707,*
-Hardy,.,.,Dorthy,Marie,F,B,21 Dec 1912,8,.,.,sec6,73,4,22 Dec 1912,.,4343,875,.
-Hardy,.,.,Maud,Lee,F,B,28 May 1912,23,.,.,6,60,4,2 Jun 1912,.,2083,708,.
-Harlin,.,.,Annie,.,F,B,.,44,.,.,7,179,1,2 May 1912,.,1728,679,.
-Harris,.,.,Susie,B,F,B,21 Aug 1912,24,.,.,4,72,4,25 Aug 1912,.,3035,768,.
-Henderson,.,.,Jenere,.,.,B,.,.,.,.,3,45,1,15 Feb 1912,.,548,570,.
-Henley,.,.,Thomas,.,M,B,8 Aug 1912,37,.,.,.,.,.,10 Aug 1912,Stranger Rest,2838,753,.
-Henry,.,.,Garfield,.,M,B,21 May 1912,35,.,.,3,28,1,23 May 1912,.,1991,698,.
-Hester,.,.,James,.,M,B,19 May 1912,19,.,.,.,.,.,.,Stranger Rest,1971,697,.
-Hill,.,.,Anderson,.,M,B,22 Aug 1912,.,.,.,5,72,4,23 Aug 1912,.,3017,766,.
-Hill,.,.,Aubum,.,M,B,.,.,2,.,5,34,1,8 Mar 1912,.,886,604,*
-Hines,.,.,George,.,.,.,.,7,.,.,3rw,34,1,14 Apr 1912,.,1481,653,*
-Hines,.,.,James,.,M,B,17 Apr 1912,9,.,.,3rw,34,1,17 Apr 1912,.,1549,660,*
-Hines,.,.,James,.,M,B,16 Aug 1912,58,.,.,6,59,4,18 Aug 1912,.,2957,762,.
-Holliman,.,.,Philip,.,M,B,5 Sep 1912,50,.,.,3,49,4,8 Sep 1912,.,3155,776,.
-Holly,.,.,David,Sherman,M,B,.,26,.,.,3,68,1,30 Jan 1912,.,117,546,.
-Holman,.,.,Patsy,.,F,B,.,41,.,.,11,17,4,29 Feb 1912,.,6,588,.
-Houston,.,.,Andrew,.,M,B,28 Jul 1912,36,.,.,3,60,4,31 Jul 1912,.,2764,749,.
-Houston,.,.,Robert,.,M,B,.,11,.,.,6,27,1,14 Apr 1912,.,1518,655,.
-Hyde,.,.,Edner,.,F,B,.,41,.,.,2,50,1,13 Mar 1912,.,935,608,.
-Hyde,.,.,Rufus,.,M,B,.,29,.,.,4,38,1,4 Feb 1912,.,426,554,.
-Hyde,.,.,William,.,M,B,4 Jun 1912,32,.,.,.,.,.,12 Jun 1912,Stranger Rest,2204,715,.
-Ivory,.,.,Charles,.,M,B,6 Jun 1912,57,.,.,3,179,1,7 Jun 1912,.,2162,711,.
-Jackson,.,.,George,.,M,B,.,18,.,.,9,50,1,20 Mar 1912,.,1013,616,.
-Jackson,.,.,Ollie,.,M,B,25 Nov 1912,35,.,.,.,.,.,3 Dec 1912,Stranger Rest,4111,857,.
-Jacobs,.,.,Benjimen,F,M,B,.,3,.,.,1rw,34,1,17 Mar 1912,.,991,611,*
-Jacobs,.,.,Samuel,.,M,B,30 Apr 1912,35,.,.,5,179,1,6 May 1912,.,.,683,.
-James,.,.,Willie,.,M,B,.,9,.,.,.,.,.,27 Mar 1912,Stranger Rest,1030,628,.
-Jenkins,.,.,A,E,M,B,2 Dec 1912,50,.,.,6,142,6,5 Dec 1912,.,4144,858,.
-Jenkins,.,.,Corrine,.,F,B,.,25,.,.,8,38,1,29 Feb 1912,.,746,589,.
-Johnson,.,.,Anna,.,F,B,28 Oct 1912,22,.,.,8,59,4,31 Oct 1912,.,3743,832,.
-Johnson,.,.,Baby,.,F,B,.,.,.,5min,.,.,.,23 Feb 1912,Stranger Rest,670,578,*
-Johnson,.,.,Daisy,.,F,B,.,2,.,.,.,.,.,22 Jan 1912,Stranger Rest,.,537,.
-Johnson,.,.,Grace,.,F,B,13 Dec 1912,19,.,.,9,27,1,16 Dec 1912,.,4261,869,.
-Johnson,.,.,Henry,.,M,B,24 May 1912,40,.,.,9,30,4,27 May 1912,.,2041,702,.
-Johnson,.,.,Infant,.,F,B,4 Oct 1912,.,.,0,.,.,.,5 Oct 1912,Stranger Rest,3467,815,.
-Johnson,.,.,John,.,M,B,23 Oct 1912,34,.,.,.,.,.,31 Oct 1912,Stranger Rest,3744,833,.
-Johnson,.,.,Joseph,Lania,M,.,.,50,.,.,12,50,1,4 Mar 1912,.,796,595,.
-Johnson,.,.,Tempey,.,F,B,17 Apr 1912,72,.,.,2,65,1,19 Apr 1912,.,1564,663,.
-Jolly,.,.,Leavell,.,M,B,14 Oct 1912,58,.,.,3,190,1,17 Oct 1912,.,3594,824,.
-Jones,.,.,Baby,.,F,B,20 Jun 1912,.,.,0,5,.,.,28 Jun 1912,.,2356,727,*
-Jones,.,.,Fountaine,.,M,B,27 Sep 1912,32,.,.,6,81,4,29 Sep 1912,.,3400,805,.
-Jones,.,.,Houston,.,M,B,6 Aug 1912,46,.,.,1,179,1,14 Aug 1912,.,2920,755,.
-Jones,.,.,Louise,.,F,B,19 Apr 1912,40,.,.,11,37,1,21 Apr 1912,.,1593,664,.
-Jones,.,.,Pauline,.,F,B,15 Mar 1912,5,.,.,5,33,1,18 Mar 1912,.,1004,614,.
-Jones,.,.,Sammuel,.,M,B,18 Jul 1912,2,.,.,.,.,.,23 Jul 1912,Stranger Rest,2650,742,.
-Jones,.,.,Thomas,.,M,B,13 Nov 1912,44,.,.,12,73,4,15 Nov 1912,.,3913,843,.
-Kalie,.,.,Wilson,.,F,B,.,.,.,0,2ndrw,175,1,2 Dec 1912,.,4090,854,*
-Kennedy,.,.,Mary,.,F,B,.,58,.,.,1,158,6,14 Feb 1912,.,534,569,.
-Kernes,.,.,Henry,.,M,B,7 Dec 1912,64,.,.,12,58,4,15 Dec 1912,.,4238,866,.
-King,.,.,Edward,.,M,B,.,29,.,.,1,51,1,8 Jan 1912,.,67,529,.
-King,.,.,Jesse,.,M,B,17 Apr 1912,35,.,.,11,27,1,21 Apr 1912,.,1567,669,.
-King,.,.,Robert,.,M,B,.,26,.,.,12,38,1,7 Jan 1912,.,47,527,.
-King,.,.,William,.,M,B,.,58,.,.,9,45,1,25 Feb 1912,.,693,583,.
-Lang,.,.,Bessie,.,F,B,24 Jun 1912,38,.,.,.,.,.,27 Jun 1912,Stranger Rest,2358,730,.
-Langston,.,.,James,.,M,B,1 Dec 1912,34,.,.,7,124,6,3 Dec 1912,.,4112,855,.
-Larimmie,.,.,Milton,.,M,B,29 Sep 1912,73,.,.,4,58,1,2 Oct 1912,.,3437,811,.
-Lee,.,.,Baby,.,F,B,.,.,.,0,.,.,.,8 Mar 1912,Stranger Rest,875,605,*
-Lee,.,.,Estell,.,F,B,.,45,.,.,12,51,1,13 Jan 1912,.,117,532,.
-Lee,.,.,Jimmie,.,F,B,.,.,.,.,1rw,175,1,12 Mar 1912,.,936,607,*
-Lewis,.,.,Adeline,.,F,B,.,28,.,.,10,68,1,7 Apr 1912,.,1353,641,.
-Lewis,.,.,Henry,W,M,B,.,41,.,.,6,38,1,7 Jan 1912,.,53,526,.
-Lewis,.,.,Thomas,.,M,B,5 Apr 1912,42,.,.,2,83,4,8 Apr 1912,.,1364,642,.
-Lewis,.,.,William,.,M,B,.,62,.,.,5,190,1,12 Feb 1912,.,513,567,.
-Logan,.,.,Anna,.,F,B,.,29,.,.,5,38,1,24 Jan 1912,.,288,540,.
-Love,.,.,Frances,.,F,B,.,70,.,.,1,38,1,20 Feb 1912,.,622,572,.
-Love,.,.,J,H,M,B,.,46,.,.,5,178,1,11 Feb 1912,.,157,563,.
-Lovejoy,.,.,Robert,.,M,B,9 Dec 1912,30,.,.,4,81,4,11 Dec 1912,.,4201,863,.
-MacKoy,.,.,Anna,.,F,B,4 Oct 1912,107,.,.,9,179,1,6 Oct 1912,.,3491,817,.
-Magens,.,.,Martin,.,M,B,24 Oct 1912,5,.,.,2ndrw,175,1,26 Oct 1912,.,2706,828,.
-Magens,.,.,Lucy,.,F,B,29 Apr 1912,46,.,.,6,46,1,2 Apr 1912,.,1720,678,.
-Marshall,.,.,Clay,.,M,B,21 Nov 1912,69,.,.,.,.,.,10 Dec 1912,Stranger Rest,4158,861,.
-Marshall,.,.,Robert,.,M,B,10 Aug 1912,33,.,.,6,147,6,16 Aug 1912,.,2118,758,.
-Mascey,.,.,Baby,.,.,B,19 Sep 1912,.,.,.,.,.,.,21 Sep 1912,Stranger Rest,3308,794,*
-Mason,.,.,Amanda,.,F,B,9 Jul 1912,66,.,.,11,125,6,14 Jul 1912,.,.,739,.
-Mayham,.,.,Freddie,.,M,B,7 Oct 1912,4,.,.,8,155,6,9 Oct 1912,.,3525,819,.
-McCoy,.,.,Baby,.,M,B,19 Mar 1912,.,.,0,.,.,.,23 Mar 1912,Stranger Rest,1057,625,.
-McCue,.,.,Edward,.,M,B,11 Dec 1912,51,.,.,5,37,1,15 Dec 1912,.,4237,867,.
-McCullough,.,.,Irma,.,M,B,.,7,.,.,2ndrw,175,1,30 Dec 1912,.,4448,880,*
-McFalls,.,.,Gertrude,.,F,B,19 Mar 1912,32,.,.,7,194,6,21 Mar 1912,.,1032,617,.
-McMillan,.,.,Anthony,.,M,B,29 Sep 1912,35,.,.,.,.,.,5 Oct 1912,Stranger Rest,3469,814,.
-McMlendon,.,.,Mullier,.,M,B,26 Oct 1912,.,4,.,.,.,.,31 Oct 1912,Stranger Rest,3745,834,.
-Merriweather,.,.,Baby,.,M,B,5 Nov 1912,.,.,0,.,.,.,6 Nov 1912,Stranger Rest,.,842,*
-Michael,.,.,Walter,.,M,B,18 Jun 1912,21,.,.,10,60,4,23 Jun 1912,.,2293,723,.
-Miller,.,.,Betsey,.,F,B,28 Mar 1912,83,.,.,8,193,6,30 Mar 1912,.,.,632,.
-Mitchell,.,.,Frank,C,M,B,13 Oct 1912,58,.,.,4,73,4,15 Oct 1912,.,3583,822,.
-Mitchell,.,.,Amanda,.,F,B,.,55,.,.,1,43,4,3 Jan 1912,.,17,525,.
-Monroe,.,.,Andrew,.,M,B,5 Sep 1912,.,.,.,4,59,4,8 Sep 1912,.,3167,775,.
-Monroe,.,.,Andrew,.,M,B,5 Sep 1912,.,.,.,4,59,4,8 Sep 1912,.,3167,775,.
-Montgomery,.,.,Mary,.,F,B,8 Dec 1912,50,.,.,3,74,4,10 Dec 1912,.,4190,862,.
-Moody,.,.,Baby,.,M,B,25 May 1912,.,.,30min,.,.,.,27 May 1912,Stranger Rest,2039,704,.
-Moore,.,.,Arthur,.,M,B,4 Nov 1912,26,.,.,6,74,4,6 Nov 1912,.,3808,839,.
-Moore,.,.,Baby,.,F,B,.,.,.,.,.,.,.,24 Nov 1912,Stranger Rest,4018,850,*
-Moore,.,.,Foney,.,M,B,.,.,.,.,7,144,6,24 Apr 1912,.,1640,672,.
-Moore,.,.,John,A,M,B,28 Sep 1912,2,.,.,2rw,176,1,30 Sep 1912,.,3425,809,*
-Moore,.,.,Laura,.,F,B,.,28,.,.,10,50,1,12 Mar 1912,.,951,610,.
-Moore,.,.,Still Born,.,F,B,5 Sep 1912,.,.,0,.,.,.,18 Sep 1912,Stranger Rest,3275,788,.
-Mosley,.,.,Sullie,.,F,B,.,26,.,.,.,.,.,.,Stranger Rest,708,585,.
-Mullen,.,.,Robert,.,M,B,.,54,.,.,12,5,4,9 Feb 1912,.,479,561,.
-Myers,.,.,Susie,.,F,B,.,.,.,.,1,14,4,31 Jan 1912,.,371,545,.
-Nealy,.,.,George,.,M,B,2 Apr 1912,45,.,.,.,.,.,20 Apr 1912,Stranger Rest,1565,668,.
-Nelson,.,.,Edward,.,M,B,22 Oct 1912,30,.,.,9,180,1,23 Oct 1912,.,.,827,.
-Nero,.,.,Mary,E,F,B,10 May 1912,72,.,.,2,180,6,12 May 1912,.,1854,688,.
-Nevels,.,.,Richard,.,M,B,4 Dec 1912,40,.,.,.,.,.,10 Dec 1912,Stranger Rest,.,859,.
-Nudge,.,.,Sylvester,.,M,B,1 Jul 1912,4,.,.,1rw/2,175,1,21 Jul 1912,.,2407,732,*
-Overton,.,.,Mary,.,F,B,.,23,.,.,1,45,1,4 Mar 1912,.,794,597,.
-Owens,.,.,Ida,Mae,F,B,9 Apr 1912,12,.,.,1rw,34,1,12 Apr 1912,.,1423,652,*
-Page,.,.,Sylvester,.,M,B,17 Dec 1912,.,.,.,.,.,.,20 Dec 1912,Stranger Rest,4323,873,.
-Palson,.,.,Infant,.,M,B,.,.,.,.,.,.,.,.,Stranger Rest,.,571,.
-Parker,.,.,Hattie,J,F,B,.,60,.,.,6,50,1,28 Jan 1912,.,318,544,.
-Parker,.,.,Kames,.,M,B,1 Jul 1912,56,.,.,7,60,4,5 Jul 1912,.,2446,735,.
-Parker,.,.,Margaret,.,F,B,19 Sep 1912,.,1,.,1rw,175,1,21 Sep 1912,.,3317,793,*
-Patrick,.,.,Edward,.,M,B,11 May 1912,52,.,.,6,37,1,14 May 1912,.,1847,692,.
-Patrick,.,.,Mollie,.,F,B,.,44,.,.,1,21,4,24 Jul 1912,.,2681,744,.
-Patterson,.,.,Robert,.,M,B,26 Aug 1912,65,.,.,3,72,4,1 Sep 1912,.,3092,769,.
-Payne,.,.,Baby,.,M,B,25 Jun 1912,.,.,0,.,.,.,29 Jun 1912,Stranger Rest,2347,733,*
-Payne,.,.,Baby,.,M,B,29 Jun 1912,.,.,.,.,.,.,10 Jul 1912,Stranger Rest,2482,736,.
-Pemr,.,.,Jessie,.,F,B,19 Sep 1912,19,.,.,5,190,1,22 Sep 1912,.,.,797,.
-Pennington,.,.,George,.,M,B,24 May 1912,32,.,.,.,.,.,27 May 1912,Stranger Rest,2038,703,.
-Perry,.,.,Isine,.,F,B,23 May 1912,18,.,.,5,70,1,26 May 1912,.,2033,701,.
-Player,.,.,Gussie,.,F,B,.,35,.,.,10,45,1,4 Mar 1912,.,412,557,.
-Porter,.,.,May,.,F,B,20 Jul 1912,40,.,.,.,.,.,23 Jul 1912,Stranger Rest,2679,743,.
-Powell,.,.,Arthelia,.,F,B,.,1,.,.,1rw,175,1,14 Mar 1912,.,954,609,*
-Prewett,.,.,Baby,.,F,B,30 Apr 1912,.,.,.,.,.,.,12 May 1912,Stranger Rest,1828,691,.
-Price,.,.,Ellen,.,F,B,.,58,.,.,3,38,1,11 Feb 1912,.,501,564,.
-Proctor,.,.,Dovie,.,F,B,26 Oct 1912,31,.,.,1,190,1,29 Oct 1912,.,3705,831,.
-Proctor,.,.,James,W,M,B,.,23,.,.,7,21,4,13 Oct 1912,.,3568,821,.
-Prukie,.,.,Parthria,.,F,B,.,39,.,.,5,50,1,8 Feb 1912,.,463,559,.
-Rankins,.,.,Sylvester,.,.,.,23 May 1912,24,.,.,9,28,1,26 May 1912,.,2030,700,.
-Redman,.,.,Binkry,.,M,B,20 Mar 1912,1,.,.,2,34,1,22 Mar 1912,.,1079,621,.
-Redman,.,.,George,.,M,B,.,34,.,.,1,191,1,25 Apr 1912,.,1648,673,.
-Reed,.,.,Bertha,.,F,B,29 Jul 1912,28,.,.,1,60,4,2 Aug 1912,.,2777,751,.
-Reed,.,.,Lizzie,.,F,B,13 Sep 1912,60,.,.,7,72,4,16 Sep 1912,.,3227,785,.
-Reed,.,.,Lizzie,.,F,B,.,33,.,.,9,38,1,22 Feb 1912,.,647,577,.
-Rice,.,.,Shirley,.,M,B,10 May 1912,41,.,.,.,.,.,29 May 1912,Stranger Rest,2040,706,.
-Richardson,.,.,John,.,M,B,.,22,.,.,.,.,.,22 Jan 1912,Stranger Rest,262,539,.
-Richardson,.,.,Wm,J,M,B,.,40,.,.,7,148,6,23 Feb 1912,.,669,579,.
-Ricketts,.,.,Henry,.,M,B,18 Apr 1912,27,.,.,5,28,1,20 Apr 1912,.,1566,665,.
-Robinson,.,.,Carrie,.,F,B,2 Apr 1912,.,.,.,11,70,1,9 Apr 1912,.,1388,643,.
-Rodgers,.,.,John,.,M,B,6 Sep 1912,46,.,.,12,59,4,8 Sep 1912,.,.,777,.
-Rodragurz,.,.,Vidal,.,M,M,2 May 1912,34,.,.,.,.,.,8 May 1912,Stranger Rest,1815,687,.
-Rogers,.,.,.,.,M,B,20 Jun 1912,40,.,.,.,.,.,27 Jun 1912,Stranger Rest,2324,728,.
-Rogers,.,.,A,W,M,B,31 Aug 1912,53,.,.,5,59,4,1 Sep 1912,.,3097,770,.
-Rogers,.,.,Frank,.,M,B,25 Jun 1912,32,.,.,2,179,.,29 Jun 1912,.,2355,731,.
-Ross,.,.,Charity,.,F,B,.,50,.,.,7,45,1,10 Mar 1912,.,905,606,.
-Ruby,.,.,Samuel,.,M,B,.,33,.,.,8,45,1,7 Mar 1912,.,867,602,.
-Rucker,.,.,Chuie,.,F,B,29 Jun 1912,48,.,.,2,16,4,28 Jun 1912,.,2342,729,.
-Rulford,.,.,Lafayette,.,M,B,.,43,.,.,.,.,.,14 Dec 1912,Stranger Rest,4215,865,.
-Russell,.,.,Eliza,.,F,B,6 Apr 1912,65,.,.,6,148,6,11 Apr 1912,.,1440,648,.
-Salsburg,.,.,Arthur,.,M,B,24 Sep 1912,33,.,.,5,58,4,28 Sep 1912,.,3398,803,.
-Sanders,.,.,Frank,.,M,B,4 Apr 1912,21,.,.,.,.,.,20 Apr 1912,Stranger Rest,1555,666,.
-Sandridge,.,.,George,.,M,B,25 Sep 1912,31,.,.,5,190,1,30 Sep 1912,.,3405,807,.
-Saunders,.,.,Leon,B,M,B,30 Jul 1912,5,.,.,.,.,.,31 Jul 1912,Stranger Rest,2762,748,.
-Scott,.,.,William,D,M,B,.,14,.,.,.,.,.,20 Feb 1912,Stranger Rest,629,573,.
-Searcey,.,.,James,.,M,B,.,58,.,.,7,179,1,20 Nov 1912,.,.,846,.
-Seley,.,.,Clayton,Wi,M,B,25 Sep 1912,33,.,.,6,73,4,28 Sep 1912,.,33821,802,.
-Sexton,.,.,Henry,.,M,B,.,.,.,.,4,191,1,22 Mar 1912,.,1029,622,.
-Simons,.,.,Eliza,.,F,B,.,26,.,.,3,50,1,5 Mar 1912,.,827,598,.
-Sims,.,.,James,E,M,B,.,.,.,.,9,178,.,25 Feb 1912,.,181,584,.
-Singleton,.,.,Robert,.,M,B,.,20,.,.,7,44,4,18 Jan 1912,.,.,535,.
-Sizemore,.,.,William,.,M,B,13 Apr 1912,36,.,.,12,31,4,21 Apr 1912,.,1601,670,.
-Smiley,.,.,Mamie,.,F,B,.,40,.,.,11,45,1,22 Jan 1912,.,263,538,.
-Smith,.,.,Alfred,H,M,B,13 Nov 1912,30,.,.,11,73,4,18 Nov 1912,.,.,844,.
-Smith,.,.,Anna,.,F,B,30 Jul 1912,.,.,.,2,60,4,1 Aug 1912,.,2776,750,.
-Smith,.,.,Baby,.,F,B,.,1,.,.,.,.,.,28 Feb 1912,Stranger Rest,730,587,*
-Smith,.,.,Charley,.,M,B,.,48,.,5hr,.,.,.,8 Feb 1912,Stranger Rest,475,560,.
-Smith,.,.,Infant,.,M,B,.,.,.,.,.,.,.,23 Feb 1912,Stranger Rest,672,581,*
-Smith,.,.,James,.,M,B,.,.,.,.,.,.,.,19 Apr 1912,Stranger Rest,1581,667,.
-Smith,.,.,Joanna,.,F,B,29 Mar 1912,50,.,.,1,86,4,31 Mar 1912,.,1197,634,.
-Smith,.,.,Mary,.,F,B,9 Jul 1912,28,.,.,2,38,1,11 Jul 1912,.,2515,737,.
-Smith,.,.,Mathew,B,M,B,24 Apr 1912,7,.,.,12,179,1,26 Apr 1912,.,1660,676,.
-Smith,.,.,Preston,W,M,B,18 Aug 1912,15,.,.,9,72,4,29 Aug 1912,.,3002,764,.
-Smith,.,.,Richard,.,M,B,9 Aug 1912,50,.,.,.,.,.,14 Aug 1912,Stranger Rest,2912,757,.
-Smith,.,.,Walter,.,M,B,.,43,.,.,.,.,.,10 Jan 1912,.,115,531,.
-Snell,.,.,Daisy,.,F,B,23 Nov 1912,34,.,.,4,74,4,27 Nov 1912,.,4052,851,.
-Somon,.,.,George,.,M,B,30 Oct 1912,30,.,.,5,126,6,1 Nov 1912,.,3746,835,.
-Spears,.,.,Katie,.,F,B,30 Apr 1912,52,.,.,5,57,1,2 May 1912,.,1774,682,.
-Spence,.,.,John,.,M,B,13 Mar 1912,26,.,.,.,.,.,30 Mar 1912,Stranger Rest,1115,630,.
-Stevenson,.,.,Norman,.,M,B,19 Mar 1912,7,.,.,4,33,1,21 Mar 1912,.,1056,619,.
-Stewart,.,.,Hallie,Mae,F,B,30 Apr 1912,33,.,.,12,46,1,2 May 1912,.,1740,680,.
-Stoveall,.,.,Robert,.,M,B,20 May 1912,33,.,.,.,.,.,26 Jun 1912,Stranger Rest,2323,721,.
-Strong,.,.,Mary,C,F,B,.,65,.,.,6,45,1,14 Jan 1912,.,149,534,.
-Sutton,.,.,Amanda,.,F,B,2 Apr 1912,57,.,.,9,68,1,4 Apr 1912,.,1293,639,.
-Swan,.,.,W,P,M,B,.,51,.,.,4,170,6,11 Feb 1912,.,4981,566,.
-Tarrence,.,.,Clara,.,F,B,7 Sep 1912,50,.,.,2,72,4,9 Sep 1912,.,3168,778,.
-Taylor,.,.,Charley,.,M,B,10 May 1912,51,.,.,6,49,1,12 May 1912,.,.,690,.
-Taylor,.,.,Eddie,.,M,B,16 Aug 1912,24,.,.,10,72,4,20 Aug 1912,.,2971,763,.
-Taylor,.,.,Laura,.,F,B,25 Oct 1912,75,.,.,3,73,4,27 Oct 1912,.,3704,829,.
-Terry,.,.,Frank,S,M,B,7 Aug 1912,70,.,.,12,72,4,12 Aug 1912,.,2877,754,.
-Testits,.,.,Madeline,.,F,B,.,21,.,.,7,38,1,6 Mar 1912,.,841,601,.
-Thomas,.,.,Anna,.,F,B,19 Sep 1912,70,.,.,11,179,1,21 Sep 1912,.,3307,792,.
-Thomas,.,.,Julia,A,F,B,.,52,.,.,1,31,4,23 Sep 1912,.,898,799,.
-Thomas,.,.,Kirk,.,M,B,.,35,.,.,.,.,.,28 Feb 1912,Stranger Rest,694,586,.
-Tidwell,.,.,James,A,M,B,21 Aug 1912,4,.,.,3rw,34,1,24 Aug 1912,.,3013,767,*
-Tooley,.,.,Walter,.,M,B,.,17,.,.,6,31,4,18 Apr 1912,.,1550,662,.
-Tucker,.,.,Walter,.,M,B,.,36,.,.,3,178,1,7 Mar 1912,.,.,603,.
-Turner,.,.,Ernest,.,M,B,.,.,25,.,4,156,6,1 Feb 1912,.,383,551,.
-Unknown Man,.,.,.,.,M,M,5 May 1912,30,.,.,.,.,.,12 May 1912,Stranger Rest,1855,689,.
-Vaughrn,.,.,Edward,.,M,B,10 Sep 1912,25,.,.,1,124,6,15 Sep 1912,.,3226,784,.
-Vinegar,.,.,Isac,.,M,B,21 Sep 1912,51,.,.,9,59,4,29 Sep 1912,.,.,806,.
-Walker,.,.,Bernice,.,F,B,9 Mar 1912,.,5,.,.,.,.,23 Mar 1912,Stranger Rest,1054,623,.
-Walker,.,.,Callie,.,F,B,.,30,.,.,7,142,6,28 Jan 1912,.,319,543,.
-Walker,.,.,Dora,.,F,B,12 Sep 1912,.,.,0,.,.,.,23 Sep 1912,Stranger Rest,3319,800,*
-Walker,.,.,Sallie,.,F,B,.,40,.,.,10,178,1,21 Feb 1912,.,607,575,.
-Waller,.,.,Robert,.,M,B,.,57,.,.,6,166,6,17 Mar 1912,.,1012,615,.
-Walls,.,.,Grandson,.,M,.,.,32,.,.,11,58,4,29 Dec 1912,.,4414,878,.
-Walls,.,.,Leonard,.,M,B,9 Apr 1912,25,.,.,12,28,1,11 Apr 1912,.,.,651,.
-Walter,.,.,Charles,.,M,B,7 Mar 1912,5,.,.,.,.,.,23 Mar 1912,Stranger Rest,1055,624,.
-Walter,.,.,Sylvia,.,F,B,13 Jul 1912,53,.,.,12,166,6,16 Jul 1912,.,2583,741,.
-Walton,.,.,Thomas,.,M,B,6 Sep 1912,45,.,.,.,.,.,12 Sep 1912,Stranger Rest,3214,779,.
-Washington,.,.,Baby,.,M,B,.,.,.,0,.,.,.,13 Jun 1912,Stranger Rest,2211,717,*
-Washington,.,.,Edna,.,F,B,2 Jul 1912,33,.,.,8,60,4,4 Jul 1912,.,2434,734,.
-Wells,.,.,Baby,.,M,B,.,.,.,7,.,.,.,12 Mar 1912,Stranger Rest,854,599,*
-Wenfrey,.,.,Anna,.,F,B,20 Dec 1912,63,.,.,12,181,1,22 Dec 1912,.,4344,874,.
-White,.,.,Ethel,.,F,B,18 Oct 1912,18,.,.,2,58,4,20 Oct 1912,.,3620,825,.
-White,.,.,Frank,Stewart,M,B,.,22,.,.,4,50,1,3 Mar 1912,.,792,596,.
-White,.,.,Jennie,.,F,B,18 Aug 1912,85,.,.,6,181,1,23 Aug 1912,.,3016,765,.
-White,.,.,Julia,.,F,B,.,52,.,.,5,74,4,22 Nov 1912,.,3986,847,.
-William,.,.,Belle,.,F,B,.,33,.,.,11,60,4,14 Jun 1912,.,.,718,.
-Williams,.,.,Baby,.,M,B,2 Oct 1912,.,3,.,.,.,.,5 Oct 1912,Stranger Rest,3470,813,.
-Williams,.,.,George,.,M,B,19 Jul 1912,17,.,.,.,.,.,24 Jul 1912,Stranger Rest,2669,745,.
-Williams,.,.,Harry,.,M,B,.,23,.,.,.,.,.,3 Apr 1912,Stranger Rest,1172,637,.
-Williams,.,.,Hue,.,M,B,19 Apr 1912,25,.,.,1,178,1,22 Apr 1912,.,1604,671,.
-Williams,.,.,Julia,H,F,B,5 Oct 1912,58,.,.,5,124,6,8 Oct 1912,.,3515,818,.
-Williams,.,.,Louisa,.,F,B,8 Jun 1912,32,.,.,.,.,.,14 Jun 1912,Stranger Rest,2224,719,.
-Wood,.,.,Raymond,B,M,B,15 Jun 1912,3,.,.,2rw,33,1,16 Jun 1912,.,2239,720,*
-Woodfork,.,.,.,.,F,B,.,1,.,.,.,.,.,3 Mar 1912,.,774,591,.
-Woods,.,.,Willis,.,M,B,26 Apr 1912,39,.,.,.,.,.,5 Sep 1912,Stranger Rest,3136,772,.
-Wright,.,.,Fannie,Mae,F,B,30 Oct 1912,9,.,.,1,58,4,3 Nov 1912,.,3777,836,.
-Wright,.,.,Nellie,.,F,B,27 Mar 1912,21,.,.,5,68,1,31 Mar 1912,.,1208,633,.
-Wright,.,.,Viola,.,F,B,19 Oct 1912,.,10,.,2ndrw,175,1,21 Oct 1912,.,3635,826,.
-Yates,.,.,Josephine,S,F,B,3 Sep 1912,52,.,.,9,164,6,6 Sep 1912,.,3142,773,.
+Last	Title	Suffix	First Name	Middle	Sex	Race	Date of Death	Age	Months	Days	Grave	Lot	Block	Burial Date	Comments	Permit #	Int #	Baby	Death Record
+Adams	.	.	Gale	.	M	B	29 Jun 1909	11	.	.	2	33	1	30 Jun 1909	.	10464	6	.	32745
+Adams	.	.	Mella	Lee	F	B	10 Jul 1909	2	.	.	3	33	1	12 Jul 1909	.	.	13	.	
+Adams	.	.	Pleasant	.	M	B	.	68	.	.	11	1	4	25 Jul 1909	South half	11790	25	.	
+Adams	.	.	Terah	.	F	M	26 Jun 1909	37	.	.	3	25	1	29 Jun 1909	.	10455	4	.	
+Alexander	.	.	Cavaine	.	F	B	16 Jul 1909	1	1	.	6	33	1	19 Jul 1909	.	11749	20	.	
+Allen	.	.	Alice	.	F	B	21 Sep 1909	40	.	.	1	25	4	26 Sep 1909	.	12283	47	.	
+Allen	.	.	Ellis	.	M	B	20 Dec 1909	60	.	.	7	62	12	.	.	11033	80	.	
+Anderson	.	.	Infant	.	F	B	27 Oct 1909	.	.	.	5	62	12	13 Nov 1909	.	10548	67	.	
+Amette	.	.	William	.	M	B	17 Dec 1909	32	.	.	12	31	1	20 Dec 1909	.	11178	78	.	
+Ashold	.	.	Infant	.	F	B	12 Oct 1909	.	.	.	5	62	12	13 Nov 1909	.	10519	68	.	
+Barber	.	.	M	.	M	B	17 Jul 1909	25	11	17	10	25	1	19 Jul 1909	.	11750	19	.	32929
+Boone	.	.	James	.	M	B	14 Sep 1909	28	.	.	12	30	1	16 Sep 1909	.	12233	45	.	
+Boyd	.	.	Lizzie	.	F	B	8 Oct 1909	37	.	.	1	62	12	10 Oct 1909	.	12395	54	.	
+Bradshaw	.	.	Louis	N	M	B	15 Dec 1909	43	.	.	7	31	1	19 Dec 1909	.	11170	77	.	
+Bright	.	.	James	.	M	B	3 Sep 1909	68	.	.	11	30	1	8 Sep 1909	.	12190	43	.	
+Brown	.	.	L (Lula Emory)	.	F	B	4 Nov 1909	40	.	.	1	172	6	22 Nov 1909	.	10780	73	.	
+Buckhart	.	.	Gus	.	M	B	16 Aug 1909	62	.	.	1	27	24	22 Aug 1909	.	.	36	.	
+Carpenter	.	.	Nettie	.	F	B	19 Jul 1909	29	.	.	1	30	1	21 Jul 1909	.	11761	21	.	32942
+Countee	.	.	R	N	M	B	21 Apr 1909	.	.	.	3	164	6	19 Aug 1909	from Union	11629	35	.	
+Crumpton	.	.	Charles	.	M	B	.	.	.	.	1	11	4	23 Aug 1909	.	12050	38	.	
+Dillard	.	.	Hannah	.	F	B	22 Jul 1909	59	.	.	1	8	4	25 Jul 1909	.	11792	26	.	32979
+Foster	.	.	Maggie	.	F	B	27 Jul 1909	450	.	.	7	1	4	29 Jul 1909	.	11648	27	.	33021
+Franklin	.	.	Infant	.	F	B	6 Nov 1909	.	.	.	5	62	12	13 Nov 1909	.	10689	65	.	
+Franklin	.	.	S	.	M	B	12 Jul 1909	.	22	19	4	33	1	15 Jul 1909	.	11716	17	.	32879
+Gaines	.	.	L	.	F	B	4 Oct 1909	40	5	11	2	156	6	7 Oct 1909	.	12377	53	.	
+Guinn	.	.	Edwards	.	M	B	6 Jul 1909	41	.	.	7	25	1	11 Jul 1909	.	11524	10	.	32812
+Haney	.	.	Mattie	.	F	B	10 Nov 1909	29	.	.	3	154	6	12 Nov 1909	.	.	64	.	
+Hare	.	.	Francis	.	F	B	27 Jul 1909	58	.	.	2	30	1	1 Aug 1909	.	11812	29	.	33077
+Hargraves	.	.	A	T	M	B	20 Jul 1909	43	.	.	1	2	4	25 Jul 1909	.	11796	24	.	32954
+Harrington	.	.	C	.	M	B	11 Jul 1909	24	.	.	9	25	1	14 Jul 1909	.	11587	16	.	32861
+Henderson	.	.	C	.	M	B	25 Dec 1909	45	.	.	8	62	12	30 Dec 1909	.	11065	82	.	
+Hill	.	.	Peter	.	M	B	18 Dec 1909	55	.	.	6	62	12	30 Dec 1909	.	11029	84	.	
+Houston	.	.	W	L	M	B	3 Jun 1909	.	.	.	7	33	1	26 Aug 1909	from Union	12080	39	.	32531
+Hurston	.	.	Rebecca	.	F	B	20 Dec 1909	.	9	.	8	33	1	22 Dec 1909	.	11198	79	.	
+Jackson	.	.	Easter	.	F	B	13 Oct 1909	50	.	.	5	106	6	17 Oct 1909	.	12449	59	.	
+Jamerson	.	.	Fannie	.	F	B	2 Oct 1909	35	.	.	3	3	4	6 Oct 1909	.	12365	52	.	
+Jenkins	.	.	Ella	.	F	B	11 Jul 1909	23	8	12	8	25	1	13 Jul 1909	.	11583	14	.	32870
+Johnson	.	.	Lealand	.	M	B	3 Sep 1909	17	11	17	10	30	1	5 Sep 1909	.	.	42	.	
+Jones	.	.	A	.	M	B	18 Dec 1909	.	.	.	10	62	12	30 Dec 1909	.	11030	85	.	
+Lemmons	.	.	Adolph	.	M	B	11 Oct 1909	21	.	.	12	173	6	.	.	12417	58	.	
+Lenard	.	.	Geo.	.	M	B	5 Dec 1909	42	.	.	1	172	6	9 Dec 1909	South half	10874	74	.	
+Mansfield	.	.	Jennie	.	F	B	2 Oct 1909	55	.	.	5	24	1	4 Oct 1909	.	12346	49	.	
+May	.	.	Felix	.	.	.	2 Jun 1909	42	.	.	5	25	1	2 Jul 1909	.	10482	8	.	32749
+Mayo	.	.	Albert	.	.	.	29 Jul 1909	41	.	24	1	12	4	1 Aug 1909	.	11810	28	.	33046
+Mercy	.	.	Emma	.	F	B	2 Aug 1909	55	.	.	7	30	1	8 Aug 1909	.	11862	33	.	33098
+Milford	.	.	Willie	Edward	M	B	13 Dec 1909	.	5	.	6	155	6	16 Dec 1909	.	11150	75	.	
+Minn	.	.	Homer	.	M	B	2 Oct 1909	54	.	.	2	62	12	10 Oct 1909	.	12363	55	.	
+Morris	.	.	Monion	.	M	B	22 Jun 1909	60	.	.	2	25	1	25 Jun 1909	.	10422	3	.	32683
+Mortin	.	.	Cora	N	F	B	12 Jul 1909	28	.	.	1	180	6	14 Jul 1909	.	11591	15	.	32881
+Oldham	.	.	Mary	.	F	B	.	.	.	.	2	155	6	2 Oct 1909	.	12327	48	.	
+Overton	.	.	.	.	M	B	19 Nov 1909	22	.	.	11	24	1	22 Nov 1909	.	10764	71	.	
+Parks	.	.	Nathan	.	M	B	26 Jun 1909	.	.	.	4	25	1	30 Jun 1909	.	10463	5	.	32713
+Petty	.	.	Theo	Birch	M	B	14 Jun 1909	4	.	.	1	33	1	16 Jun 1909	.	10359	2	.	32624
+Phillip	.	.	Lewis	.	M	B	24 Sep 1909	34	.	.	1	24	1	26 Sep 1909	.	12290	46	.	
+Powell	.	.	Chas	.	M	B	22 Jul 1909	35	.	.	12	25	1	25 Jul 1909	.	11603	23	.	32973
+Powell	.	.	Sallie	.	F	B	15 Jun 1909	43	.	.	1	25	1	15 Jun 1909	.	10353	1	.	32603
+Rhoeds	.	.	Sallie	.	F	B	4 Oct 1909	51	.	.	7	24	1	6 Oct 1909	.	12358	51	.	
+Ricketts	.	.	Anna	.	F	B	2 Aug 1909	30	.	.	3	30	1	5 Aug 1909	.	11852	30	.	33101
+Rogers	.	.	Pauline	.	F	B	19 Oct 1909	.	10	.	4	62	12	28 Oct 1909	.	10520	61	.	
+Ruth	.	.	Albert	.	M	B	6 Oct 1909	50	.	.	8	24	1	19 Oct 1909	.	.	57	.	
+Sarington	.	.	Edward	.	M	B	18 Nov 1909	28	.	.	10	24	1	21 Nov 1909	.	10759	70	.	
+Simpson	.	.	John	.	M	B	4 Aug 1909	65	.	.	4	30	1	6 Aug 1909	.	.	31	.	33128
+Slaughter	.	.	Charles	.	M	B	3 Jul 1909	17	.	.	1	7	4	11 Jul 1909	.	11525	12	.	
+Smith	.	.	Henry	.	M	B	19 Jul 1909	50	.	.	11	25	1	21 Jul 1909	.	11771	22	.	32943
+Smith	.	.	Louis	.	M	B	19 Aug 1909	31	.	.	6	30	1	22 Aug 1909	.	12030	37	.	33274
+Smith	.	.	Rus	.	M	B	30 Jun 1909	32	.	.	6	25	1	5 Jul 1909	.	10487	9	.	32751
+Smith	.	.	Walter	.	M	B	28 Aug 1909	44	.	.	8	30	1	30 Aug 1909	.	.	40	.	33380
+Smoot	.	.	Eddie	.	M	B	4 Aug 1909	21	.	.	5	30	1	7 Aug 1909	.	11861	32	.	33127
+Stone	.	.	Jack	.	M	B	1 Oct 1909	28	.	.	3	62	12	10 Oct 1909	.	4323	56	.	
+Stone	.	.	Nancy	.	F	B	16 Nov 1909	38	.	.	9	24	1	18 Nov 1909	.	10729	69	.	
+Sursey	.	.	William	.	M	B	15 Dec 1909	39	.	.	1	31	1	19 Dec 1909	.	11153	76	.	
+Taylor	.	.	Lottie	.	F	B	11 Sep 1909	20	.	.	1	165	6	13 Sep 1909	.	12205	44	.	
+Thompkins	.	.	Wm	A	M	B	1 Nov 1909	24	.	.	7	12	4	3 Nov 1909	.	10592	62	.	
+Tinell	.	.	Eliza	.	F	B	22 Nov 1909	52	.	.	12	24	1	24 Nov 1909	.	10779	72	.	
+Unknown Man	.	.	.	.	M	B	.	.	.	.	6	62	12	13 Nov 1909	.	10709	66	.	
+Washington	.	.	W	T	M	B	2 Oct 1909	26	.	.	2	24	1	5 Oct 1909	.	.	50	.	
+Watts	.	.	D	D	M	B	21 Dec 1909	27	.	.	8	62	12	30 Dec 1909	.	11031	81	.	
+Wells	.	.	G	H	M	B	26 Aug 1909	43	.	.	9	30	1	31 Aug 1909	.	.	41	.	33359
+Whisigar	.	.	Geo.	.	M	B	14 Aug 1909	64	.	.	5	12	4	17 Aug 1909	.	11974	34	.	33209
+Whitfield	.	.	Andrew	.	M	B	18 Dec 1909	60	.	.	9	62	12	30 Dec 1909	.	11028	83	.	
+Wilkins	.	.	Wm	B	M	.	6 Jul 1909	63	3	.	6	24	1	11 Jul 1909	.	11554	11	.	
+Wilson	.	.	Baby	.	F	B	16 Jul 1909	.	.	.	5	33	1	17 Jul 1909	.	11737	18	.	
+Woods	.	.	Jesse	.	M	B	23 Oct 1909	25	.	.	1	24	4	26 Oct 1909	.	10539	60	.	
+Wright	.	.	Milben	.	M	B	.	.	.	.	6	1	4	2 Jul 1909	from Union	10479	7	.	
+Yamell	.	.	Mary	.	F	B	1 Nov 1909	33	.	.	12	2	4	5 Nov 1909	.	.	63	.	
+Slaughter	.	.	.	.	.	.	.	.	.	.	2	3	4	28 Sep 1909	transfer	.	.	.	
+Adams	.	.	Dora	A	F	B	Feb 1910	21	.	.	6	40	1	9 Feb 1910	.	179	104	.	1713
+Adams	.	.	Ora	.	M	B	Feb 1910	25	.	.	7	40	1	8 Feb 1910	.	162	102	.	
+Allen	.	.	Gilbert	.	M	B	5 Feb 1910	24	.	.	4	40	1	6 Feb 1910	.	121	99	.	1670
+Allen	.	.	Mattie	.	F	B	.	53	.	.	12	171	6	3 Jul 1910	.	2256	198	.	20028
+Anderson	.	.	C	.	M	B	.	16	.	.	11	66	1	2 Nov 1910	.	.	254	.	
+Anderson	.	.	George	.	M	B	.	30	.	.	1	176	1	13 Mar 1910	.	348	126	.	1920
+Anderson	.	.	Robert	.	M	B	.	.	.	.	5	55	1	13 Aug 1910	.	2749	215	.	23841
+Anderson	.	.	Wm	H	M	B	.	36	.	.	7	52	1	25 Dec 1910	.	4168	280	.	38207
+Angel	.	.	John	Thomas	M	B	May 1910	2	.	.	11	15	4	20 May 1910	.	1727	164	.	13228
+Angel	.	.	S	.	F	B	10 Apr 1910	23	.	.	9	15	4	23 Aug 1910	.	1431	151	.	9788
+Barnes	.	.	Baby	.	.	.	.	.	.	.	.	.	.	10 Oct 1910	.	.	240	.	
+Bauman	.	.	Robert	.	M	B	.	.	.	.	11	55	1	11 Sep 1910	.	735	227	.	
+Bearswell	.	.	Sarah	.	F	B	.	.	.	.	8	52	1	29 Dec 1910	.	.	282	.	
+Bell	.	.	Martha	.	F	B	.	56	.	.	1	4	4	15 May 1910	.	1667	161	.	13162
+Bennett	.	.	Margart	.	F	B	6 Apr 1910	71	.	.	7	170	6	10 Apr 1910	.	1273	142	.	9603
+Berry	.	.	Infant	.	M	B	.	.	.	21	.	33	1	19 Jul 1910	.	2460	206	.	20219
+Bibb	.	.	Nettie	B	F	B	.	3	.	.	.	.	.	.	.	3191	235	.	27497
+Bingham	.	.	William	.	M	B	.	37	.	.	9	55	4	28 Aug 1910	.	2906	221	.	23991
+Birch	.	.	David	.	M	B	24 Mar 1910	2	.	.	5	144	6	26 Mar 1910	.	1042	130	.	5629
+Birch	Dr	.	J	T	M	B	29 Oct 1910	35	.	.	4	144	6	30 Oct 1910	.	3526	252	.	30864
+Bobson	.	.	Jninetta	.	F	B	10 Mar 1910	35	.	.	2	31	1	14 Mar 1910	.	888	125	.	
+Bolden	.	.	Ermma	.	F	B	.	23	.	.	1	55	1	25 Jul 1910	.	2525	210	.	20290
+Boyd	.	.	Annie	.	F	B	.	70	.	.	8	24	4	11 Dec 1910	.	3977	272	.	
+Boyd	.	.	Granderson	.	M	B	.	95	.	.	7	24	4	28 Aug 1910	.	2920	222	.	24003
+Bradshaw	.	.	John	E	M	B	.	49	.	.	12	55	1	12 Sep 1910	.	3067	231	.	27390
+Bradshaw	.	.	Lucy	.	F	B	.	62	.	.	4	31	1	4 Apr 1910	.	1237	139	.	9567
+Brown	.	.	John	.	M	B	May 1910	28	.	.	10	31	1	3 May 1910	.	1542	155	.	13034
+Brown	.	.	John	.	.	.	.	38	.	.	4	54	1	18 Sep 1910	.	3120	233	.	27424
+Brown	.	.	Peter	.	M	B	Apr 1910	51	.	.	5	31	1	10 Apr 1910	.	1276	144	.	9640
+Caldwell	.	.	Carrie	.	F	B	17 Jan 1910	28	.	.	12	156	6	21 Jan 1910	.	11276	92	.	465
+Campbell	.	.	Clarence	.	M	B	24 Jan 1910	15	.	.	2	40	1	25 Jan 1910	.	11335	95	.	539
+Campbell	.	.	Joseph	.	M	B	7 Mar 1910	33	.	.	12	40	1	9 Mar 1910	.	834	122	.	5409
+Carrol	.	.	Carrie	.	F	B	.	34	.	.	2	66	1	9 Nov 1910	.	3616	257	.	34217
+Cates	.	.	Arthur	.	M	B	1 Jan 1910	36	.	.	3	40	1	30 Jan 1910	.	47	97	.	593
+Chapman	.	.	Julia	E H	F	B	.	3	.	.	13	33	1	1 Jun 1910	.	1836	170	.	13354
+Claham	.	.	B	.	M	B	.	74	.	.	1	155	6	10 Jul 1910	.	2324	199	.	
+Clark	.	.	Clara	L	F	B	.	41	.	.	8	66	1	28 Nov 1910	.	3871	263	.	34440
+Clark	.	.	Riley	.	M	B	.	47	.	.	4	55	1	7 Aug 1910	.	2691	214	.	23781
+Clark	.	.	Sallie	.	F	B	.	40	.	.	7	66	1	27 Nov 1910	.	3872	262	.	34439
+Coates	.	.	J	C	F	B	31 Dec 1910	44	.	.	7	4	4	3 Jan 1910	.	10909	87	.	
+Cole	.	.	Henry	.	M	B	.	29	.	.	10	54	1	20 Oct 1910	.	.	248	.	30768
+Coles	.	.	Wesley	.	M	B	1910	38	.	.	12	9	4	12 Apr 1910	.	1302	145	.	9663
+Countee	.	.	Rebecca	.	F	B	15 Feb 1910	35	.	.	5	164	6	17 Feb 1910	.	275	109	.	
+Countee	.	.	Sadie	.	F	B	.	8	.	.	4	164	6	8 Dec 1910	.	3976	268	.	38047
+Curtis	.	.	Ed	.	M	B	.	27	.	.	6	55	1	16 Aug 1910	.	2776	217	.	23870
+Darden	.	.	Lonie	Beatrice	F	B	.	18	.	.	2	41	1	15 May 1910	.	1664	159	.	13172
+Davis	.	.	Edward	.	M	B	.	38	.	.	7	67	1	30 Dec 1910	.	4286	283	.	38322
+Davis	.	.	Iola	.	F	B	Feb 1910	.	3	.	10	33	1	20 Feb 1910	.	309	110	.	1838
+Davis	.	.	Jacob	.	M	B	.	57	.	.	12	43	1	14 Jul 1910	.	.	203	.	20200
+Davis	.	.	Maria	.	F	B	Mar 1910	66	.	.	4	24	1	1 Apr 1910	.	1175	134	.	
+Davis	.	.	Mary	.	F	B	.	59	.	.	4	145	6	7 Dec 1910	.	3969	266	.	38033
+Davis	.	.	Robert	.	M	B	.	24	.	.	9	5	4	12 Jun 1910	.	1960	182	.	16625
+Deadman	.	.	Peat	.	M	B	.	30	.	.	2	187	6	26 Dec 1910	.	4197	281	.	
+Dillard	.	.	R	.	M	B	Feb 1910	1	.	.	7	8	4	16 Feb 1910	.	365	108	.	1795
+Dillard	.	.	Winston	.	M	B	1 Mar 1910	87	.	.	2	8	4	3 Mar 1910	.	748	119	.	5337
+Doyle	.	.	Allie	.	F	B	.	45	.	.	3	25	4	7 Dec 1910	.	3971	267	.	38043
+Duncan	.	.	Oath	.	M	B	.	42	.	.	5	41	1	7 Jun 1910	.	1904	178	.	
+Edwards	.	.	Nless	.	M	B	.	2	2	.	9	33	1	28 Jan 1910	.	25	96	.	576
+Ellington	.	.	Daniel	.	M	B	.	35	.	.	7	155	6	4 Sep 1910	.	2993	225	.	27309
+Fields	.	.	Baby	.	F	B	.	.	.	.	3	189	6	28 Dec 1910	.	4245	284	.	
+Fields	.	.	Clifton	.	M	B	.	21	.	.	8	9	4	31 Oct 1910	.	3525	253	.	30868
+Fields	.	.	Jerry	.	M	B	.	.	.	.	3	189	6	10 Jul 1910	.	.	201	.	
+Finney	.	.	Chas	.	M	B	8 Jan 1910	25	.	.	.	.	.	26 Feb 1910	.	11341	113	.	349
+Franklin	.	.	James	.	M	B	.	20	.	.	5	5	4	12 Jun 1910	.	1962	183	.	16624
+Frazier	.	.	.	.	M	B	.	21	.	.	7	13	4	11 May 1910	.	1625	157	.	
+Frilars	.	.	Harrison	.	M	B	Mar 1910	.	.	.	11	3	4	10 Mar 1910	.	848	123	.	5423
+Galewood	.	.	Ethel	.	F	B	.	22	.	.	12	154	6	20 Jun 1910	.	2036	186	.	
+Garrett	.	.	Willie	.	M	B	.	24	.	.	8	54	1	16 Oct 1910	.	3378	242	.	30742
+Gill	.	.	Baby	.	F	B	.	.	.	.	.	.	.	.	.	.	172	.	
+Gillipses	.	.	Thomas	J	M	B	.	60	.	.	12	54	1	.	.	3491	251	.	
+Gouthery	.	.	Lee	.	M	B	.	45	.	.	3	66	1	20 Nov 1910	.	3759	259	.	
+Grayson	.	.	Ada	M	F	B	.	38	.	.	1	67	1	24 Dec 1910	.	4171	279	.	38210
+Guim	.	.	Julia	.	F	B	Feb 1910	42	.	.	5	40	1	8 Feb 1910	.	165	101	.	1702
+Gunstead	.	.	Erema	.	F	B	.	.	.	.	36	43	1	13 Jun 1910	.	1976	184	.	
+Hamilton	.	.	John	Douglas	M	B	.	47	.	.	2	43	1	12 Jun 1910	.	1969	181	.	
+Haney	.	.	Monroe	.	M	B	.	38	.	.	2	154	6	16 Oct 1910	.	3385	244	.	30734
+Hankins	.	.	James	.	M	B	.	43	.	.	4	41	1	23 May 1910	.	1813	168	.	13321
+Hardman	.	.	Elsie	.	F	B	.	.	.	.	10	41	1	11 Jun 1910	.	1956	180	.	16629
+Harris	.	.	Amanda	.	F	B	Mar 1910	46	.	.	1	169	6	13 Mar 1910	.	890	124	.	
+Harris	.	.	Arthur	.	M	B	.	.	.	.	2	5	4	22 Jun 1910	.	2104	190	.	
+Harris	.	.	Hiram	.	M	B	.	49	.	.	5	43	1	22 Jun 1910	.	2103	191	.	16748
+Harris	.	.	Lublier	.	M	B	Mar 1910	24	.	.	2	177	6	1 Apr 1910	.	1195	135	.	9530
+Harris	.	.	Lula	.	F	B	.	39	.	.	4	5	4	11 Dec 1910	.	4015	274	.	
+Harris	.	.	Luther	.	M	B	.	31	.	.	1	5	4	2 Jun 1910	.	1831	173	.	13330
+Harris	.	.	Nathaniel	.	M	B	.	95	.	.	7	143	6	22 Jun 1910	.	2112	189	.	16753
+Harris	.	.	Phoeba	.	.	B	.	71	.	.	1	43	1	6 Jun 1910	.	1878	177	.	16561
+Hazelzig	.	.	May	.	F	B	.	5	.	.	.	33	1	18 Jul 1910	.	2450	204	.	20220
+Henderson	.	.	William	.	M	B	.	35	.	.	1	1	4	20 Jun 1910	.	2054	185	.	16715
+Herald	.	.	Amanda	.	F	B	Feb 1910	80	.	.	8	3	4	10 Feb 1910	.	176	105	.	1707
+Hernden	.	.	Victoria	.	.	B	1 Jun 1910	40	.	.	5	180	6	5 Jun 1910	.	1877	176	.	16560
+Hill	.	.	Willie	.	M	B	19 Mar 1910	24	.	.	3	15	4	30 Mar 1910	.	972	128	.	5567
+Hollinsworth	.	.	Lulu	M	F	B	Apr 1910	36	.	.	2	171	6	14 Apr 1910	.	1319	147	.	9675
+Howard	.	.	Andrew	.	M	B	.	47	.	.	9	43	1	20 Jul 1910	.	2477	207	.	20236
+Hurt	.	.	Mary	.	F	B	3 Apr 1910	21	.	.	5	14	4	8 Apr 1910	.	1267	141	.	9599
+Irvin	.	.	Harry	.	M	B	8 Feb 1910	21	.	.	8	40	1	9 Feb 1910	.	172	103	.	1712
+Isgrig	.	.	Troy	.	M	B	Mar 1910	72	.	.	3	24	1	27 Mar 1910	.	1097	131	.	
+Jackson	.	.	Baby	.	.	.	31 Jan 1910	.	.	.	.	.	.	26 Feb 1910	.	62	115	.	
+Jackson	.	.	James	.	M	B	31 Dec 1909	65	.	.	6	2	4	2 Jan 1910	.	10904	89	.	
+Jackson	.	.	John	Henry	M	B	Feb 1910	42	.	.	10	40	1	28 Feb 1910	.	396	112	.	1956
+Jackson	.	.	Lewis	.	M	B	.	29	.	.	7	55	1	18 Aug 1910	.	18043	219	.	
+Jackson	.	.	Vivian	H	M	B	5 Feb 1910	7	.	.	17	33	1	7 Feb 1910	.	144	100	.	1674
+Jenkins	.	.	Knowledge	W	M	B	.	26	.	.	8	43	1	3 Jul 1910	.	2245	197	.	20018
+Jessie	.	.	Anna	May	F	B	.	20	.	.	11	9	4	6 Nov 1910	.	3586	256	.	34187
+Johnson	.	.	Charles	.	.	B	.	45	.	.	12	41	1	3 Jul 1910	.	2190	193	.	16824
+Johnson	.	.	Jessie	.	F	B	.	28	.	.	6	54	1	9 Oct 1910	.	3310	239	.	30663
+Johnson	.	.	Nelson	.	M	B	May 1910	16	.	.	4	41	1	21 May 1910	.	1746	165	.	
+Kinchloe	.	.	Bertheria	.	F	B	.	26	.	.	5	17	4	20 Dec 1910	.	4135	278	.	38187
+King	.	.	Stanford	.	M	B	15 May 1910	43	.	.	1	153	6	.	.	44	162	.	
+Kinslow	.	.	Corine	.	F	B	.	17	.	.	4	16	4	5 Dec 1910	.	3945	265	.	38014
+Knappa	.	.	Lula	.	F	B	1910	38	.	.	1	9	4	3 Apr 1910	.	1226	138	.	9534
+Lamb	.	.	Infant	.	M	B	20 Nov 1910	.	.	.	11	62	12	1 Jan 1910	.	10904	86	.	
+Langum	.	.	Millie	.	F	B	.	70	.	.	11	54	1	24 Oct 1910	.	.	250	.	
+Lewis	.	.	Joe	.	M	B	.	69	.	.	2	54	1	16 Sep 1910	.	3106	232	.	3048
+Lightfoot	.	.	G	.	M	B	29 Dec 1910	.	.	.	1	163	6	25 Jan 1910	.	11333	93	.	
+Lipscomb	.	.	Charles	.	M	B	18 Mar 1910	67	.	.	1	70	6	21 Mar 1910	.	933	129	.	
+Lollis	.	.	Clarence	.	M	B	10 Apr 1910	27	.	.	9	31	1	24 Apr 1910	.	1441	154	.	9796
+Long	.	.	Cora	E	F	B	.	36	.	.	5	173	6	30 Sep 1910	.	3239	236	.	27541
+Long	.	.	Mollie	.	F	B	.	31	.	.	8	55	1	25 Aug 1910	.	2884	220	.	23981
+Love	.	.	Major	W	M	B	.	54	.	.	3	190	6	23 Oct 1910	.	3457	249	.	1910_00030906.PDF (mo.gov)
+Mayo	.	.	M	E	F	B	.	1	.	.	4	12	4	30 May 1910	.	1811	167	.	1910_00013455.PDF (mo.gov)
+McCurdy	.	.	Arthur	.	M	B	.	25	.	.	6	43	1	26 Jun 1910	.	2140	192	.	1910_00016832.PDF (mo.gov)
+McHenry	.	.	James	.	M	B	14 Oct 1910	50	.	.	3	42	1	16 Oct 1910	.	18258	245	.	
+Mickens	.	.	Mary	.	F	B	.	68	.	.	10	189	6	22 Jun 1910	.	2106	188	.	
+Miller	.	.	Rosa	.	F	B	.	25	.	.	11	66	1	11 Dec 1910	.	4002	271	.	1910_00038197.PDF (mo.gov)
+Minor	.	.	Lewis	H	M	B	26 Feb 1910	7	.	.	19	33	1	27 Feb 1910	.	380	118	.	1910_00001972.PDF (mo.gov)
+missing record	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	243	.	
+Mondjoy	.	.	Gertrude	.	F	B	.	12	.	.	9	54	1	18 Oct 1910	.	3377	247	.	1910_00030852.PDF (mo.gov)
+Moon	.	.	Fred	.	M	B	.	28	.	.	4	43	1	21 Jun 1910	.	.	187	.	
+Moore	.	.	Lucy	.	F	B	.	56	.	.	7	42	1	24 Jul 1910	.	2515	209	.	1910_00020357.PDF (mo.gov)
+Neal	.	.	Julia	.	F	B	.	59	4	.	1	42	1	24 Jul 1910	.	2508	208	.	1910_00020342.PDF (mo.gov)
+Nelson	.	.	Ralph	.	M	B	.	1	.	.	.	.	.	28 Mar 1910	.	967	133	.	
+Oliver	.	.	Bertha	.	F	B	7 Jan 1910	.	.	.	.	.	.	26 Feb 1910	.	10992	114	.	
+Overton	.	.	Mary	.	F	B	.	38	.	.	10	55	1	31 Aug 1910	.	.	224	.	1910_00024124.PDF (mo.gov)
+Palmer	.	.	Alfred	.	M	B	May 1910	68	.	.	11	31	1	5 May 1910	.	1568	156	.	1910_00013195.PDF (mo.gov)
+Parks	.	.	Hattie	.	F	B	28 Jul 1910	41	.	.	8	177	1	28 Jul 1910	.	2576	212	.	
+Parks	.	.	Wm	.	M	B	13 Jan 1910	60	.	.	6	42	1	16 Jan 1910	.	11238	91	.	1910_00000417.PDF (mo.gov)
+Parrish	.	.	Batrice	.	F	B	.	.	.	11	11	33	1	2 Apr 1910	.	1207	136	.	1910_00009682.PDF (mo.gov)
+Payne	.	.	A	.	F	B	.	96	.	.	9	41	1	5 Jun 1910	.	1861	175	.	
+Payne	.	.	Frank	.	M	B	.	34	.	.	7	54	1	13 Oct 1910	.	3343	241	.	1910_00030803.PDF (mo.gov)
+Payne	.	.	Sas.	J	M	B	.	38	.	.	2	166	6	1 Oct 1910	.	3251	237	.	
+Peters	.	.	Infant	.	F	B	.	.	4	.	.	.	.	.	.	1841	171	.	
+Pierce	.	.	Robinson	C	M	B	5 Feb 1910	22	.	.	7	7	4	6 Feb 1910	.	125	98	.	1910_00001659.PDF (mo.gov)
+Pitts	.	.	A	E	F	B	.	46	.	.	3	41	1	18 May 1910	.	1699	163	.	1910_00013347.PDF (mo.gov)
+Pope	.	.	Sallie	.	F	B	.	61	.	.	12	1	4	23 Nov 1910	.	3804	260	.	1910_00034507.PDF (mo.gov)
+Porter	.	.	James	A	M	B	.	67	.	.	6	66	1	12 Dec 1910	.	4012	275	.	1910_00038211.PDF (mo.gov)
+Reed	.	.	Helen	B	F	B	.	.	.	.	.	33	1	18 Jul 1910	.	2453	205	.	1910_00020293.PDF (mo.gov)
+Reynolds	.	.	Geo.	.	M	B	8 Feb 1910	26	.	.	.	.	.	26 Feb 1910	.	349	117	.	1910_00001924.PDF (mo.gov)
+Ross	.	.	Eugene	.	M	B	.	68	.	.	3	55	1	29 Jul 1910	.	2584	213	.	1910_00020408.PDF (mo.gov)
+Russell	.	.	H	B	M	B	.	19	.	.	5	54	1	21 Sep 1910	.	3150	234	.	1910_00027566.PDF (mo.gov)
+Sallard	.	.	William	.	M	B	.	37	.	.	11	14	4	2 Oct 1910	.	3254	238	.	1910_00030718.PDF (mo.gov)
+Sarrnaris	.	.	E	.	F	B	.	46	.	.	8	27	4	15 Jul 1910	.	2395	202	.	1910_00020240.PDF (mo.gov)
+Scott	.	.	Edward	.	.	B	Apr 1910	25	.	.	7	171	6	18 Apr 1910	.	1379	149	.	1910_00009867.PDF (mo.gov)
+Seabury	.	.	Adeline	.	F	B	.	63	.	.	8	31	1	7 Apr 1910	.	1283	140	.	
+Shackelford	.	.	Mattie	.	F	B	Feb 1910	41	.	.	9	40	1	13 Feb 1910	.	222	107	.	1910_00001766.PDF (mo.gov)
+Shelby	.	.	Lillie	.	F	B	.	20	.	.	6	67	1	11 Dec 1910	.	4010	273	.	1910_00038199.PDF (mo.gov)
+Sizmore	.	.	Lucy	.	F	B	.	31	.	.	11	43	1	2 Jul 1910	.	2248	196	.	1910_00020095.PDF (mo.gov)
+Smith	.	.	Ellen	Edmonia	F	B	.	34	.	.	2	42	1	11 Sep 1910	.	3052	230	.	1910_00027478.PDF (mo.gov)
+Smith	.	.	James	E	M	B	.	31	.	.	3	54	1	17 Aug 1910	.	2798	218	.	
+Smith	.	.	M	.	F	B	.	42	.	.	1	41	1	11 May 1910	.	1636	158	.	1910_00013252.PDF (mo.gov)
+Smith	.	.	Sam	.	M	B	.	42	.	.	11	41	1	10 Jul 1910	.	2343	200	.	1910_00020175.PDF (mo.gov)
+Smith	.	.	William	.	M	B	.	26	.	.	6	41	1	9 Jun 1910	.	1918	179	.	1910_00016649.PDF (mo.gov)
+Starks	.	.	Charlie	.	M	B	.	.	4	.	14	33	1	2 Jul 1910	.	2247	194	.	1910_00020094.PDF (mo.gov)
+Strong	.	.	Lizzie	.	F	B	Apr 1910	30	.	.	6	31	1	22 Apr 1910	.	1429	152	.	1910_00009917.PDF (mo.gov)
+Sursey	.	.	Arthur	.	M	B	Apr 1910	4	.	.	21	33	1	24 Apr 1910	.	1452	153	.	1910_00009947.PDF (mo.gov)
+Sursey	.	.	Lawrence	.	M	B	Feb 1910	1	9	.	18	33	1	20 Feb 1910	.	326	111	.	1910_00001852.PDF (mo.gov)
+Thatcher	.	.	Anna	.	F	B	.	61	.	.	8	153	6	24 May 1910	.	1782	166	.	
+Thompson	.	.	N	A	M	B	Apr 1910	.	.	.	8	165	6	19 Apr 1910	.	1425	150	.	
+Thurman	.	.	N	.	F	B	13 Feb 1910	.	.	.	2	163	6	25 Jan 1910	.	11334	94	.	
+Tilman	.	.	Adaline	.	F	B	.	1	.	.	12	33	1	15 May 1910	.	1663	160	.	1910_00013308.PDF (mo.gov)
+Tipton	.	.	James	.	M	B	.	78	.	.	4	9	4	5 Sep 1910	.	2997	226	.	1910_00027416.PDF (mo.gov)
+Todd	.	.	Robert	.	M	B	.	23	.	.	7	43	11	2 Jul 1910	.	2246	195	.	1910_00020093.PDF (mo.gov)
+Tompkins	.	.	Al.	.	M	B	.	40	.	.	12	66	1	18 Dec 1910	.	18506	276	.	
+Trail	.	.	Kid	V	M	B	Mar 1910	54	.	.	3	31	1	3 Apr 1910	.	1223	137	.	1910_00009662.PDF (mo.gov)
+Triggs	.	.	Caroline	.	F	B	Apr 1910	56	.	.	2	13	4	13 Apr 1910	.	1317	146	.	1910_00009803.PDF (mo.gov)
+Tucker	.	.	J	E	M	B	Feb 1910	36	.	.	1	187	6	11 Feb 1910	.	888	106	.	
+Vaughn	.	.	George	W	M	B	.	61	.	.	.	.	.	.	.	3047	228	.	1910_00027477.PDF (mo.gov)
+Walker	.	.	Lillian	B	F	B	14 Mar 1910	45	.	.	11	12	4	15 Mar 1910	.	930	127	.	1910_00005586.PDF (mo.gov)
+Wallace	.	.	Harry	.	M	B	.	28	.	.	9	53	1	21 Dec 1910	.	4109	277	.	
+Wallace	.	.	Leon	.	M	B	2 Mar 1910	3	.	.	20	33	1	3 Mar 1910	.	744	120	.	1910_00005434.PDF (mo.gov)
+Watson	.	.	Mary	F	F	B	.	28	.	.	2	55	1	26 Jul 1910	.	2545	211	.	1910_00020391.PDF (mo.gov)
+Wells	.	.	Lottie	.	F	B	.	70	.	.	9	66	1	29 Nov 1910	.	3876	264	.	1910_00034589.PDF (mo.gov)
+Wells	.	.	W	H	M	B	.	50	.	.	8	6	4	29 May 1910	.	1812	169	.	1910_00013454.PDF (mo.gov)
+Wells	.	.	Liddia	.	F	B	.	44	.	.	8	41	1	3 Jun 1910	.	1860	174	.	
+White	.	.	Caroline	.	F	B	.	79	.	.	.	.	.	Mar 1910	.	1098	132	.	1910_00005749.PDF (mo.gov)
+White	.	.	Elmer	.	M	B	.	27	.	.	3	153	6	18 Oct 1910	.	3410	246	.	1910_00030867.PDF (mo.gov)
+Whycheiff	.	.	Duey	.	M	B	10 Mar 1910	21	.	.	11	40	1	7 Mar 1910	.	814	121	.	1910_00005497.PDF (mo.gov)
+Wilhote	.	.	Peggie	.	F	B	.	47	.	.	6	13	4	16 Aug 1910	.	2774	216	.	1910_00023959.PDF (mo.gov)
+Williams	.	.	Maggie	.	F	B	.	18	.	.	8	42	1	11 Dec 1910	.	4004	270	.	1910_00038201.PDF (mo.gov)
+Wilson	.	.	Mille	.	F	B	Apr 1910	58	.	.	1	6	4	10 Apr 1910	.	1201	143	.	1910_00009756.PDF (mo.gov)
+Winn	.	.	Caroline	.	F	B	.	64	.	.	10	66	1	8 Dec 1910	.	3986	269	.	1910_00038179.PDF (mo.gov)
+Winston	.	.	Kate	.	F	B	.	35	.	.	5	66	1	27 Nov 1910	.	3846	261	.	
+Woods	.	.	John	.	M	B	30 Dec 1909	59	10	28	14	4	4	2 Jan 1910	.	10903	88	.	
+Woods	.	.	Wm	.	M	B	2 Feb 1910	40	.	.	.	.	.	26 Feb 1910	.	86	116	.	
+Woodson	.	.	Riley	.	M	B	.	57	.	.	4	66	1	2 Nov 1910	.	3563	255	.	1910_00034283.PDF (mo.gov)
+Wortham	.	.	David	.	M	B	.	50	.	.	3	173	6	10 Sep 1910	.	1983	229	.	
+Wortham	.	.	William	.	M	B	15 Apr 1910	30	.	.	6	173	6	17 Apr 1910	.	1372	148	.	1910_00009859.PDF (mo.gov)
+Yates	.	.	William	W	M	B	.	59	.	.	10	164	6	16 Nov 1910	.	3694	258	.	1910_00034408.PDF (mo.gov)
+Young	.	.	Infant	.	M	B	28 Dec 1909	.	.	.	11	62	12	1 Jan 1910	.	11092	90	.	
+Zackary	.	.	W	.	M	B	.	4	.	.	.	33	1	30 Aug 1910	.	2942	223	.	1910_00024130.PDF (mo.gov)
+Adams	.	.	Mary	.	F	B	.	43	.	.	3	69	1	29 May 1911	.	2138	345	.	1911_00017968.PDF (mo.gov)
+Aldrige	.	.	Ella	.	F	B	.	36	.	.	6	56	1	13 Aug 1911	.	3049	398	.	1911_00028352.PDF (mo.gov)
+Alkins	.	.	Robert	.	M	B	.	20	8	4	3	52	1	7 May 1911	.	1882	323	.	
+Allen	.	.	Benjamin	.	M	B	.	74	.	.	6	44	4	25 Jul 1911	.	2844	391	.	1911_00024826.PDF (mo.gov)
+Allen	.	.	Henry	.	M	B	.	62	.	.	5	29	1	13 Aug 1911	.	3046	402	.	1911_00028353.PDF (mo.gov)
+Anderson	.	.	Charles	.	M	B	.	25	.	.	9	148	6	11 Oct 1911	.	3687	453	.	
+Angel	.	.	Elizabeth	P	F	B	.	5	.	.	10	15	4	7 Mar 1911	.	886	306	.	1911_00010391.PDF (mo.gov)
+Angle	.	.	Percy	.	M	B	.	26	.	.	3	xyz	1	19 May 1911	.	2037	335	.	
+Anthony	.	.	Andrew	.	M	B	.	60	.	.	6	191	1	15 Sep 1911	.	3423	437	.	1911_00031583.PDF (mo.gov)
+Bahaman	.	.	Tom	.	M	B	.	35	.	.	12	15	4	21 May 1911	.	2057	338	.	
+Bailey	.	.	Alberta	Vista	F	B	.	29	.	.	5	179	6	18 Jun 1911	.	2182	349	.	1911_00021102.PDF (mo.gov)
+Bailey	.	.	Samual	.	M	B	.	62	.	.	6	179	6	15 Jul 1911	.	2744	383	.	
+Baker	.	.	Harry	E	M	B	.	27	.	.	1	28	4	17 Jan 1911	.	224	290	.	1911_00001693.PDF (mo.gov)
+Beasley	.	.	Rosa	May	F	B	.	.	.	.	2	27	4	1 Sep 1911	.	3275	419	.	
+Beck	.	.	James	.	M	B	.	44	.	.	10	39	1	19 Sep 1911	.	3457	439	.	
+Bocote	.	.	Geraldine	.	F	B	.	8	.	.	10	58	6	17 Oct 1911	.	3759	459	.	1911_00034811.PDF (mo.gov)
+Boggs	.	.	Goldie	.	F	B	.	26	.	.	12	178	1	31 Dec 1911	.	4622	523	.	1911_00041799.PDF (mo.gov)
+Bolden	.	.	Lizzie	.	F	B	.	65	.	.	2	67	1	30 Apr 1911	.	1804	322	.	1911_00017689.PDF (mo.gov)
+Bower	.	.	Leslie	.	M	B	.	19	.	.	.	.	.	29 Dec 1911	Stranger Rest	4561	520	.	1911_00041734.PDF (mo.gov)
+Brady	.	.	Lizzie	.	F	B	.	20	.	.	3	51	1	29 Oct 1911	.	.	466	.	1911_00034919.PDF (mo.gov)
+Brady	.	.	Spencer	.	M	B	.	61	.	.	.	.	.	29 Dec 1911	Stranger Rest	4577	519	.	1911_00041752.PDF (mo.gov)
+Brassfield	.	.	Sam	.	M	B	.	59	.	.	10	44	1	28 Sep 1911	.	3544	444	.	1911_00031676.PDF (mo.gov)
+Brooks	.	.	Fannie	.	F	B	.	72	.	.	12	28	4	7 Sep 1911	.	3355	429	.	1911_00031517.PDF (mo.gov)
+Brooks	.	.	George	.	M	B	.	31	.	.	9	44	1	2 Nov 1911	.	3921	469	.	1911_00037931.PDF (mo.gov)
+Brooks	.	.	Will	.	M	B	.	39	.	.	11	53	1	26 Feb 1911	.	752	302	.	1911_00006583.PDF (mo.gov)
+Brown	.	.	Eugene	.	M	B	.	2	.	.	.	.	.	6 Jul 1911	Stranger Rest	2611	375	*	1911_00024615.PDF (mo.gov)
+Brown	.	.	Mary	.	F	B	.	61	.	.	12	51	.	2 Aug 1911	.	2918	393	.	1911_00028231.PDF (mo.gov)
+Brown	.	.	Warren	R	M	B	.	28	.	.	4	52	1	9 May 1911	.	1897	324	.	1911_00017770.PDF (mo.gov)
+Buchanan	.	.	Mary	V	F	B	.	42	.	.	12	194	6	13 Jun 1911	.	2331	357	.	1911_00021220.PDF (mo.gov)
+Buckner	.	.	Ernest	C	M	B	.	18	.	.	8	25	4	12 Jan 1911	.	.	289	.	1911_00001630.PDF (mo.gov)
+Byrd	.	.	Elizabeth	.	F	B	.	25	.	.	3	29	4	14 Jul 1911	.	2729	382	.	1911_00024726.PDF (mo.gov)
+Calhoun	.	.	C	C	M	B	.	65	.	.	5	69	1	11 Jun 1911	.	2317	353	.	1911_00021217.PDF (mo.gov)
+Card	.	.	M	.	M	B	.	.	.	.	.	.	.	11 Dec 1911	Stranger Rest	4330	503	.	
+Carpenter	.	.	Aletha	.	F	B	.	18	.	.	2	191	1	16 Nov 1911	.	4104	482	.	1911_00038085.PDF (mo.gov)
+Carter	.	.	James	M	M	B	.	37	.	.	7	22	4	25 Oct 1911	.	3833	462	.	1911_00034879.PDF (mo.gov)
+Christopher	.	.	Virginia	.	F	B	.	56	.	.	5	195	6	12 Sep 1911	.	3393	434	.	1911_00031557.PDF (mo.gov)
+Clark	.	.	Baby	.	M	B	.	.	.	.	.	.	.	7 Nov 1911	Stranger Rest	3982	476	*	
+Clay	.	.	Robert	.	M	B	.	10	.	.	1	175	1	4 Nov 1911	.	3944	472	*	1911_00037958.PDF (mo.gov)
+Clay	.	.	Velma	.	F	B	.	38	.	.	8	12	4	6 Sep 1911	.	3341	428	.	1911_00031509.PDF (mo.gov)
+Cokin	.	.	Julius	.	M	B	.	8	.	.	12	13	4	19 Feb 1911	.	667	300	.	1911_00006504.PDF (mo.gov)
+Craig	.	.	James	M	M	B	.	31	.	.	8	29	1	18 Nov 1911	.	4115	484	.	1911_00038093.PDF (mo.gov)
+Cranshaw	.	.	Horrace	.	M	B	.	45	.	.	5	67	1	26 Feb 1911	.	753	303	.	1911_00006586.PDF (mo.gov)
+Crumpton	.	.	Louise	.	F	B	.	48	.	.	2	11	4	11 Jan 1911	.	161	287	.	1911_00001617.PDF (mo.gov)
+Davison	.	.	Isaac	.	M	B	.	.	.	.	4	192	1	15 Aug 1911	.	3086	405	.	1911_00028374.PDF (mo.gov)
+Davis	.	.	Alice	.	F	B	.	57	.	.	2	170	6	31 Dec 1911	.	4616	524	.	1911_00041797.PDF (mo.gov)
+Davis	.	.	Baby	.	M	B	.	.	.	.	.	.	.	9 Jun 1911	Stranger Rest	2195	352	*	
+Davis	.	.	Dora	Coates	F	B	.	20	.	.	6	4	4	1 Jun 1911	.	2174	348	.	
+Davis	.	.	Mary	Elizabeth	F	B	.	33	.	.	9	26	1	15 Oct 1911	.	3719	455	.	1911_00034786.PDF (mo.gov)
+Demory	.	.	Lucik	.	F	B	.	1	.	.	.	33	1	29 Jun 1911	.	.	367	*	1911_00021405.PDF (mo.gov)
+Dorton	.	.	Charlie	.	M	B	.	35	.	.	9	51	1	1 Nov 1911	.	3895	468	.	1911_00034939.PDF (mo.gov)
+Duke	.	.	C	.	M	B	.	42	.	.	12	56	1	2 Aug 1911	.	2919	394	.	1911_00028234.PDF (mo.gov)
+Edwards	.	.	Mary	.	F	B	.	24	.	.	8	177	1	7 Aug 1911	.	2970	395	.	1911_00028283.PDF (mo.gov)
+Elleth	.	.	Estella	.	F	B	.	44	.	.	8	171	6	20 Feb 1911	.	16	301	.	
+Enyard	.	.	Henry	.	M	B	.	30	.	.	5	39	1	20 Aug 1911	.	3142	410	.	1911_00028432.PDF (mo.gov)
+Epperson	.	.	Anna	.	F	B	.	52	.	.	12	172	6	31 Jan 1911	.	403	295	.	1911_00001863.PDF (mo.gov)
+Evans	.	.	Vinie	.	F	B	.	71	.	.	9	16	4	2 Nov 1911	.	3918	470	.	
+Field	.	.	John	.	M	B	.	68	.	.	5	42	1	14 Apr 1911	.	1406	311	.	1911_00014433.PDF (mo.gov)
+Fields	.	.	Emma	M	F	B	.	34	.	.	8	26	1	8 Nov 1911	.	3997	477	.	1911_00037993.PDF (mo.gov)
+Fisher	.	.	Baby	.	F	B	.	0	.	.	.	.	.	.	Stranger Rest	3920	512	*	
+Foster	.	.	Mattie	.	F	B	.	37	.	.	6	39	1	9 Jul 1911	.	2677	380	.	
+Frasier	.	.	Sam	.	M	B	.	28	.	.	2	177	1	28 Aug 1911	.	3224	415	.	1911_00028501.PDF (mo.gov)
+Galberth	.	.	May	Bibb	F	B	.	22	5	.	7	156	6	6 Nov 1911	.	3958	473	.	1911_00037964.PDF (mo.gov)
+Galbreath	.	.	Peter	.	M	B	.	31	.	.	5	56	1	31 Aug 1911	.	3273	417	.	1911_00028537.PDF (mo.gov)
+Gatewood	.	.	Alice	.	F	B	.	45	.	.	8	56	1	3 Dec 1911	.	4304	496	.	1911_00041504.PDF (mo.gov)
+Gibson	.	.	Calvin	.	M	B	.	44	.	.	7	29	1	1 Dec 1911	.	.	491	.	1911_00038226.PDF (mo.gov)
+Givings	.	.	William	.	.	.	.	83	.	.	.	.	.	7 Dec 1911	Stranger Rest	4116	497	.	1911_00038096.PDF (mo.gov)
+Gooch	.	.	Elna	.	F	B	.	41	.	.	9	56	1	19 Nov 1911	.	4155	483	.	
+Graham	.	.	Thomas	B	M	B	.	.	2	10	.	33	1	21 May 1911	.	.	341	*	1911_00017905.PDF (mo.gov)
+Grahm	.	.	Zella	.	F	B	.	57	.	.	5	52	1	21 May 1911	.	2035	336	.	1911_00017875.PDF (mo.gov)
+Grayson	.	.	Thomas	.	M	B	.	52	.	.	6	194	6	26 Apr 1911	.	1760	318	.	1911_00014545.PDF (mo.gov)
+Green	.	.	A	J	M	B	.	.	.	.	7	17	4	14 Dec 1911	.	4257	515	.	1911_00028500.PDF (mo.gov)
+Green	.	.	Joseph	.	M	B	.	33	.	.	11	44	1	27 Aug 1911	.	3215	414	.	
+Hamlett	.	.	Mary	E	F	B	.	33	.	.	2	52	1	30 Apr 1911	.	1801	321	.	1911_00014596.PDF (mo.gov)
+Harris	.	.	Berth	M	F	B	.	19	.	.	2	44	1	10 Dec 1911	.	4391	501	.	1911_00041582.PDF (mo.gov)
+Harris	.	.	Chas	.	M	B	.	37	.	.	2	1y2	1	15 May 1911	.	1999	332	.	1911_00017837.PDF (mo.gov)
+Harris	.	.	Indiana	W	F	B	.	51	.	.	9	69	1	16 Jun 1911	.	2347	361	.	1911_00021236.PDF (mo.gov)
+Harris	.	.	Mary	Lue	F	B	29 Nov 1911	70	.	.	7	2	1	1 Dec 1911	.	4257	492	.	1911_00038221.PDF (mo.gov)
+Hayes	.	.	Frankie	.	M	B	.	1	11	.	3	191	1	26 Dec 1911	.	4537	517	*	1911_00041712.PDF (mo.gov)
+Henderson	.	.	Baby	.	F	B	.	0	.	.	.	.	.	4 Sep 1911	Stranger Rest	3303	425	*	
+Henderson	.	.	Moss	.	M	B	.	56	.	.	5	44	1	20 Aug 1911	.	3144	409	.	1911_00028430.PDF (mo.gov)
+Herman	.	.	William	.	M	B	.	44	.	.	3	44	1	29 Oct 1911	.	3870	465	.	1911_00034914.PDF (mo.gov)
+Hicks	.	.	Eddie	.	M	B	.	19	.	.	10	69	1	18 Jun 1911	.	2393	362	.	1911_00021281.PDF (mo.gov)
+Hines	.	.	W	E	M	B	.	28	.	.	9	29	1	19 Oct 1911	.	3772	460	.	1911_00034827.PDF (mo.gov)
+Hobbs	.	.	Sammuel	.	M	B	.	39	.	.	6	22	4	24 Sep 1911	.	3518	441	.	
+Holloway	.	.	Eva	.	F	B	.	.	.	.	1	177	1	21 Aug 1911	.	3143	411	.	1911_00028431.PDF (mo.gov)
+Holly	.	.	Henry	.	M	B	.	86	.	.	11	29	1	14 Aug 1911	.	3055	404	.	1911_00028362.PDF (mo.gov)
+Holt	.	.	Arthur	.	M	B	.	23	.	.	5	191	1	1 Oct 1911	.	3580	446	.	
+Hooper	.	.	Rosa	.	F	B	.	70	.	.	12	69	1	19 Jul 1911	.	2784	386	.	1911_00024775.PDF (mo.gov)
+Hughes	.	.	Clarence	.	M	B	.	27	.	.	4	42	1	22 Mar 1911	.	1078	309	.	1911_00010563.PDF (mo.gov)
+Hughes	.	.	Ella	.	F	B	.	31	.	.	8	51	1	3 Dec 1911	.	4301	495	.	1911_00041503.PDF (mo.gov)
+Hughes	.	.	Lewis	.	M	B	.	35	.	.	4	191	1	15 Oct 1911	.	3731	457	.	1911_00034791.PDF (mo.gov)
+Hunt	.	.	Baby	.	F	B	.	.	1	.	2rw	33	1	1 Jul 1911	.	2555	370	*	
+Hunt	.	.	Baby	.	F	B	.	.	1	.	2rw	33	1	6 Jul 1911	.	2629	377	*	
+Hunter	.	.	William	.	M	B	.	71	.	.	10	29	1	13 Sep 1911	.	.	435	.	
+Jackson	.	.	Albert	.	M	B	.	61	.	.	12	53	1	5 Mar 1911	.	847	304	.	1911_00010356.PDF (mo.gov)
+Jackson	.	.	James	.	M	B	.	36	.	.	4	44	1	20 Sep 1911	.	3482	440	.	1911_00031631.PDF (mo.gov)
+Jackson	.	.	Joe	.	M	B	.	48	.	.	6	169	6	16 Mar 1911	.	1009	308	.	1911_00010493.PDF (mo.gov)
+Jacobs	.	.	Hazel	.	F	B	.	19	.	.	4	39	1	16 Sep 1911	.	3435	438	.	1911_00031594.PDF (mo.gov)
+Jefferson	.	.	Rosa	.	F	B	.	27	.	.	4	51	1	1 Oct 1911	.	3569	447	.	1911_00031704.PDF (mo.gov)
+Jenkins	.	.	Fannie	.	F	B	.	21	.	.	7	39	1	20 Dec 1911	.	4496	507	.	1911_00041667.PDF (mo.gov)
+Jenkins	.	.	Ralph	.	M	B	.	21	.	.	7	177	1	21 Jul 1911	.	2806	388	.	1911_00024788.PDF (mo.gov)
+Johnson	.	.	Alexander	.	M	B	.	62	.	.	10	52	1	10 Jan 1911	.	143	286	.	1911_00001596.PDF (mo.gov)
+Johnson	.	.	George	.	M	B	.	33	.	.	2	26	1	6 Nov 1911	.	3971	474	.	1911_00037971.PDF (mo.gov)
+Johnson	.	.	Grant	.	M	B	.	40	.	.	10	170	6	30 Apr 1911	.	1793	320	.	1911_00014594.PDF (mo.gov)
+Johnson	.	.	James	.	M	B	.	.	.	.	1st rw	.	1	12 Aug 1911	.	3031	399	*	1911_00028337.PDF (mo.gov)
+Johnson	.	.	John	.	.	.	.	.	.	.	1	29	1	26 Nov 1911	.	4244	488	.	1911_00038209.PDF (mo.gov)
+Johnson	.	.	John	L	M	B	.	.	.	1	2rw	33	1	30 Jun 1911	.	2538	368	*	1911_00021416.PDF (mo.gov)
+Johnson	.	.	Martha	.	F	B	.	73	.	.	12	25	4	5 Jul 1911	.	2607	373	.	1911_00024627.PDF (mo.gov)
+Johnson	.	.	Napolion	.	M	B	.	32	.	.	8	67	1	29 May 1911	.	2029	333	.	1911_00017870.PDF (mo.gov)
+Johnson	.	.	Walter	T	M	B	.	.	.	.	.	.	.	29 May 1911	Stranger Rest	2146	346	*	
+Jones	.	.	Rachel	.	F	B	.	30	.	.	5	11	4	31 May 1911	.	2172	347	.	1911_00018002.PDF (mo.gov)
+Keller	.	.	Walter	.	M	B	.	30	.	.	11	51	1	23 Aug 1911	.	3179	412	.	1911_00028460.PDF (mo.gov)
+Kelley	.	.	Carl	.	M	B	.	27	.	.	3	191	1	29 Oct 1911	.	3838	464	.	
+King	.	.	Baby	.	F	B	.	0	.	.	.	.	.	27 Jun 1911	Stranger Rest	2501	366	*	
+King	.	.	Joseph	.	M	B	.	.	.	.	11	26	1	14 Aug 1911	.	.	403	.	
+King	.	.	Nettie	.	F	B	.	30	.	.	7	53	1	25 Jan 1911	.	326	293	.	1911_00001784.PDF (mo.gov)
+Kinslow	.	.	Senvia	.	F	B	.	19	.	.	3	16	4	28 Dec 1911	.	4565	521	.	1911_00041742.PDF (mo.gov)
+Lee	.	.	Kenneth	.	M	B	.	.	.	.	11	193	6	7 Mar 1911	.	883	305	.	
+Lee	.	.	Mack	.	M	B	.	40	.	.	6	29	1	1 Jul 1911	.	2553	369	.	1911_00024576.PDF (mo.gov)
+Lenesday	.	.	Millie	.	F	B	.	48	.	.	12	26	1	28 Jun 1911	.	2506	365	.	1911_00021389.PDF (mo.gov)
+Lewis	.	.	Lucy	.	F	B	.	22	.	.	1	69	1	21 May 1911	.	2069	339	.	1911_00017906.PDF (mo.gov)
+Lewis	.	.	Rachel	.	F	B	.	45	.	.	3	17	4	28 Sep 1911	.	895	445	.	
+Lyons	.	.	William	.	M	B	.	40	.	.	3	65	1	26 Dec 1911	.	4539	518	.	
+Mann	.	.	Clara	.	F	B	.	80	.	.	6	51	1	27 Jul 1911	.	2867	392	.	1911_00024847.PDF (mo.gov)
+McBain	.	.	Hubert	.	M	B	.	20	.	.	10	42	1	23 Apr 1911	.	1518	316	.	1911_00014520.PDF (mo.gov)
+McCraty	.	.	Maggie	.	F	B	.	65	.	.	7	28	4	7 Jul 1911	.	2612	378	.	1911_00024631.PDF (mo.gov)
+McGill	.	.	Nettie	.	F	B	.	38	.	.	4	67	1	15 May 1911	.	1981	331	.	1911_00017822.PDF (mo.gov)
+McRear	.	.	Vergus	.	M	B	.	7	.	.	1RW	32	1	10 Jul 1911	.	2692	381	*	1911_00024699.PDF (mo.gov)
+Miller	.	.	J	W	M	B	18 Dec 1911	49	.	.	7	193	6	20 Dec 1911	.	2068	508	.	
+Milom	.	.	Lucinda	.	F	B	.	47	.	.	8	26	4	21 May 1911	.	1955	328	.	
+Minor	.	.	Amanda	.	F	B	.	63	.	.	6	26	1	20 Jun 1911	.	2414	364	.	1911_00021304.PDF (mo.gov)
+Mitchell	.	.	Lydia	.	F	B	.	.	.	.	2	176	1	23 Dec 1911	.	4526	516	.	1911_00041698.PDF (mo.gov)
+Monholland	.	.	Hugh	H	M	B	.	18	.	.	7	145	6	12 Apr 1911	.	1362	310	.	1911_00014396.PDF (mo.gov)
+Monroe	.	.	George	Walter	M	B	.	90	.	.	6	65	1	13 Aug 1911	.	3036	400	.	
+Montgomery	.	.	Fanny	.	F	B	.	22	.	.	4	83	6	8 Feb 1911	.	516	297	.	1911_00006369.PDF (mo.gov)
+Moore	.	.	Mack	.	M	B	.	41	.	.	.	.	.	22 Dec 1911	Stranger Rest	4493	514	.	1911_00041668.PDF (mo.gov)
+Moppins	.	.	Maranda	.	F	B	.	29	.	.	3	39	1	22 Oct 1911	.	3802	461	.	1911_00034850.PDF (mo.gov)
+Morris	.	.	George	.	M	B	.	31	.	.	2	29	1	12 Nov 1911	.	4007	480	.	1911_00038005.PDF (mo.gov)
+Munhollanl	.	.	Alexander	.	.	.	.	32	.	.	8	145	6	12 May 1911	.	1954	327	.	
+Neff	.	.	Joseph	.	M	B	.	13	.	.	2rw	34	1	9 Dec 1911	.	4357	499	.	1911_00041557.PDF (mo.gov)
+O'Brien	.	.	Nulie	.	F	B	.	40	.	.	12	23	4	11 Sep 1911	.	3381	432	.	1911_00031546.PDF (mo.gov)
+Oliver	.	.	Charlie	J	M	B	.	6	.	.	10	33	1	28 Apr 1911	.	1784	319	.	1911_00014584.PDF (mo.gov)
+Oliver	.	.	James	A	M	B	.	36	.	.	5	51	1	20 Aug 1911	.	3145	408	.	
+Osborne	.	.	Pearl	.	F	B	.	20	.	.	11	67	1	14 Jun 1911	.	2344	358	.	1911_00021239.PDF (mo.gov)
+Parker	.	.	John	.	M	B	.	49	.	.	.	.	.	7 Dec 1911	Stranger Rest	4368	498	.	1911_00041559.PDF (mo.gov)
+Parsons	.	.	Emma	.	F	W	.	34	.	.	8	169	6	23 Apr 1911	.	1505	317	.	1911_00014511.PDF (mo.gov)
+Payne	.	.	Infant	.	M	B	.	.	.	.	7	52	1	19 Jul 1911	.	2783	387	.	1911_00024776.PDF (mo.gov)
+Penn	.	.	Matilda	.	F	B	.	68	.	.	9	42	1	16 Apr 1911	.	1432	313	.	1911_00014451.PDF (mo.gov)
+Pollard	.	.	Sarah	.	F	B	.	46	.	.	1	194	6	21 Dec 1911	.	4492	510	.	
+Pool	.	.	Clifton	E	M	B	.	22	.	.	2	39	1	26 Nov 1911	.	4244	487	.	
+Preston	.	.	Charles	.	M	B	.	20	.	.	12	22	4	28 Sep 1911	.	3539	442	.	1911_00031680.PDF (mo.gov)
+Pullam	.	.	Cassie	.	F	B	.	.	.	.	9	52	1	8 Jan 1911	.	108	285	.	1911_00001565.PDF (mo.gov)
+Pullam	.	.	Charles	.	M	B	.	60	.	.	6	70	1	13 Aug 1911	.	3035	401	.	1911_00028343.PDF (mo.gov)
+Pullam	.	.	Louise	.	F	B	.	49	.	.	3	67	1	7 May 1911	.	1910	325	.	1911_00017760.PDF (mo.gov)
+Railey	.	.	Caroline	.	F	B	.	62	.	.	2	168	6	11 Jan 1911	.	150	288	.	1911_00001601.PDF (mo.gov)
+Reece	.	.	Zonel	.	F	B	Nov 26, 1911	.	.	.	3	143	6	29 Nov 1911	.	.	490	.	1911_00038211.PDF (mo.gov)
+Reynolds	.	.	Charlotte	.	F	B	.	68	.	.	12	27	4	7 Nov 1911	.	3981	475	.	1911_00037988.PDF (mo.gov)
+Richardson	.	.	Joseph	.	M	B	.	62	.	.	4	65	1	8 Oct 1911	.	3654	452	.	1911_00034717.PDF (mo.gov)
+Rickets	.	.	Cora	R	F	.	.	15	.	.	12	52	1	19 Jan 1911	.	246	292	.	1911_00001706.PDF (mo.gov)
+Robinson	.	.	Mark	.	M	B	.	52	.	.	8	69	1	15 Jun 1911	.	2363	360	.	
+Robinson	.	.	Claudie	W	M	B	.	16	.	.	12	65	1	20 Aug 1911	.	.	407	.	1911_00028414.PDF (mo.gov)
+Robinson	.	.	Ida	.	F	B	.	35	.	.	12	6	4	10 Feb 1911	.	550	298	.	1911_00006389.PDF (mo.gov)
+Robinson	.	.	Ralph	.	M	B	.	25	.	.	6	52	1	2 Jun 1911	.	2196	350	.	1911_00021112.PDF (mo.gov)
+Rogers	.	.	David	.	M	B	.	57	.	.	11	39	1	31 Aug 1911	.	3272	416	.	1911_00028542.PDF (mo.gov)
+Rucker	.	.	Vina	.	F	B	.	47	.	.	3	177	1	31 Aug 1911	.	3280	418	.	1911_00028551.PDF (mo.gov)
+Sayers	.	.	Eugene	.	M	B	.	16	.	.	9	171	6	7 May 1911	.	1939	326	.	1911_00017785.PDF (mo.gov)
+Scott	.	.	Morgan	.	M	B	.	27	.	.	10	51	1	2 Oct 1911	.	3588	449	.	1911_00034675.PDF (mo.gov)
+Scott	.	.	Sizzie	.	F	B	.	44	.	.	6	44	1	23 Jul 1911	.	2825	387	.	1911_00024801.PDF (mo.gov)
+Scrggs	.	.	Mary	.	F	.	.	20	.	.	12	44	1	24 Jul 1911	.	.	390	.	1911_00024803.PDF (mo.gov)
+Sellers	.	.	Pearl	.	M	B	.	28	.	.	2	51	1	12 Dec 1911	.	4425	504	.	1911_00041615.PDF (mo.gov)
+Shephard	.	.	Lottie	.	F	B	.	18	.	.	11	56	1	3 Sep 1911	.	3299	422	.	1911_00031471.PDF (mo.gov)
+Silas	.	.	George	.	M	B	.	.	.	.	3	56	1	15 Nov 1911	.	3919	471	.	1911_00037941.PDF (mo.gov)
+Silas	.	.	Samuel	.	M	B	.	.	.	.	2	56	1	26 Nov 1911	.	.	486	.	
+Sloss	.	.	Peter	.	.	.	.	3	21	.	5	27	4	14 May 1911	.	.	330	.	
+Smith	.	.	Annie	.	F	B	.	52	.	.	2	23	4	8 Sep 1911	.	3329	426	.	1911_00031492.PDF (mo.gov)
+Smith	.	.	Archie	.	M	B	.	.	.	.	4	177	1	5 Sep 1911	.	.	427	*	1911_00031499.PDF (mo.gov)
+Smith	.	.	Barney	.	M	B	.	64	.	.	4	26	1	10 Sep 1911	.	3367	431	.	1911_00031530.PDF (mo.gov)
+Smith	.	.	Bernice	E	F	B	.	1	.	.	2rw	33	1	5 Jul 1911	.	2610	374	*	1911_00024637.PDF (mo.gov)
+Smith	.	.	Gertrude	.	F	B	.	.	.	0	.	.	.	20 May 1911	Stranger Rest	2056	340	.	
+Smith	.	.	Henry	.	M	B	.	64	.	.	1	23	4	26 Aug 1911	.	3216	413	.	1911_00028493.PDF (mo.gov)
+Smith	.	.	James	.	M	B	.	2	.	.	3rw	32	1	30 Oct 1911	.	3886	467	*	1911_00034930.PDF (mo.gov)
+Smith	.	.	James	T	M	B	.	38	.	.	6	69	1	13 Jun 1911	.	2334	356	.	1911_00021227.PDF (mo.gov)
+Smith	.	.	William	.	M	B	.	40	.	.	8	44	1	3 Dec 1911	.	4302	494	.	1911_00041495.PDF (mo.gov)
+Spears	.	.	William	.	M	B	.	40	.	.	1	142	1	13 May 1911	.	1969	329	.	1911_00017825.PDF (mo.gov)
+Spencer	.	.	George	.	M	B	.	47	.	.	1	68	1	28 Sep 1911	.	3546	443	.	1911_00031683.PDF (mo.gov)
+Starks	.	.	Willie	O	M	B	.	16	.	.	2	69	1	27 May 1911	.	2139	344	.	1911_00017960.PDF (mo.gov)
+Stevens	.	.	Virginia	.	F	B	.	.	.	.	1rw	32	1	2 Sep 1911	.	3292	420	.	1911_00031469.PDF (mo.gov)
+Steward	.	.	George	.	M	B	.	50	.	.	1	191	1	17 Dec 1911	.	4468	506	.	1911_00041647.PDF (mo.gov)
+Strong	.	.	Cain	K	M	B	.	28	.	.	11	65	1	11 Nov 1911	.	4021	479	.	1911_00038010.PDF (mo.gov)
+Swain	.	.	Charley	.	M	B	.	51	.	.	8	39	1	3 Dec 1911	.	4300	493	.	1911_00041496.PDF (mo.gov)
+Sykes	.	.	William	Davis	M	B	.	36	.	.	12	79	1	5 Oct 1911	.	3602	450	.	1911_00034686.PDF (mo.gov)
+Tate	.	.	Baby	.	F	B	.	.	.	.	.	.	.	1 Oct 1911	Stranger Rest	.	448	*	
+Taylor	.	.	Mary	.	F	B	.	59	.	.	2	70	1	14 Dec 1911	.	4433	505	.	
+Teeters	.	.	Mattie	L	F	B	.	47	.	.	9	143	6	6 Jul 1911	.	2636	376	.	1911_00024650.PDF (mo.gov)
+Thomas	.	.	Ed	J	M	B	.	43	.	.	10	56	1	8 Oct 1911	.	3653	451	.	1911_00034713.PDF (mo.gov)
+Thompson	.	.	Catherine	.	F	B	.	20	.	.	7	69	1	13 Jun 1911	.	2333	355	.	1911_00021230.PDF (mo.gov)
+Thompson	.	.	L	L	M	B	.	58	.	.	8	173	6	21 May 1911	.	2036	337	.	1911_00017866.PDF (mo.gov)
+Thornton	.	.	Lydia	.	F	B	.	39	.	.	3	26	1	12 Oct 1911	.	3685	454	.	1911_00034775.PDF (mo.gov)
+Tillery	.	.	Hatch	.	M	B	.	33	.	.	9	29	4	19 Nov 1911	.	4097	485	.	1911_00038077.PDF (mo.gov)
+Todd	.	.	Ammon	.	M	B	.	70	.	.	3	2	4	16 Apr 1911	.	322	312	.	
+Toliver	.	.	Mary	.	F	B	.	68	.	.	6	170	6	8 Sep 1911	.	3347	430	.	1911_00031515.PDF (mo.gov)
+Tolliver	.	.	Robert	.	M	B	.	6	.	.	1rw	32	1	3 Sep 1911	.	3320	423	*	1911_00031481.PDF (mo.gov)
+Tolver	.	.	Eula	.	F	B	.	14	.	.	11	69	1	20 Jun 1911	.	2415	363	.	1911_00021306.PDF (mo.gov)
+Turmus	.	.	Oliver	.	M	B	.	29	.	.	1	39	1	10 Dec 1911	.	4367	500	.	1911_00041561.PDF (mo.gov)
+Turner	.	.	Infant	.	F	B	.	0	.	.	.	.	.	22 Dec 1911	Stranger Rest	4226	513	.	
+Unknown Man	.	.	.	.	M	B	.	46	.	.	.	.	.	20 Dec 1911	Stranger Rest	4392	509	.	
+Walker	.	.	Frank	.	M	B	.	47	.	.	5	65	1	4 Sep 1911	.	747	424	.	
+Ward	.	.	James	V	M	B	.	4	.	.	.	33	1	26 May 1911	.	2113	343	*	1911_00017949.PDF (mo.gov)
+Ward	.	.	Louise	.	F	B	.	16	.	.	7	56	1	21 Dec 1911	.	4505	511	.	1911_00041672.PDF (mo.gov)
+Ward	.	.	Susie	.	F	B	.	39	.	.	3	191	6	10 Dec 1911	.	4402	502	.	1911_00041595.PDF (mo.gov)
+Warden	.	.	Cassie	A	M	B	.	18	.	.	3	26	4	26 Jan 1911	.	325	294	.	1911_00001789.PDF (mo.gov)
+Washington	.	.	Baby	.	M	B	.	.	.	.	.	.	.	15 Oct 1911	Stranger Rest	3684	456	*	
+Washington	.	.	George	.	M	B	.	84	.	.	4	69	1	7 Jun 1911	.	2269	351	.	1911_00021179.PDF (mo.gov)
+Watkins	.	.	William	Arthur	M	B	.	5	.	.	10	33	1	19 May 1911	.	2034	334	.	1911_00017862.PDF (mo.gov)
+Webb	.	.	Harrison	.	M	B	.	23	.	.	12	67	1	15 Jun 1911	.	2343	359	.	1911_00021241.PDF (mo.gov)
+Webster	.	.	William	.	M	B	.	35	.	.	12	39	1	18 Jul 1911	.	2774	385	.	1911_00024763.PDF (mo.gov)
+Welch	.	.	John	.	M	B	.	46	.	.	8	53	1	2 Feb 1911	.	.	296	.	1911_00006281.PDF (mo.gov)
+Wells	.	.	Lillian	.	F	B	.	23	.	.	9	6	4	3 Jul 1911	.	2575	371	.	1911_00024588.PDF (mo.gov)
+Wheeler	.	.	Ethel	.	F	B	.	21	.	.	2	192	6	14 May 1911	.	1415	315	.	
+White	.	.	Lula	R	F	B	.	36	.	.	4	153	6	26 May 1911	.	2110	342	.	
+White	.	.	Richard	.	M	B	.	35	.	.	5	177	1	14 Sep 1911	.	3412	436	.	1911_00031581.PDF (mo.gov)
+Whitney	.	.	Pearl	F	F	B	.	28	.	.	7	2	4	8 Mar 1911	.	895	307	.	1911_00010402.PDF (mo.gov)
+William	.	.	Avery	.	F	B	.	42	.	.	5	26	1	18 Aug 1911	.	3119	406	.	
+Williams	.	.	Annie	.	F	.	.	70	.	.	1	26	1	27 Nov 1911	.	4245	489	.	1911_00038214.PDF (mo.gov)
+Williams	.	.	Blanch	.	F	B	.	22	.	.	1	52	1	20 Apr 1911	.	1476	314	.	1911_00014484.PDF (mo.gov)
+Williams	.	.	Hannah	.	F	B	.	76	.	.	4	178	1	15 Nov 1911	.	4062	481	.	1911_00038045.PDF (mo.gov)
+Williams	.	.	Jim	.	M	B	.	75	.	.	6	192	1	9 Nov 1911	.	4006	478	.	
+Williams	.	.	Laura	.	F	B	.	45	.	.	.	.	.	29 Dec 1911	Stranger Rest	4588	522	.	1911_00041770.PDF (mo.gov)
+Wilson	.	.	Adeline	.	F	B	.	75	.	.	10	67	1	11 Jun 1911	.	2307	354	.	1911_00021203.PDF (mo.gov)
+Wilson	.	.	George	.	M	B	.	57	.	.	5	192	1	7 Sep 1911	.	3293	421	.	1911_00031468.PDF (mo.gov)
+Wilson	.	.	Samuel	.	M	B	.	56	.	.	5	23	4	9 Aug 1911	.	2982	397	.	1911_00028293.PDF (mo.gov)
+Wilson	.	.	Will	.	M	B	.	59	.	.	2	6	4	9 Jul 1911	.	.	379	.	
+Wise	.	.	Harriett	.	F	B	.	70	.	.	12	29	1	5 Jul 1911	.	2609	372	.	
+Wise	.	.	Maryland	H	M	B	.	56	.	.	3	29	1	16 Oct 1911	.	3720	458	.	1911_00034777.PDF (mo.gov)
+Wolfskill	.	.	Ora	.	F	B	.	26	.	.	9	39	1	26 Oct 1911	.	3846	463	.	
+Woods	.	.	Alexander	.	M	B	.	67	.	.	5	25	4	9 Aug 1911	.	2983	396	.	1911_00028292.PDF (mo.gov)
+Woods	.	.	Amanda	.	F	B	.	37	.	.	11	194	6	18 Jul 1911	.	2771	384	.	1911_00024764.PDF (mo.gov)
+Workcuff	.	.	Estella	.	F	B	.	7	.	.	.	33	1	12 Feb 1911	.	587	299	.	1911_00006425.PDF (mo.gov)
+Wright	.	.	Edna	.	F	B	.	32	.	.	11	52	1	18 Jan 1911	.	237	291	.	1911_00001688.PDF (mo.gov)
+Wright	.	.	Geo.	W	M	B	.	9	.	.	10	26	1	11 Sep 1911	.	3383	433	.	
+Alexander	.	.	Eugine	.	M	B	23 Sep 1912	35	.	.	.	.	.	5 Oct 1912	Stranger Rest	3346	812	.	1912_00029831.PDF (mo.gov)
+Allen	.	.	Mollie	L	F	B	7 Apr 1912	51	.	.	12	27	1	11 Apr 1912	.	1422	647	.	1912_00013629.PDF (mo.gov)
+Anderson	.	.	Sammie	.	M	B	.	1	.	.	.	.	.	21 Feb 1912	Stranger Rest	638	576	.	1912_00005428.PDF (mo.gov)
+Anthony	.	.	Sam	.	M	B	.	50	.	.	.	.	.	10 Dec 1912	Stranger Rest	4159	860	.	1912_00039465.PDF (mo.gov)
+Armstrong	.	.	Baby	.	M	B	.	.	.	0	.	.	.	16 Dec 1912	Stranger Rest	4085	870	.	
+Arnold	.	.	John	.	M	B	.	6	.	.	1	50	1	17 Mar 1912	.	994	612	.	1912_00009518.PDF (mo.gov)
+Austin	.	.	Rubin	.	M	B	12 Nov 1912	54	.	.	7	58	4	4 Nov 1912	.	3797	837	.	1912_00036236.PDF (mo.gov)
+Austin	.	.	Thomas	.	M	B	.	40	.	.	8	68	1	3 Mar 1912	.	790	592	.	1912_00009331.PDF (mo.gov)
+Baggs	.	.	Wallace	.	M	B	.	.	2	.	.	.	.	Mar 1912	Stranger Rest	828	600	.	1912_00009357.PDF (mo.gov)
+Baker	.	.	Elizabeth	.	F	B	5 Jun 1912	11	.	.	1rw	33	1	6 Jun 1912	.	2147	710	.	1912_00020274.PDF (mo.gov)
+Banks	.	.	Ella	.	F	B	1 Apr 1912	31	.	.	9	65	1	2 Apr 1912	.	.	636	.	
+Barber	.	.	Mary	.	F	B	.	37	.	.	.	.	.	2 Feb 1912	Stranger Rest	370	552	.	1912_00001486.PDF (mo.gov)
+Barker	.	.	Edward	.	M	B	9 Apr 1912	40	.	.	.	.	.	17 Apr 1912	Stranger Rest	1548	658	.	1912_00013735.PDF (mo.gov)
+Barnett	.	.	Edward	.	M	B	.	.	.	.	4	68	1	4 Mar 1912	.	.	593	.	1912_00009330.PDF (mo.gov)
+Barton	.	.	Henry	.	M	B	30 Nov 1912	57	.	.	6	189	1	3 Dec 1912	.	4113	856	.	1912_00039420.PDF (mo.gov)
+Bell	.	.	Charles	.	M	B	28 May 1912	46	.	.	7	178	1	5 Jun 1912	.	2141	709	.	1912_00020262.PDF (mo.gov)
+Berry	.	.	Infant	.	F	B	13 Sep 1912	.	.	0	.	.	.	21 Sep 1912	Stranger Rest	3292	795	*	
+Beverly	.	.	Winona	.	F	B	3 Nov 1912	24	.	.	ex7	72	4	5 Nov 1912	.	.	838	.	1912_00036239.PDF (mo.gov)
+Biggs	.	.	Rachael	.	F	B	.	3	.	.	.	.	.	1 Mar 1912	Stranger Rest	731	590	.	1912_00005508.PDF (mo.gov)
+Billingsley	.	.	Charity	.	F	B	.	35	.	.	11	153	6	1 Feb 1912	.	365	550	.	
+Bishop	.	.	Addie	.	F	B	22 Mar 1912	40	.	.	6	156	6	25 Mar 1912	.	1117	627	.	1912_00009627.PDF (mo.gov)
+Blakely	.	.	Edward	.	M	B	.	53	.	.	9	17	4	31 Jan 1912	.	371	548	.	1912_00001485.PDF (mo.gov)
+Bland	.	.	Samuel	.	M	B	23 Oct 1912	54	.	.	.	.	.	6 Nov 1912	Stranger Rest	3802	840	.	1912_00036238.PDF (mo.gov)
+Bolton	.	.	Lucit	.	F	B	6 Jun 1912	66	.	.	12	179	1	7 Jun 1912	.	2163	712	.	1912_00020283.PDF (mo.gov)
+Booth	.	.	Jack	.	M	B	17 Sep 1912	57	.	.	2	59	4	19 Sep 1912	.	3291	790	.	1912_00029784.PDF (mo.gov)
+Boyd	.	.	Felix	.	M	B	.	37	.	.	12	45	1	14 Jan 1912	.	148	533	.	1912_00001298.PDF (mo.gov)
+Bradford	.	.	Willie	.	M	B	.	22	.	.	11	38	1	28 Jan 1912	.	317	542	.	1912_00001438.PDF (mo.gov)
+Bradshaw	.	.	Prince	Henry	M	B	.	9	.	.	2	178	1	21 Feb 1912	.	637	574	.	1912_00005430.PDF (mo.gov)
+Bronson	.	.	Leonard	.	M	B	8 Jul 1912	3	.	.	.	.	.	12 Jul 1912	Stranger Rest	2502	738	.	1912_00023141.PDF (mo.gov)
+Brooks	.	.	Mollie	.	F	B	.	63	.	.	10	37	1	.	.	4202	864	.	1912_00039506.PDF (mo.gov)
+Brown	.	.	Earl	.	M	B	20 Sep 1912	20	.	.	6	58	1	22 Sep 1912	.	3301	796	.	
+Brown	.	.	Jake	.	M	B	14 Sep 1912	60	.	.	3	180	1	16 Sep 1912	.	3256	786	.	1912_00029751.PDF (mo.gov)
+Buchanan	.	.	Lewis	.	M	B	25 Apr 1912	48	.	.	.	.	.	7 May 1912	Stranger Rest	1802	685	.	1912_00017166.PDF (mo.gov)
+Burns	.	.	Eskins	S	M	B	13 Oct 1912	.	6	.	2ndrw	.	176	15 Oct 1912	.	3582	823	*	1912_00033141.PDF (mo.gov)
+Burns	.	.	Joseph	.	M	B	29 Mar 1912	17	.	.	10	25	4	4 Apr 1912	.	1305	640	.	1912_00013525.PDF (mo.gov)
+Burton	.	.	Wallace	.	M	B	7 Apr 1912	18	.	.	.	.	.	16 Apr 1912	Stranger Rest	1507	657	.	1912_00013709.PDF (mo.gov)
+Campbell	.	.	Mabel	.	F	B	22 Apr 1912	.	8	.	6	174	1	26 Apr 1912	.	1659	675	.	1912_00013835.PDF (mo.gov)
+Campbell	.	.	Peter	W	M	B	21 Apr 1912	39	.	.	6	46	1	25 Apr 1912	.	1640	674	.	1912_00013822.PDF (mo.gov)
+Carr	.	.	Baby	.	F	B	1 Sep 1912	.	.	.	.	.	.	18 Sep 1912	Stranger Rest	3274	781	*	1912_00029770.PDF (mo.gov)
+Carroll	.	.	Baby	.	M	B	20 May 1912	.	5	.	.	.	.	28 May 1912	Stranger Rest	1981	705	*	1912_00017325.PDF (mo.gov)
+Carter	.	.	Beverly	.	M	B	27 May 1912	50	.	.	10	27	1	26 May 1912	.	2042	699	.	
+Carter	.	.	James	.	M	B	8 Dec 1912	49	.	.	9	27	1	.	.	4248	868	.	
+Carter	.	.	Leroy	.	M	B	7 Apr 1912	7	.	.	10	34	1	10 Apr 1912	.	1424	644	.	1912_00013633.PDF (mo.gov)
+Carter	.	.	Lucille	.	F	B	17 Jul 1912	.	.	.	.	.	.	16 Jul 1912	Stranger Rest	2585	740	.	
+Carvill	.	.	Louise	.	F	B	.	37	.	.	6	190	1	10 Feb 1912	.	102	562	.	
+Cason	.	.	Allrano	.	M	B	16 Sep 1912	18	.	.	10	59	4	18 Sep 1912	.	3273	789	.	1912_00029769.PDF (mo.gov)
+Cathey	.	.	Nathaniel	.	M	B	30 Sep 1912	32	.	.	3	181	1	1 Oct 1912	.	3438	810	.	1912_00033016.PDF (mo.gov)
+Chambers	.	.	James	.	M	B	.	36	.	.	5	60	4	9 Jun 1912	.	2171	713	.	1912_00020298.PDF (mo.gov)
+Chandler	.	.	Mamie	.	F	B	25 Sep 1912	7	.	.	2rw	174	1	28 Sep 1912	.	3424	804	*	1912_00029897.PDF (mo.gov)
+Cheqtman	.	.	H	H	M	B	6 Apr 1912	38	.	.	11	68	1	10 Apr 1912	.	1395	645	.	1912_00013610.PDF (mo.gov)
+Clarke	.	.	Jemina	.	F	B	15 Apr 1912	47	.	.	11	28	1	17 Apr 1912	.	1551	661	.	1912_00013737.PDF (mo.gov)
+Clayton	.	.	Fanny	.	F	B	.	.	.	.	4	60	4	25 Jul 1912	.	2699	747	.	1912_00023324.PDF (mo.gov)
+Clymer	.	.	Baby	.	F	B	31 Oct 1912	.	.	0	.	.	.	6 Nov 1912	Stranger Rest	3803	841	*	
+Coffer	.	.	Jessie	.	F	B	.	52	.	.	7	44	.	7 Jan 1912	.	63	528	.	1912_00001222.PDF (mo.gov)
+Colbert	.	.	Moses	.	M	B	.	35	.	.	2	191	1	.	.	1526	659	.	1912_00013726.PDF (mo.gov)
+Coleman	.	.	David	.	M	B	8 Oct 1912	30	.	.	3	58	4	10 Oct 1912	.	978	820	.	
+Collins	.	.	Sidina	.	M	B	1 May 1912	.	9	.	.	.	.	6 May 1912	Stranger Rest	1794	684	*	1912_00017153.PDF (mo.gov)
+Combs	.	.	Arthur	.	M	B	8 Sep 1912	28	.	.	3	59	4	15 Sep 1912	.	3237	782	.	1912_00029742.PDF (mo.gov)
+Conley	.	.	Charley	.	M	B	.	40	.	.	9	43	4	2 Feb 1912	.	397	553	.	1912_00005205.PDF (mo.gov)
+Conley	.	.	Janes	R	M	B	9 May 1912	.	6	.	8	43	4	14 May 1912	.	1876	693	.	
+Cook	.	.	Rebecca	.	F	B	.	80	.	.	2	45	1	24 Feb 1912	.	676	582	.	1912_00005458.PDF (mo.gov)
+Cooper	.	.	Sullie /Annie Greer	.	F	B	23 Sep 1912	59	.	.	1	59	4	26 Sep 1912	.	3364	801	.	
+Craig	.	.	Anna	.	F	B	13 May 1912	32	.	.	4	57	1	17 May 1912	.	1920	694	.	1912_00017273.PDF (mo.gov)
+Crawford	.	.	Mary	F	F	B	4 Sep 1912	52	.	.	8	72	4	7 Sep 1912	.	3135	774	.	1912_00029645.PDF (mo.gov)
+Crews	.	.	Wendel	.	M	B	.	18	.	.	4	148	6	2 Mar 1912	.	772	594	.	1912_00009300.PDF (mo.gov)
+Crockett	.	.	Maggie	.	F	B	.	4	.	.	1rw	175	1	22 Jun 1912	.	2286	722	*	1912_00020394.PDF (mo.gov)
+Crowly	.	.	John	.	M	B	.	66	.	.	7	68	1	31 Jan 1912	.	376	549	.	1912_00001499.PDF (mo.gov)
+Crump	.	.	Dovie	.	F	B	20 Mar 1912	46	.	.	1	67	4	23 Mar 1912	.	.	626	.	1912_00009616.PDF (mo.gov)
+Crutchfield	.	.	Eliza	.	F	B	23 Jun 1912	43	.	.	9	60	4	25 Jun 1912	.	2317	724	.	1912_00020413.PDF (mo.gov)
+Cuba	.	.	Callie	.	F	B	.	49	.	.	10	28	1	20 May 1912	.	1950	696	.	1912_00017301.PDF (mo.gov)
+Cummings	.	.	Ella	.	F	B	10 Sep 1912	17	.	.	1	72	4	13 Sep 1912	.	3215	780	.	1912_00029717.PDF (mo.gov)
+Cummings	.	.	Wm	.	M	B	.	57	.	.	1	44	1	10 Jan 1912	.	99	530	.	1912_00001248.PDF (mo.gov)
+Dale	.	.	Jack	.	M	B	.	.	.	.	4	179	1	7 May 1912	.	113	686	.	
+Davis	.	.	Baby	.	F	B	16 Dec 1912	8	.	.	2ndrw	175	1	18 Dec 1912	.	4290	872	*	1912_00039592.PDF (mo.gov)
+Davis	.	.	Hazel	.	F	B	29 Nov 1912	17	.	.	5	81	4	1 Dec 1912	.	4091	853	.	1912_00036484.PDF (mo.gov)
+Desmukes	.	.	Callie	.	.	.	.	.	6	.	1rw	34	1	23 Feb 1912	.	667	580	*	1912_00005459.PDF (mo.gov)
+Diggs	.	.	Christie	.	F	B	12 Apr 1912	22	.	.	6	28	1	14 Apr 1912	.	1494	656	.	1912_00013707.PDF (mo.gov)
+Dixon	.	.	Lillie	B	F	B	.	42	.	.	4	47	4	25 Jan 1912	.	289	541	.	1912_00001424.PDF (mo.gov)
+Dotson	.	.	Maria	.	F	B	15 Aug 1912	80	.	.	6	180	1	18 Aug 1912	.	2946	761	.	1912_00026464.PDF (mo.gov)
+Douglas	.	.	Geo	.	M	B	10 Aug 1912	42	.	.	11	72	4	18 Aug 1912	.	.	759	.	1912_00026451.PDF (mo.gov)
+Downsing	.	.	John	.	M	B	16 Oct 1912	55	.	.	2	190	1	28 Oct 1912	.	3652	830	.	1912_00033195.PDF (mo.gov)
+Doxey	.	.	Mary	.	F	B	11 Aug 1912	71	.	.	7	10	4	14 Aug 1912	.	2921	756	.	1912_00026435.PDF (mo.gov)
+Dunn	.	.	James	.	M	B	21 Mar 1912	28	.	.	10	50	1	25 Mar 1912	.	1123	620	.	1912_00009628.PDF (mo.gov)
+Eads	.	.	Mary	.	F	B	1 May 1912	53	.	.	8	178	1	4 May 1912	.	1769	681	.	1912_00017138.PDF (mo.gov)
+Edwards	.	.	Luella	.	F	B	20 Sep 1912	30	.	.	EX1	72	4	23 Sep 1912	.	3320	798	.	1912_00029813.PDF (mo.gov)
+Ellis	.	.	Ella	.	F	B	4 Jun 1912	48	.	.	12	60	4	9 Jun 1912	.	2164	714	.	1912_00020284.PDF (mo.gov)
+Ellis	.	.	Williams	.	M	B	.	.	.	.	1	56	1	21 Mar 1912	.	1028	618	.	1912_00009547.PDF (mo.gov)
+Evans	.	.	David	.	M	B	31 Aug 1912	36	.	.	10	16	4	2 Sep 1912	.	3101	771	.	1912_00029615.PDF (mo.gov)
+Everett	.	.	Stella	.	F	B	31 Mar 1912	27	.	.	9	193	6	4 Jul 1912	.	1273	635	.	1912_00013501.PDF (mo.gov)
+Ewing	.	.	Baby	.	M	B	20 Mar 1912	.	.	1	.	.	.	3 Apr 1912	Stranger Rest	1272	638	*	1912_00013502.PDF (mo.gov)
+Ewing	.	.	Ernest	.	M	B	.	25	.	.	6	178	1	31 Jan 1912	.	374	547	.	1912_00001503.PDF (mo.gov)
+Ewing	.	.	Percy	.	M	B	21 Mar 1912	28	.	.	3	57	1	28 Mar 1912	.	1173	629	.	1912_00009678.PDF (mo.gov)
+Farr	.	.	Goldie	.	F	B	.	16	.	.	11	59	4	17 Sep 1912	.	3253	787	.	
+Ferguson	.	.	Charlotte	.	F	B	8 Jun 1912	64	.	.	12	125	6	12 Jun 1912	.	2203	716	.	1912_00020320.PDF (mo.gov)
+Fields	.	.	David	.	M	B	22 Nov 1912	26	.	.	2	73	4	24 Nov 1912	.	4019	848	.	1912_00036420.PDF (mo.gov)
+Fields	.	.	Lucy	.	F	B	19 Sep 1912	63	.	.	4	181	1	20 Sep 1912	.	3303	791	.	1912_00029797.PDF (mo.gov)
+Floyd	.	.	Wm	.	M	B	4 Apr 1912	70	.	.	3	191	1	.	.	1363	646	.	
+Foster	.	.	George	.	M	B	16 Nov 1912	46	.	.	12	180	1	24 Nov 1912	.	3992	849	.	1912_00036404.PDF (mo.gov)
+Franklin	.	.	Emma	.	F	B	16 Aug 1912	9	.	.	6	72	4	18 Aug 1912	.	2948	760	.	1912_00026463.PDF (mo.gov)
+Frazier	.	.	Lottie	.	F	B	26 Nov 1912	49	.	.	1	73	4	30 Nov 1912	.	4080	852	.	1912_00036482.PDF (mo.gov)
+Frye	.	.	Vera	.	.	.	.	36	.	.	6	83	4	.	.	.	654	.	
+Fulton	.	.	Andrew	.	M	B	29 Mar 1912	49	.	.	.	.	.	12 Apr 1912	Stranger Rest	1401	649	.	1912_00013615.PDF (mo.gov)
+Gardner	.	.	Benjamin	.	M	B	22 Jun 1912	28	.	.	6	10	4	26 Jun 1912	.	2320	725	.	1912_00020415.PDF (mo.gov)
+Gardner	.	.	Sadie	.	F	B	22 Jun 1912	33	.	.	5	10	4	26 Jun 1912	.	2321	726	.	1912_00020416.PDF (mo.gov)
+Gardon	.	.	James	B	M	B	13 Sep 1912	70	.	.	6	124	6	15 Sep 1912	.	3304	783	.	1912_00029747.PDF (mo.gov)
+Garner	.	.	Cornelius	.	M	B	27 Mar 1912	20	.	.	1	65	1	28 Mar 1912	.	1174	631	.	1912_00009679.PDF (mo.gov)
+Garner	.	.	Jonson	.	M	B	21 Jul 1912	63	.	.	21	28	1	2 Aug 1912	.	2783	752	.	1912_00026335.PDF (mo.gov)
+Garrison	.	.	Estella	.	F	B	24 Dec 1912	20	.	.	8	73	4	26 Dec 1912	.	4395	877	.	1912_00039691.PDF (mo.gov)
+Gentry	.	.	Mary	.	F	B	.	.	.	.	2	178	1	17 Mar 1912	.	979	613	.	1912_00009503.PDF (mo.gov)
+George	.	.	Emma	.	F	B	10 Jan 1912	34	.	.	.	.	.	4 Feb 1912	Stranger Rest	98	558	.	1912_00001249.PDF (mo.gov)
+Gooden	.	.	Chas	.	M	B	.	48	.	.	6	43	4	4 Feb 1912	.	408	556	.	1912_00005223.PDF (mo.gov)
+Goodlow	.	.	Harriet	.	F	B	.	72	.	.	1	74	4	29 Dec 1912	.	.	879	.	1912_00039720.PDF (mo.gov)
+Graig	.	.	Thomas	.	M	B	.	37	.	.	5	45	1	21 Jan 1912	.	195	536	.	1912_00001346.PDF (mo.gov)
+Gray	.	.	Ida	.	F	B	.	44	.	.	1	142	6	14 Feb 1912	.	525	568	.	1912_00005321.PDF (mo.gov)
+Green	.	.	Baby	.	M	B	22 Jul 1912	.	.	0	.	.	.	24 Jul 1912	Stranger Rest	2680	746	*	
+Green	.	.	John	.	M	B	17 Sep 1912	33	.	.	10	179	1	30 Sep 1912	.	3347	808	.	1912_00029835.PDF (mo.gov)
+Green	.	.	Mary	.	F	B	.	52	.	.	4	28	1	19 May 1912	.	1930	695	.	
+Griffin	.	.	Henry	.	M	B	17 Apr 1912	45	.	.	6	190	1	29 Apr 1912	.	1705	677	.	1912_00013890.PDF (mo.gov)
+Griffin	.	.	Robert	.	M	B	4 Apr 1912	44	.	.	.	.	.	12 Apr 1912	Stranger Rest	1402	650	.	1912_00013616.PDF (mo.gov)
+Guy	.	.	Robert	.	M	B	.	46	.	.	2	74	4	23 Dec 1912	.	4356	876	.	1912_00039656.PDF (mo.gov)
+Hair	.	.	Jerry	.	M	B	25 Sep 1912	48	.	.	5	73	4	6 Oct 1912	.	3426	816	.	1912_00029901.PDF (mo.gov)
+Hair	.	.	James	.	M	B	15 Dec 1912	14	.	.	2ndrw	33	1	17 Dec 1912	.	4270	871	*	1912_00039566.PDF (mo.gov)
+Hall	.	.	John	.	M	B	.	33	.	.	4	45	1	11 Feb 1912	.	116	565	.	
+Hamilton	.	.	Claude	.	M	B	.	.	2	.	.	.	.	4 Feb 1912	Stranger Rest	411	555	.	
+Hanlely	.	.	Jannie	.	F	B	15 Nov 1912	35	.	.	10	73	4	20 Nov 1912	.	3971	845	.	
+Hannah	.	.	Baby	.	F	B	30 May 1912	.	.	0	.	.	.	1 Jun 1912	Stranger Rest	2096	707	*	
+Hardy	.	.	Dorthy	Marie	F	B	21 Dec 1912	8	.	.	sec6	73	4	22 Dec 1912	.	4343	875	.	1912_00039637.PDF (mo.gov)
+Hardy	.	.	Maud	Lee	F	B	28 May 1912	23	.	.	6	60	4	2 Jun 1912	.	2083	708	.	1912_00017414.PDF (mo.gov)
+Harlin	.	.	Annie	.	F	B	.	44	.	.	7	179	1	2 May 1912	.	1728	679	.	1912_00013908.PDF (mo.gov)
+Harris	.	.	Susie	B	F	B	21 Aug 1912	24	.	.	4	72	4	25 Aug 1912	.	3035	768	.	1912_00026551.PDF (mo.gov)
+Henderson	.	.	Jenere	.	.	B	.	.	.	.	3	45	1	15 Feb 1912	.	548	570	.	1912_00005348.PDF (mo.gov)
+Henley	.	.	Thomas	.	M	B	8 Aug 1912	37	.	.	.	.	.	10 Aug 1912	Stranger Rest	2838	753	.	1912_00026370.PDF (mo.gov)
+Henry	.	.	Garfield	.	M	B	21 May 1912	35	.	.	3	28	1	23 May 1912	.	1991	698	.	1912_00017336.PDF (mo.gov)
+Hester	.	.	James	.	M	B	19 May 1912	19	.	.	.	.	.	.	Stranger Rest	1971	697	.	1912_00017319.PDF (mo.gov)
+Hill	.	.	Anderson	.	M	B	22 Aug 1912	.	.	.	5	72	4	23 Aug 1912	.	3017	766	.	1912_00026530.PDF (mo.gov)
+Hill	.	.	Aubum	.	M	B	.	.	2	.	5	34	1	8 Mar 1912	.	886	604	*	1912_00009413.PDF (mo.gov)
+Hines	.	.	George	.	.	.	.	7	.	.	3rw	34	1	14 Apr 1912	.	1481	653	*	1912_00013689.PDF (mo.gov)
+Hines	.	.	James	.	M	B	17 Apr 1912	9	.	.	3rw	34	1	17 Apr 1912	.	1549	660	*	1912_00013740.PDF (mo.gov)
+Hines	.	.	James	.	M	B	16 Aug 1912	58	.	.	6	59	4	18 Aug 1912	.	2957	762	.	1912_00026474.PDF (mo.gov)
+Holliman	.	.	Philip	.	M	B	5 Sep 1912	50	.	.	3	49	4	8 Sep 1912	.	3155	776	.	1912_00029659.PDF (mo.gov)
+Holly	.	.	David	Sherman	M	B	.	26	.	.	3	68	1	30 Jan 1912	.	117	546	.	
+Holman	.	.	Patsy	.	F	B	.	41	.	.	11	17	4	29 Feb 1912	.	6	588	.	
+Houston	.	.	Andrew	.	M	B	28 Jul 1912	36	.	.	3	60	4	31 Jul 1912	.	2764	749	.	1912_00023379.PDF (mo.gov)
+Houston	.	.	Robert	.	M	B	.	11	.	.	6	27	1	14 Apr 1912	.	1518	655	.	1912_00013715.PDF (mo.gov)
+Hyde	.	.	Edner	.	F	B	.	41	.	.	2	50	1	13 Mar 1912	.	935	608	.	1912_00009457.PDF (mo.gov)
+Hyde	.	.	Rufus	.	M	B	.	29	.	.	4	38	1	4 Feb 1912	.	426	554	.	1912_00005232.PDF (mo.gov)
+Hyde	.	.	William	.	M	B	4 Jun 1912	32	.	.	.	.	.	12 Jun 1912	Stranger Rest	2204	715	.	1912_00020321.PDF (mo.gov)
+Ivory	.	.	Charles	.	M	B	6 Jun 1912	57	.	.	3	179	1	7 Jun 1912	.	2162	711	.	1912_00020286.PDF (mo.gov)
+Jackson	.	.	George	.	M	B	.	18	.	.	9	50	1	20 Mar 1912	.	1013	616	.	1912_00009527.PDF (mo.gov)
+Jackson	.	.	Ollie	.	M	B	25 Nov 1912	35	.	.	.	.	.	3 Dec 1912	Stranger Rest	4111	857	.	1912_00039423.PDF (mo.gov)
+Jacobs	.	.	Benjimen	F	M	B	.	3	.	.	1rw	34	1	17 Mar 1912	.	991	611	*	1912_00009516.PDF (mo.gov)
+Jacobs	.	.	Samuel	.	M	B	30 Apr 1912	35	.	.	5	179	1	6 May 1912	.	.	683	.	1912_00017157.PDF (mo.gov)
+James	.	.	Willie	.	M	B	.	9	.	.	.	.	.	27 Mar 1912	Stranger Rest	1030	628	.	1912_00009539.PDF (mo.gov)
+Jenkins	.	.	A	E	M	B	2 Dec 1912	50	.	.	6	142	6	5 Dec 1912	.	4144	858	.	1912_00039441.PDF (mo.gov)
+Jenkins	.	.	Corrine	.	F	B	.	25	.	.	8	38	1	29 Feb 1912	.	746	589	.	1912_00005554.PDF (mo.gov)
+Johnson	.	.	Anna	.	F	B	28 Oct 1912	22	.	.	8	59	4	31 Oct 1912	.	3743	832	.	1912_00033291.PDF (mo.gov)
+Johnson	.	.	Baby	.	F	B	.	.	.	5min	.	.	.	23 Feb 1912	Stranger Rest	670	578	*	1912_00005465.PDF (mo.gov)
+Johnson	.	.	Daisy	.	F	B	.	2	.	.	.	.	.	22 Jan 1912	Stranger Rest	.	537	.	
+Johnson	.	.	Grace	.	F	B	13 Dec 1912	19	.	.	9	27	1	16 Dec 1912	.	4261	869	.	1912_00039567.PDF (mo.gov)
+Johnson	.	.	Henry	.	M	B	24 May 1912	40	.	.	9	30	4	27 May 1912	.	2041	702	.	1912_00017371.PDF (mo.gov)
+Johnson	.	.	Infant	.	F	B	4 Oct 1912	.	.	0	.	.	.	5 Oct 1912	Stranger Rest	3467	815	.	
+Johnson	.	.	John	.	M	B	23 Oct 1912	34	.	.	.	.	.	31 Oct 1912	Stranger Rest	3744	833	.	1912_00033290.PDF (mo.gov)
+Johnson	.	.	Joseph	Lania	M	.	.	50	.	.	12	50	1	4 Mar 1912	.	796	595	.	
+Johnson	.	.	Tempey	.	F	B	17 Apr 1912	72	.	.	2	65	1	19 Apr 1912	.	1564	663	.	1912_00013762.PDF (mo.gov)
+Jolly	.	.	Leavell	.	M	B	14 Oct 1912	58	.	.	3	190	1	17 Oct 1912	.	3594	824	.	
+Jones	.	.	Baby	.	F	B	20 Jun 1912	.	.	0	5	.	.	28 Jun 1912	.	2356	727	*	
+Jones	.	.	Fountaine	.	M	B	27 Sep 1912	32	.	.	6	81	4	29 Sep 1912	.	3400	805	.	1912_00029888.PDF (mo.gov)
+Jones	.	.	Houston	.	M	B	6 Aug 1912	46	.	.	1	179	1	14 Aug 1912	.	2920	755	.	
+Jones	.	.	Louise	.	F	B	19 Apr 1912	40	.	.	11	37	1	21 Apr 1912	.	1593	664	.	1912_00013784.PDF (mo.gov)
+Jones	.	.	Pauline	.	F	B	15 Mar 1912	5	.	.	5	33	1	18 Mar 1912	.	1004	614	.	1912_00009528.PDF (mo.gov)
+Jones	.	.	Sammuel	.	M	B	18 Jul 1912	2	.	.	.	.	.	23 Jul 1912	Stranger Rest	2650	742	.	1912_00023276.PDF (mo.gov)
+Jones	.	.	Thomas	.	M	B	13 Nov 1912	44	.	.	12	73	4	15 Nov 1912	.	3913	843	.	1912_00036331.PDF (mo.gov)
+Kalie	.	.	Wilson	.	F	B	.	.	.	0	2ndrw	175	1	2 Dec 1912	.	4090	854	*	
+Kennedy	.	.	Mary	.	F	B	.	58	.	.	1	158	6	14 Feb 1912	.	534	569	.	1912_00005323.PDF (mo.gov)
+Kernes	.	.	Henry	.	M	B	7 Dec 1912	64	.	.	12	58	4	15 Dec 1912	.	4238	866	.	1912_00039543.PDF (mo.gov)
+King	.	.	Edward	.	M	B	.	29	.	.	1	51	1	8 Jan 1912	.	67	529	.	
+King	.	.	Jesse	.	M	B	17 Apr 1912	35	.	.	11	27	1	21 Apr 1912	.	1567	669	.	1912_00013756.PDF (mo.gov)
+King	.	.	Robert	.	M	B	.	26	.	.	12	38	1	7 Jan 1912	.	47	527	.	1912_00001207.PDF (mo.gov)
+King	.	.	William	.	M	B	.	58	.	.	9	45	1	25 Feb 1912	.	693	583	.	1912_00005479.PDF (mo.gov)
+Lang	.	.	Bessie	.	F	B	24 Jun 1912	38	.	.	.	.	.	27 Jun 1912	Stranger Rest	2358	730	.	1912_00020453.PDF (mo.gov)
+Langston	.	.	James	.	M	B	1 Dec 1912	34	.	.	7	124	6	3 Dec 1912	.	4112	855	.	1912_00039425.PDF (mo.gov)
+Larimmie	.	.	Milton	.	M	B	29 Sep 1912	73	.	.	4	58	1	2 Oct 1912	.	3437	811	.	1912_00033019.PDF (mo.gov)
+Lee	.	.	Baby	.	F	B	.	.	.	0	.	.	.	8 Mar 1912	Stranger Rest	875	605	*	
+Lee	.	.	Estell	.	F	B	.	45	.	.	12	51	1	13 Jan 1912	.	117	532	.	1912_00001271.PDF (mo.gov)
+Lee	.	.	Jimmie	.	F	B	.	.	.	.	1rw	175	1	12 Mar 1912	.	936	607	*	1912_00009460.PDF (mo.gov)
+Lewis	.	.	Adeline	.	F	B	.	28	.	.	10	68	1	7 Apr 1912	.	1353	641	.	1912_00013568.PDF (mo.gov)
+Lewis	.	.	Henry	W	M	B	.	41	.	.	6	38	1	7 Jan 1912	.	53	526	.	1912_00001201.PDF (mo.gov)
+Lewis	.	.	Thomas	.	M	B	5 Apr 1912	42	.	.	2	83	4	8 Apr 1912	.	1364	642	.	1912_00013591.PDF (mo.gov)
+Lewis	.	.	William	.	M	B	.	62	.	.	5	190	1	12 Feb 1912	.	513	567	.	1912_00005309.PDF (mo.gov)
+Logan	.	.	Anna	.	F	B	.	29	.	.	5	38	1	24 Jan 1912	.	288	540	.	1912_00001426.PDF (mo.gov)
+Love	.	.	Frances	.	F	B	.	70	.	.	1	38	1	20 Feb 1912	.	622	572	.	
+Love	.	.	J	H	M	B	.	46	.	.	5	178	1	11 Feb 1912	.	157	563	.	
+Lovejoy	.	.	Robert	.	M	B	9 Dec 1912	30	.	.	4	81	4	11 Dec 1912	.	4201	863	.	1912_00039509.PDF (mo.gov)
+MacKoy	.	.	Anna	.	F	B	4 Oct 1912	107	.	.	9	179	1	6 Oct 1912	.	3491	817	.	1912_00033060.PDF (mo.gov)
+Magens	.	.	Martin	.	M	B	24 Oct 1912	5	.	.	2ndrw	175	1	26 Oct 1912	.	2706	828	.	1912_00033265.PDF (mo.gov)
+Magens	.	.	Lucy	.	F	B	29 Apr 1912	46	.	.	6	46	1	2 Apr 1912	.	1720	678	.	1912_00013912.PDF (mo.gov)
+Marshall	.	.	Clay	.	M	B	21 Nov 1912	69	.	.	.	.	.	10 Dec 1912	Stranger Rest	4158	861	.	1912_00039457.PDF (mo.gov)
+Marshall	.	.	Robert	.	M	B	10 Aug 1912	33	.	.	6	147	6	16 Aug 1912	.	2118	758	.	1912_00026439.PDF (mo.gov)
+Mascey	.	.	Baby	.	.	B	19 Sep 1912	.	.	.	.	.	.	21 Sep 1912	Stranger Rest	3308	794	*	
+Mason	.	.	Amanda	.	F	B	9 Jul 1912	66	.	.	11	125	6	14 Jul 1912	.	.	739	.	1912_00023184.PDF (mo.gov)
+Mayham	.	.	Freddie	.	M	B	7 Oct 1912	4	.	.	8	155	6	9 Oct 1912	.	3525	819	.	1912_00033094.PDF (mo.gov)
+McCoy	.	.	Baby	.	M	B	19 Mar 1912	.	.	0	.	.	.	23 Mar 1912	Stranger Rest	1057	625	.	
+McCue	.	.	Edward	.	M	B	11 Dec 1912	51	.	.	5	37	1	15 Dec 1912	.	4237	867	.	1912_00039539.PDF (mo.gov)
+McCullough	.	.	Irma	.	M	B	.	7	.	.	2ndrw	175	1	30 Dec 1912	.	4448	880	*	1912_00039739.PDF (mo.gov)
+McFalls	.	.	Gertrude	.	F	B	19 Mar 1912	32	.	.	7	194	6	21 Mar 1912	.	1032	617	.	1912_00009552.PDF (mo.gov)
+McMillan	.	.	Anthony	.	M	B	29 Sep 1912	35	.	.	.	.	.	5 Oct 1912	Stranger Rest	3469	814	.	1912_00033041.PDF (mo.gov)
+McMlendon	.	.	Mullier	.	M	B	26 Oct 1912	.	4	.	.	.	.	31 Oct 1912	Stranger Rest	3745	834	.	
+Merriweather	.	.	Baby	.	M	B	5 Nov 1912	.	.	0	.	.	.	6 Nov 1912	Stranger Rest	.	842	*	
+Michael	.	.	Walter	.	M	B	18 Jun 1912	21	.	.	10	60	4	23 Jun 1912	.	2293	723	.	1912_00020391.PDF (mo.gov)
+Miller	.	.	Betsey	.	F	B	28 Mar 1912	83	.	.	8	193	6	30 Mar 1912	.	.	632	.	1912_00009721.PDF (mo.gov)
+Mitchell	.	.	Frank	C	M	B	13 Oct 1912	58	.	.	4	73	4	15 Oct 1912	.	3583	822	.	1912_00033144.PDF (mo.gov)
+Mitchell	.	.	Amanda	.	F	B	.	55	.	.	1	43	4	3 Jan 1912	.	17	525	.	
+Monroe	.	.	Andrew	.	M	B	5 Sep 1912	.	.	.	4	59	4	8 Sep 1912	.	3167	775	.	1912_00029669.PDF (mo.gov)
+Montgomery	.	.	Mary	.	F	B	8 Dec 1912	50	.	.	3	74	4	10 Dec 1912	.	4190	862	.	1912_00039494.PDF (mo.gov)
+Moody	.	.	Baby	.	M	B	25 May 1912	.	.	30min	.	.	.	27 May 1912	Stranger Rest	2039	704	.	1912_00017373.PDF (mo.gov)
+Moore	.	.	Arthur	.	M	B	4 Nov 1912	26	.	.	6	74	4	6 Nov 1912	.	3808	839	.	1912_00036250.PDF (mo.gov)
+Moore	.	.	Baby	.	F	B	.	.	.	.	.	.	.	24 Nov 1912	Stranger Rest	4018	850	*	
+Moore	.	.	Foney	.	M	B	.	.	.	.	7	144	6	24 Apr 1912	.	1640	672	.	
+Moore	.	.	John	A	M	B	28 Sep 1912	2	.	.	2rw	176	1	30 Sep 1912	.	3425	809	*	1912_00029907.PDF (mo.gov)
+Moore	.	.	Laura	.	F	B	.	28	.	.	10	50	1	12 Mar 1912	.	951	610	.	1912_00009479.PDF (mo.gov)
+Moore	.	.	Still Born	.	F	B	5 Sep 1912	.	.	0	.	.	.	18 Sep 1912	Stranger Rest	3275	788	.	
+Mosley	.	.	Sullie	.	F	B	.	26	.	.	.	.	.	.	Stranger Rest	708	585	.	
+Mullen	.	.	Robert	.	M	B	.	54	.	.	12	5	4	9 Feb 1912	.	479	561	.	1912_00005285.PDF (mo.gov)
+Myers	.	.	Susie	.	F	B	.	.	.	.	1	14	4	31 Jan 1912	.	371	545	.	1912_00001504.PDF (mo.gov)
+Nealy	.	.	George	.	M	B	2 Apr 1912	45	.	.	.	.	.	20 Apr 1912	Stranger Rest	1565	668	.	1912_00013757.PDF (mo.gov)
+Nelson	.	.	Edward	.	M	B	22 Oct 1912	30	.	.	9	180	1	23 Oct 1912	.	.	827	.	1912_00033214.PDF (mo.gov)
+Nero	.	.	Mary	E	F	B	10 May 1912	72	.	.	2	180	6	12 May 1912	.	1854	688	.	1912_00017210.PDF (mo.gov)
+Nevels	.	.	Richard	.	M	B	4 Dec 1912	40	.	.	.	.	.	10 Dec 1912	Stranger Rest	.	859	.	1912_00039456.PDF (mo.gov)
+Nudge	.	.	Sylvester	.	M	B	1 Jul 1912	4	.	.	1rw/2	175	1	21 Jul 1912	.	2407	732	*	1912_00023070.PDF (mo.gov)
+Overton	.	.	Mary	.	F	B	.	23	.	.	1	45	1	4 Mar 1912	.	794	597	.	1912_00009325.PDF (mo.gov)
+Owens	.	.	Ida	Mae	F	B	9 Apr 1912	12	.	.	1rw	34	1	12 Apr 1912	.	1423	652	*	1912_00013645.PDF (mo.gov)
+Page	.	.	Sylvester	.	M	B	17 Dec 1912	.	.	.	.	.	.	20 Dec 1912	Stranger Rest	4323	873	.	1912_00039625.PDF (mo.gov)
+Palson	.	.	Infant	.	M	B	.	.	.	.	.	.	.	.	Stranger Rest	.	571	.	
+Parker	.	.	Hattie	J	F	B	.	60	.	.	6	50	1	28 Jan 1912	.	318	544	.	1912_00001447.PDF (mo.gov)
+Parker	.	.	Kames	.	M	B	1 Jul 1912	56	.	.	7	60	4	5 Jul 1912	.	2446	735	.	
+Parker	.	.	Margaret	.	F	B	19 Sep 1912	.	1	.	1rw	175	1	21 Sep 1912	.	3317	793	*	1912_00029809.PDF (mo.gov)
+Patrick	.	.	Edward	.	M	B	11 May 1912	52	.	.	6	37	1	14 May 1912	.	1847	692	.	1912_00017209.PDF (mo.gov)
+Patrick	.	.	Mollie	.	F	B	.	44	.	.	1	21	4	24 Jul 1912	.	2681	744	.	
+Patterson	.	.	Robert	.	M	B	26 Aug 1912	65	.	.	3	72	4	1 Sep 1912	.	3092	769	.	1912_00026600.PDF (mo.gov)
+Payne	.	.	Baby	.	M	B	25 Jun 1912	.	.	0	.	.	.	29 Jun 1912	Stranger Rest	2347	733	*	
+Payne	.	.	Baby	.	M	B	29 Jun 1912	.	.	.	.	.	.	10 Jul 1912	Stranger Rest	2482	736	.	
+Pemr	.	.	Jessie	.	F	B	19 Sep 1912	19	.	.	5	190	1	22 Sep 1912	.	.	797	.	1912_00029808.PDF (mo.gov)
+Pennington	.	.	George	.	M	B	24 May 1912	32	.	.	.	.	.	27 May 1912	Stranger Rest	2038	703	.	1912_00017374.PDF (mo.gov)
+Perry	.	.	Isine	.	F	B	23 May 1912	18	.	.	5	70	1	26 May 1912	.	2033	701	.	1912_00017365.PDF (mo.gov)
+Player	.	.	Gussie	.	F	B	.	35	.	.	10	45	1	4 Mar 1912	.	412	557	.	1912_00005217.PDF (mo.gov)
+Porter	.	.	May	.	F	B	20 Jul 1912	40	.	.	.	.	.	23 Jul 1912	Stranger Rest	2679	743	.	1912_00023299.PDF (mo.gov)
+Powell	.	.	Arthelia	.	F	B	.	1	.	.	1rw	175	1	14 Mar 1912	.	954	609	*	1912_00009480.PDF (mo.gov)
+Prewett	.	.	Baby	.	F	B	30 Apr 1912	.	.	.	.	.	.	12 May 1912	Stranger Rest	1828	691	.	1912_00017193.PDF (mo.gov)
+Price	.	.	Ellen	.	F	B	.	58	.	.	3	38	1	11 Feb 1912	.	501	564	.	1912_00005299.PDF (mo.gov)
+Proctor	.	.	Dovie	.	F	B	26 Oct 1912	31	.	.	1	190	1	29 Oct 1912	.	3705	831	.	
+Proctor	.	.	James	W	M	B	.	23	.	.	7	21	4	13 Oct 1912	.	3568	821	.	
+Prukie	.	.	Parthria	.	F	B	.	39	.	.	5	50	1	8 Feb 1912	.	463	559	.	
+Rankins	.	.	Sylvester	.	.	.	23 May 1912	24	.	.	9	28	1	26 May 1912	.	2030	700	.	
+Redman	.	.	Binkry	.	M	B	20 Mar 1912	1	.	.	2	34	1	22 Mar 1912	.	1079	621	.	
+Redman	.	.	George	.	M	B	.	34	.	.	1	191	1	25 Apr 1912	.	1648	673	.	
+Reed	.	.	Bertha	.	F	B	29 Jul 1912	28	.	.	1	60	4	2 Aug 1912	.	2777	751	.	
+Reed	.	.	Lizzie	.	F	B	13 Sep 1912	60	.	.	7	72	4	16 Sep 1912	.	3227	785	.	
+Reed	.	.	Lizzie	.	F	B	.	33	.	.	9	38	1	22 Feb 1912	.	647	577	.	
+Rice	.	.	Shirley	.	M	B	10 May 1912	41	.	.	.	.	.	29 May 1912	Stranger Rest	2040	706	.	
+Richardson	.	.	John	.	M	B	.	22	.	.	.	.	.	22 Jan 1912	Stranger Rest	262	539	.	
+Richardson	.	.	Wm	J	M	B	.	40	.	.	7	148	6	23 Feb 1912	.	669	579	.	
+Ricketts	.	.	Henry	.	M	B	18 Apr 1912	27	.	.	5	28	1	20 Apr 1912	.	1566	665	.	
+Robinson	.	.	Carrie	.	F	B	2 Apr 1912	.	.	.	11	70	1	9 Apr 1912	.	1388	643	.	
+Rodgers	.	.	John	.	M	B	6 Sep 1912	46	.	.	12	59	4	8 Sep 1912	.	.	777	.	
+Rodragurz	.	.	Vidal	.	M	M	2 May 1912	34	.	.	.	.	.	8 May 1912	Stranger Rest	1815	687	.	
+Rogers	.	.	.	.	M	B	20 Jun 1912	40	.	.	.	.	.	27 Jun 1912	Stranger Rest	2324	728	.	
+Rogers	.	.	A	W	M	B	31 Aug 1912	53	.	.	5	59	4	1 Sep 1912	.	3097	770	.	
+Rogers	.	.	Frank	.	M	B	25 Jun 1912	32	.	.	2	179	.	29 Jun 1912	.	2355	731	.	
+Ross	.	.	Charity	.	F	B	.	50	.	.	7	45	1	10 Mar 1912	.	905	606	.	
+Ruby	.	.	Samuel	.	M	B	.	33	.	.	8	45	1	7 Mar 1912	.	867	602	.	
+Rucker	.	.	Chuie	.	F	B	29 Jun 1912	48	.	.	2	16	4	28 Jun 1912	.	2342	729	.	
+Rulford	.	.	Lafayette	.	M	B	.	43	.	.	.	.	.	14 Dec 1912	Stranger Rest	4215	865	.	
+Russell	.	.	Eliza	.	F	B	6 Apr 1912	65	.	.	6	148	6	11 Apr 1912	.	1440	648	.	
+Salsburg	.	.	Arthur	.	M	B	24 Sep 1912	33	.	.	5	58	4	28 Sep 1912	.	3398	803	.	
+Sanders	.	.	Frank	.	M	B	4 Apr 1912	21	.	.	.	.	.	20 Apr 1912	Stranger Rest	1555	666	.	
+Sandridge	.	.	George	.	M	B	25 Sep 1912	31	.	.	5	190	1	30 Sep 1912	.	3405	807	.	
+Saunders	.	.	Leon	B	M	B	30 Jul 1912	5	.	.	.	.	.	31 Jul 1912	Stranger Rest	2762	748	.	
+Scott	.	.	William	D	M	B	.	14	.	.	.	.	.	20 Feb 1912	Stranger Rest	629	573	.	
+Searcey	.	.	James	.	M	B	.	58	.	.	7	179	1	20 Nov 1912	.	.	846	.	
+Seley	.	.	Clayton	Wi	M	B	25 Sep 1912	33	.	.	6	73	4	28 Sep 1912	.	33821	802	.	
+Sexton	.	.	Henry	.	M	B	.	.	.	.	4	191	1	22 Mar 1912	.	1029	622	.	
+Simons	.	.	Eliza	.	F	B	.	26	.	.	3	50	1	5 Mar 1912	.	827	598	.	
+Sims	.	.	James	E	M	B	.	.	.	.	9	178	.	25 Feb 1912	.	181	584	.	
+Singleton	.	.	Robert	.	M	B	.	20	.	.	7	44	4	18 Jan 1912	.	.	535	.	
+Sizemore	.	.	William	.	M	B	13 Apr 1912	36	.	.	12	31	4	21 Apr 1912	.	1601	670	.	
+Smiley	.	.	Mamie	.	F	B	.	40	.	.	11	45	1	22 Jan 1912	.	263	538	.	
+Smith	.	.	Alfred	H	M	B	13 Nov 1912	30	.	.	11	73	4	18 Nov 1912	.	.	844	.	
+Smith	.	.	Anna	.	F	B	30 Jul 1912	.	.	.	2	60	4	1 Aug 1912	.	2776	750	.	
+Smith	.	.	Baby	.	F	B	.	1	.	.	.	.	.	28 Feb 1912	Stranger Rest	730	587	*	
+Smith	.	.	Charley	.	M	B	.	48	.	5hr	.	.	.	8 Feb 1912	Stranger Rest	475	560	.	
+Smith	.	.	Infant	.	M	B	.	.	.	.	.	.	.	23 Feb 1912	Stranger Rest	672	581	*	
+Smith	.	.	James	.	M	B	.	.	.	.	.	.	.	19 Apr 1912	Stranger Rest	1581	667	.	
+Smith	.	.	Joanna	.	F	B	29 Mar 1912	50	.	.	1	86	4	31 Mar 1912	.	1197	634	.	
+Smith	.	.	Mary	.	F	B	9 Jul 1912	28	.	.	2	38	1	11 Jul 1912	.	2515	737	.	
+Smith	.	.	Mathew	B	M	B	24 Apr 1912	7	.	.	12	179	1	26 Apr 1912	.	1660	676	.	
+Smith	.	.	Preston	W	M	B	18 Aug 1912	15	.	.	9	72	4	29 Aug 1912	.	3002	764	.	
+Smith	.	.	Richard	.	M	B	9 Aug 1912	50	.	.	.	.	.	14 Aug 1912	Stranger Rest	2912	757	.	
+Smith	.	.	Walter	.	M	B	.	43	.	.	.	.	.	10 Jan 1912	.	115	531	.	
+Snell	.	.	Daisy	.	F	B	23 Nov 1912	34	.	.	4	74	4	27 Nov 1912	.	4052	851	.	
+Somon	.	.	George	.	M	B	30 Oct 1912	30	.	.	5	126	6	1 Nov 1912	.	3746	835	.	
+Spears	.	.	Katie	.	F	B	30 Apr 1912	52	.	.	5	57	1	2 May 1912	.	1774	682	.	
+Spence	.	.	John	.	M	B	13 Mar 1912	26	.	.	.	.	.	30 Mar 1912	Stranger Rest	1115	630	.	
+Stevenson	.	.	Norman	.	M	B	19 Mar 1912	7	.	.	4	33	1	21 Mar 1912	.	1056	619	.	
+Stewart	.	.	Hallie	Mae	F	B	30 Apr 1912	33	.	.	12	46	1	2 May 1912	.	1740	680	.	
+Stoveall	.	.	Robert	.	M	B	20 May 1912	33	.	.	.	.	.	26 Jun 1912	Stranger Rest	2323	721	.	
+Strong	.	.	Mary	C	F	B	.	65	.	.	6	45	1	14 Jan 1912	.	149	534	.	
+Sutton	.	.	Amanda	.	F	B	2 Apr 1912	57	.	.	9	68	1	4 Apr 1912	.	1293	639	.	
+Swan	.	.	W	P	M	B	.	51	.	.	4	170	6	11 Feb 1912	.	4981	566	.	
+Tarrence	.	.	Clara	.	F	B	7 Sep 1912	50	.	.	2	72	4	9 Sep 1912	.	3168	778	.	
+Taylor	.	.	Charley	.	M	B	10 May 1912	51	.	.	6	49	1	12 May 1912	.	.	690	.	
+Taylor	.	.	Eddie	.	M	B	16 Aug 1912	24	.	.	10	72	4	20 Aug 1912	.	2971	763	.	
+Taylor	.	.	Laura	.	F	B	25 Oct 1912	75	.	.	3	73	4	27 Oct 1912	.	3704	829	.	
+Terry	.	.	Frank	S	M	B	7 Aug 1912	70	.	.	12	72	4	12 Aug 1912	.	2877	754	.	
+Testits	.	.	Madeline	.	F	B	.	21	.	.	7	38	1	6 Mar 1912	.	841	601	.	
+Thomas	.	.	Anna	.	F	B	19 Sep 1912	70	.	.	11	179	1	21 Sep 1912	.	3307	792	.	
+Thomas	.	.	Julia	A	F	B	.	52	.	.	1	31	4	23 Sep 1912	.	898	799	.	
+Thomas	.	.	Kirk	.	M	B	.	35	.	.	.	.	.	28 Feb 1912	Stranger Rest	694	586	.	
+Tidwell	.	.	James	A	M	B	21 Aug 1912	4	.	.	3rw	34	1	24 Aug 1912	.	3013	767	*	
+Tooley	.	.	Walter	.	M	B	.	17	.	.	6	31	4	18 Apr 1912	.	1550	662	.	
+Tucker	.	.	Walter	.	M	B	.	36	.	.	3	178	1	7 Mar 1912	.	.	603	.	
+Turner	.	.	Ernest	.	M	B	.	.	25	.	4	156	6	1 Feb 1912	.	383	551	.	
+Unknown Man	.	.	.	.	M	M	5 May 1912	30	.	.	.	.	.	12 May 1912	Stranger Rest	1855	689	.	
+Vaughrn	.	.	Edward	.	M	B	10 Sep 1912	25	.	.	1	124	6	15 Sep 1912	.	3226	784	.	
+Vinegar	.	.	Isac	.	M	B	21 Sep 1912	51	.	.	9	59	4	29 Sep 1912	.	.	806	.	
+Walker	.	.	Bernice	.	F	B	9 Mar 1912	.	5	.	.	.	.	23 Mar 1912	Stranger Rest	1054	623	.	
+Walker	.	.	Callie	.	F	B	.	30	.	.	7	142	6	28 Jan 1912	.	319	543	.	
+Walker	.	.	Dora	.	F	B	12 Sep 1912	.	.	0	.	.	.	23 Sep 1912	Stranger Rest	3319	800	*	
+Walker	.	.	Sallie	.	F	B	.	40	.	.	10	178	1	21 Feb 1912	.	607	575	.	
+Waller	.	.	Robert	.	M	B	.	57	.	.	6	166	6	17 Mar 1912	.	1012	615	.	
+Walls	.	.	Grandson	.	M	.	.	32	.	.	11	58	4	29 Dec 1912	.	4414	878	.	
+Walls	.	.	Leonard	.	M	B	9 Apr 1912	25	.	.	12	28	1	11 Apr 1912	.	.	651	.	
+Walter	.	.	Charles	.	M	B	7 Mar 1912	5	.	.	.	.	.	23 Mar 1912	Stranger Rest	1055	624	.	
+Walter	.	.	Sylvia	.	F	B	13 Jul 1912	53	.	.	12	166	6	16 Jul 1912	.	2583	741	.	
+Walton	.	.	Thomas	.	M	B	6 Sep 1912	45	.	.	.	.	.	12 Sep 1912	Stranger Rest	3214	779	.	
+Washington	.	.	Baby	.	M	B	.	.	.	0	.	.	.	13 Jun 1912	Stranger Rest	2211	717	*	
+Washington	.	.	Edna	.	F	B	2 Jul 1912	33	.	.	8	60	4	4 Jul 1912	.	2434	734	.	
+Wells	.	.	Baby	.	M	B	.	.	.	7	.	.	.	12 Mar 1912	Stranger Rest	854	599	*	
+Wenfrey	.	.	Anna	.	F	B	20 Dec 1912	63	.	.	12	181	1	22 Dec 1912	.	4344	874	.	
+White	.	.	Ethel	.	F	B	18 Oct 1912	18	.	.	2	58	4	20 Oct 1912	.	3620	825	.	
+White	.	.	Frank	Stewart	M	B	.	22	.	.	4	50	1	3 Mar 1912	.	792	596	.	
+White	.	.	Jennie	.	F	B	18 Aug 1912	85	.	.	6	181	1	23 Aug 1912	.	3016	765	.	
+White	.	.	Julia	.	F	B	.	52	.	.	5	74	4	22 Nov 1912	.	3986	847	.	
+William	.	.	Belle	.	F	B	.	33	.	.	11	60	4	14 Jun 1912	.	.	718	.	
+Williams	.	.	Baby	.	M	B	2 Oct 1912	.	3	.	.	.	.	5 Oct 1912	Stranger Rest	3470	813	.	
+Williams	.	.	George	.	M	B	19 Jul 1912	17	.	.	.	.	.	24 Jul 1912	Stranger Rest	2669	745	.	
+Williams	.	.	Harry	.	M	B	.	23	.	.	.	.	.	3 Apr 1912	Stranger Rest	1172	637	.	
+Williams	.	.	Hue	.	M	B	19 Apr 1912	25	.	.	1	178	1	22 Apr 1912	.	1604	671	.	
+Williams	.	.	Julia	H	F	B	5 Oct 1912	58	.	.	5	124	6	8 Oct 1912	.	3515	818	.	
+Williams	.	.	Louisa	.	F	B	8 Jun 1912	32	.	.	.	.	.	14 Jun 1912	Stranger Rest	2224	719	.	
+Wood	.	.	Raymond	B	M	B	15 Jun 1912	3	.	.	2rw	33	1	16 Jun 1912	.	2239	720	*	
+Woodfork	.	.	.	.	F	B	.	1	.	.	.	.	.	3 Mar 1912	.	774	591	.	
+Woods	.	.	Willis	.	M	B	26 Apr 1912	39	.	.	.	.	.	5 Sep 1912	Stranger Rest	3136	772	.	
+Wright	.	.	Fannie	Mae	F	B	30 Oct 1912	9	.	.	1	58	4	3 Nov 1912	.	3777	836	.	
+Wright	.	.	Nellie	.	F	B	27 Mar 1912	21	.	.	5	68	1	31 Mar 1912	.	1208	633	.	
+Wright	.	.	Viola	.	F	B	19 Oct 1912	.	10	.	2ndrw	175	1	21 Oct 1912	.	3635	826	.	
+Yates	.	.	Josephine	S	F	B	3 Sep 1912	52	.	.	9	164	6	6 Sep 1912	.	3142	773	.	
+Adams	.	.	William	Edward	M	B	5 Mar 1913	2	.	.	3rdrw	175	1	7 Mar 1913	.	911	938	*	
+Allen	.	.	Amanda	.	F	B	29 Jul 1913	43	.	.	6	48	4	3 Aug 1913	.	2731	1085	.	
+Anderson	.	.	Howard	.	M	B	14 Jan 1913	29	.	.	12	81	4	16 Jan 1913	.	220	895	.	
+Anderson	.	.	Major	.	M	B	26 Aug 1913	47	.	.	4	187	1	31 Aug 1913	.	3158	1109	.	
+Anderson	.	.	Sarah	.	F	B	1 May 1913	56	.	.	9	57	4	4 May 1913	.	1668	1000	.	
+Baker	.	.	Milton	.	M	B	21 Feb 1913	3	.	.	1strw	34	1	22 Feb 1913	.	740	927	*	
+Banks	.	.	Maggie	.	F	B	3 Nov 1913	31	.	.	3	183	1	7 Nov 1913	.	3936	1159	.	
+Barber	.	.	Maggie	.	F	B	2 Apr 1913	49	.	.	1	189	1	4 Apr 1913	.	1262	964	.	
+Bartow	.	.	Infant	.	M	B	10 Sep 1913	0	.	.	.	.	.	7 Oct 1913	Strangers Rest	3557	1138	*	
+Beaty	.	.	Susan	.	F	B	3 Oct 1913	54	.	.	2	75	4	9 Oct 1913	.	3595	1145	.	
+Beecham	.	.	John	.	M	B	10 Jul 1913	57	.	.	10	56	4	13 Jul 1913	.	.	1067	.	
+Bell	.	.	Beulah	.	F	B	17 Nov 1913	28	.	.	11	46	1	19 Nov 1913	.	4077	1167	.	
+Bell	.	.	Daniel	.	M	B	11 Jun 1913	44	.	.	8	182	1	22 Jun 1913	.	2236	1051	.	
+Bell	.	.	John	Wesley	M	B	21 Apr 1913	78	.	.	12	182	1	23 Apr 1913	.	1527	989	.	
+Bennett	.	.	Hazel	.	F	B	27 Aug 1913	17	.	.	9	170	6	31 Aug 1913	.	3161	1107	.	
+Benson	.	.	Robert	.	M	B	30 Jan 1913	48	.	.	.	.	.	7 Mar 1913	Strangers Rest	580	939	.	
+Berry	.	.	George	.	M	B	4 Aug 1913	68	.	.	7	182	1	7 Aug 1913	.	2812	1087	.	
+Betts	.	.	Baby	.	M	B	9 Nov 1913	.	.	0	.	.	.	18 Nov 1913	Strangers Rest	4061	1166	*	
+Black	.	.	William	.	M	B	5 Apr 1913	40	.	.	9	124	6	7 Apr 1913	.	1297	968	.	
+Blake	.	.	Charles	.	M	B	2 Mar 1913	32	.	.	10	181	1	6 Mar 1913	.	914	937	.	
+Bolden	.	.	Jacob	.	M	B	25 Apr 1913	70	.	.	6	182	1	27 Apr 1913	.	1587	996	.	
+Bonsfield	.	.	Willard	H	M	B	13 Apr 1913	54	.	.	12	163	6	23 Apr 1913	.	.	987	.	
+Boyd	.	.	Susan	.	F	B	18 Aug 1913	67	.	.	8	10	4	21 Aug 1913	.	3046	1100	.	
+Branford	.	.	Madison	.	M	B	21 Feb 1913	53	.	.	8	74	4	24 Feb 1913	.	775	930	.	
+Brauam	.	.	Shirley	H	M	B	25 Jun 1913	5	.	.	3rdrw	35	1	26 Jun 1913	.	2298	1055	*	
+Breedlove	.	.	George	.	M	B	30 Dec 1913	53	.	.	.	.	.	4 Jan 1913	Strangers Rest	48	884	.	
+Bridges	.	.	Maud	.	F	B	4 Apr 1913	26	.	.	11	57	4	9 Apr 1913	.	1332	970	.	
+Britt	.	Jr	Charles	.	M	B	6 Feb 1913	2	.	.	2ndrw	175	1	9 Feb 1913	.	542	917	.	
+Brooke	.	.	James	.	M	B	2 Oct 1913	28	.	.	.	.	.	7 Oct 1913	Strangers Rest	3558	1143	.	
+Brooks	.	.	Infant	.	F	B	28 Aug 1913	.	0	.	.	.	.	29 Aug 1913	Strangers Rest	3153	1105	*	
+Brown	.	.	Carl	L	M	B	30 Jun 1913	1	.	.	3rdrw	35	1	2 Jul 1913	.	2361	1060	*	
+Brown	.	.	Gilbert	.	M	B	12 May 1913	.	7	.	.	.	.	.	Strangers Rest	1822	1010	.	
+Brown	.	.	Henry	.	M	B	13 May 1913	51	.	.	3	124	6	16 May 1913	.	1820	1009	.	
+Brown	.	.	Marton	.	M	B	8 Nov 1913	44	.	.	5	186	1	12 Nov 1913	.	3992	1162	.	
+Bryant	.	.	Henry	.	M	B	16 Sep 1913	.	.	.	.	.	.	23 Sep 1913	Strangers Rest	3402	1130	.	
+Buckhands	.	.	Austin	.	M	B	10 Jun 1913	3	.	.	3rdrw	175	1	13 Jun 1913	.	.	1044	*	
+Burton	.	.	Julia	A	F	B	13 Oct 1913	63	.	.	1	187	1	15 Oct 1913	.	3680	1150	.	
+Burton	.	.	Mary	.	F	B	21 Jul 1913	48	.	.	6	187	1	24 Jul 1913	.	2662	1073	.	
+Callahon	.	.	L	R	M	B	31 Jan 1913	40	.	.	.	.	.	12 Mar 1913	Strangers Rest	582	946	.	
+Campbell	.	.	Ida	.	F	B	26 Feb 1913	38	.	.	6	57	4	2 Mar 1913	.	836	933	.	
+Carter	.	.	Charles	.	M	B	2 Aug 1913	40	.	.	.	.	.	9 Aug 1913	Strangers Rest	.	1089	.	
+Carter	.	.	Oreora	.	F	B	24 Jun 1913	5	.	.	3rdrw	174	1	27 Jun 1913	.	2295	1056	*	
+Caul	.	.	Baby	.	F	B	27 May 1913	.	.	1	.	.	.	.	Strangers Rest	2024	1034	*	
+Cave	.	.	Cora	.	F	B	19 Jul 1913	63	.	.	7	48	4	22 Jul 1913	.	2609	1072	.	
+Chandler	.	.	Mabel	.	F	B	17 May 1913	1	.	.	3rdrw	175	1	18 May 1913	.	1874	1014	*	
+Clark	.	.	Andrew	J	M	B	28 Aug 1913	56	.	.	1	182	1	31 Aug 1913	.	3144	1106	.	
+Clark	.	.	Baby	.	F	B	22 Jul 1913	.	2	.	.	.	.	24 Jul 1913	Strangers Rest	2616	1074	*	
+Clark	.	.	Charlotte	Ray	F	B	.	48	.	.	9	27	4	20 Jul 1913	.	2565	1071	.	
+Coleman	.	.	Mary	.	F	B	8 Jun 1913	29	.	.	6	75	4	12 Jun 1913	.	2122	1043	.	
+Colemon	.	.	George	.	M	B	9 Mar 1913	65	.	.	9	189	1	11 Mar 1913	.	.	944	.	
+Collins	.	.	Rufis	C	M	B	12 May 1913	54	.	.	6	80	4	14 May 1913	.	1797	1006	.	
+Condler	.	.	Henry	.	M	B	4 Oct 1913	27	.	.	10	75	4	7 Oct 1913	.	3563	1141	.	
+Conner	.	.	Sarah	B	F	B	31 Jul 1913	24	.	.	7	56	4	2 Aug 1913	.	2766	1082	.	
+Convry	.	.	Baby	.	M	B	15 Apr 1913	.	.	0	.	.	.	19 Apr 1913	Strangers Rest	1418	981	*	
+Cook	.	.	Cinda	.	F	B	24 Apr 1913	40	.	.	.	.	.	8 May 1913	Strangers Rest	1742	1004	.	
+Cooper	.	.	Letha	.	F	B	28 May 1913	68	.	.	6	92	4	29 May 1913	.	1990	1033	.	
+Cox	.	.	Edward	Case	M	B	17 Jan 1913	40	.	.	2	181	1	21 Jan 1913	.	282	907	.	
+Coxton	.	.	David	.	M	B	.	40	.	.	.	.	.	21 Nov 1913	Strangers Rest	4100	1168	.	
+Cropp	.	.	Benjamin	.	M	B	3 Dec 1913	36	.	.	9	161	1	5 Dec 1913	.	4253	1176	.	
+Crowley	.	.	Mary	.	F	B	8 Oct 1913	61	.	.	12	68	1	11 Oct 1913	.	3596	1146	.	
+Danfort	.	.	Baby	.	M	B	14 Oct 1913	0	.	.	.	.	.	.	Strangers Rest	3544	1137	*	
+Daniels	.	.	Baby	.	M	B	13 Oct 1913	.	.	0	.	.	.	16 Oct 1913	Strangers Rest	3678	1152	*	
+Davis	.	.	Baby	.	.	B	27 Oct 1913	0	.	.	3	190	6	8 Nov 1913	.	3848	1158	*	
+Degre	.	.	Mazar	.	M	B	10 Jan 1913	22	.	.	.	.	.	16 Jan 1913	Strangers Rest	193	897	.	
+Dennis	.	.	Carrie	.	F	B	7 May 1913	42	.	.	10	182	1	10 May 1913	.	1809	1005	.	
+Dixon	.	.	Remes	Waid	M	B	18 Mar 1913	2	.	.	1strw	175	1	19 Mar 1913	.	1054	952	*	
+Dodd	.	.	Bert	.	M	B	14 Mar 1913	.	3	.	3rdrw	175	1	16 Mar 1913	.	1019	950	*	
+Dodson	.	.	Green	.	M	B	6 Apr 1913	46	.	.	.	.	.	19 Apr 1913	Strangers Rest	1422	982	.	
+Dooley	.	.	Infant	.	F	B	18 Sep 1913	0	.	.	.	.	.	7 Oct 1913	Strangers Rest	3397	1140	*	
+Dore	.	.	Thad	.	M	B	11 Apr 1913	26	.	.	6	188	1	13 Apr 1913	.	1368	971	.	
+Doxey	.	.	Baby	.	F	B	3 Sep 1913	.	.	prem	.	.	.	8 Sep 1913	Strangers Rest	3247	1119	*	
+Doxey	.	.	Baby	.	M	B	3 Sep 1913	.	1	.	.	.	.	8 Sep 1913	Strangers Rest	3246	1118	*	
+Drake	.	.	Jennie	.	F	B	20 May 1913	41	.	.	6	46	4	21 May 1913	.	1887	1016	.	
+Drake	.	.	Martha	.	F	B	.	65	.	.	5	183	1	15 Sep 1913	.	3334	1124	.	
+Draper	.	.	Clarence	.	M	B	27 Jan 1913	26	.	.	12	44	4	29 Jan 1913	.	420	911	.	
+Drew	.	.	William	M	M	B	4 Sep 1913	38	.	.	3	187	1	7 Sep 1913	.	3258	1116	.	
+Dysart	.	.	Baby	.	F	B	15 Aug 1913	.	0	.	1strw	174	1	21 Aug 1913	.	3047	1099	*	
+Eason	.	.	Sam	.	M	B	17 Aug 1913	60	.	.	2	182	1	25 Aug 1913	.	3048	1101	.	
+Edmonson	.	.	Alice	.	F	B	3 Sep 1913	44	.	.	7	76	4	9 Sep 1913	.	3275	1121	.	
+Ennis	.	.	Vera	Sallie	F	B	15 Apr 1913	23	.	.	6	45	4	17 Apr 1913	.	1441	979	.	
+Everett	.	.	Gertrude	.	F	B	15 Apr 1913	1	.	.	2ndrw	175	1	16 Apr 1913	.	.	976	*	
+Evons	.	.	Ada	.	F	B	20 Nov 1913	37	.	.	11	166	6	22 Nov 1913	.	4108	1170	.	
+Ewing	.	.	Flora	.	F	B	4 Aug 1913	41	.	.	11	76	4	7 Aug 1913	.	2827	1088	.	
+Ewing	.	.	Jennie	.	F	B	3 May 1913	59	.	.	11	182	1	5 May 1913	.	1684	1001	.	
+Farmer	.	.	Allen	.	M	B	20 Jan 1913	45	.	.	4	189	1	27 Jan 1913	.	364	910	.	
+Farr	.	.	Lawrence	.	M	B	24 Jan 1913	1	5	26	3rdrw	176	1	25 Jan 1913	.	349	908	*	
+Felton	.	.	Alma	.	F	B	11 Apr 1913	12	.	.	6	76	4	29 May 1913	.	.	1031	.	
+Fields	.	.	Mattie	.	F	B	28 Jul 1913	38	.	.	8	56	4	31 Jul 1913	.	2708	1078	.	
+Fitsgerald	.	.	Robert	.	M	B	18 Mar 1913	47	.	.	3	128	6	23 Mar 1913	.	.	955	.	
+Forte	.	.	Eva	Diggo	F	B	7 Jun 1913	23	.	.	12	56	4	14 Jun 1913	.	.	1046	.	
+Franklin	.	.	Baby	.	M	B	9 Nov 1913	.	.	4	.	.	.	18 Nov 1913	Strangers Rest	4006	1165	*	
+Franklin	.	.	Thomas	.	M	B	.	.	.	.	2	56	4	24 May 1913	.	.	1020	.	
+Furguson	.	.	Lanoria	.	F	B	24 May 1913	60	.	.	1	48	4	28 May 1913	.	2025	1029	.	
+Gardner	.	.	Lila	.	F	B	6 Jan 1913	24	.	.	7	73	4	9 Jan 1913	.	125	888	.	
+George	.	.	Lee	.	M	B	20 Feb 1913	25	.	.	.	.	.	10 Mar 1913	Strangers Rest	946	942	.	
+Gillespie	.	.	James	.	M	B	8 Aug 1913	35	.	.	12	183	1	14 Aug 1913	.	2994	1094	.	
+Glover	.	.	William	.	M	B	17 Mar 1913	47	.	.	1	30	4	20 Mar 1913	.	1057	953	.	
+Goatley	.	.	Henry	.	M	B	13 May 1913	48	.	.	1	57	4	18 May 1913	.	1851	1013	.	
+Gore	.	.	James	.	M	B	6 Apr 1913	38	.	.	.	.	.	19 Apr 1913	Strangers Rest	.	980	.	
+Grant	.	.	Oda	.	F	B	6 Jun 1913	30	.	.	7	30	4	8 Jun 1913	.	2108	1037	.	
+Green	.	.	Infant	.	F	B	22 Nov 1913	0	.	.	.	.	.	24 Nov 1913	Strangers Rest	4138	1173	*	
+Greer	.	.	Dolly	.	F	B	19 Apr 1913	18	.	.	6	56	4	23 Apr 1913	.	1503	986	.	
+Grein	.	.	Frank	.	M	B	19 Oct 1913	42	.	.	4	183	1	22 Oct 1913	.	3738	1155	.	
+Grigsby	.	.	Thomas	.	M	B	.	.	.	.	9	183	1	25 Sep 1913	.	3430	1131	.	
+Grum	.	.	Infant	.	F	B	28 Jan 1913	.	.	0	.	.	.	31 Jan 1913	Strangers Rest	400	912	*	
+Guiens	.	.	Anderson	.	M	B	7 Dec 1913	50	.	.	3	161	1	16 Dec 1913	.	4374	1182	.	
+Hamlin	.	.	Molly	Lee	F	B	19 May 1913	43	.	.	9	182	1	25 May 1913	.	1915	1022	.	
+Hardiman	.	.	Charles	.	M	B	7 Jun 1913	1	10	.	1strw	35	1	9 Jun 1913	.	2128	1040	*	
+Hardman	.	.	Thomas	.	M	B	21 May 1913	45	.	.	5	182	1	23 May 1913	.	1912	1019	.	
+Harris	.	.	Arthur	.	M	B	.	27	.	.	.	.	.	26 May 1913	Strangers Rest	197	1027	.	
+Harris	.	.	Benjamen	.	M	B	19 Apr 1913	28	.	.	.	.	.	26 Apr 1913	Strangers Rest	1500	995	.	
+Harris	.	.	Clarence	.	M	B	16 Dec 1913	35	.	.	4	49	1	19 Dec 1913	.	.	1184	.	
+Harris	.	.	Ella	.	F	B	21 Apr 1913	45	.	.	1	181	1	24 Apr 1913	.	1556	990	.	
+Harris	.	.	Nancy	.	F	B	26 Mar 1913	79	.	.	8	11	4	27 Mar 1913	.	1165	959	.	
+Harris	.	.	Walter	.	M	B	17 Mar 1913	42	.	.	11	143	6	22 Mar 1913	.	1104	954	.	
+Harrison	.	.	Charles	Henry	M	B	29 Jul 1913	.	6wks	.	3rdrw	174	1	30 Jul 1913	.	2711	1076	*	
+Harrison	.	.	Eva	J	F	B	21 Oct 1913	13	.	.	6	186	1	24 Oct 1913	.	3764	1156	.	
+Harrison	.	.	Ida	.	F	B	11 Jan 1913	27	.	.	12	10	4	14 Jan 1913	.	199	894	.	
+Harvy	.	.	Nick	.	M	B	7 Oct 1913	45	.	.	.	.	.	15 Oct 1913	Strangers Rest	3651	1151	.	
+Harvy	.	.	Willie	.	M	B	3 Jun 1913	.	.	15	.	.	.	5 Jun 1913	Strangers Rest	2073	1036	*	
+Hayes	.	.	Trip	.	M	B	19 Nov 1913	24	.	.	.	.	.	10 Dec 1913	Strangers Rest	4252	1180	.	
+Henderson	.	.	Thomas	.	M	B	14 Apr 1913	40	.	.	7	81	4	20 Apr 1913	.	1478	983	.	
+Hendricks	.	.	Frrancis	.	F	B	23 Jun 1913	49	.	.	6	66	4	27 Jun 1913	.	2299	1057	.	
+Higgins	.	.	Herbert	.	M	B	24 Feb 1913	27	.	.	11	81	4	2 Mar 1913	.	837	932	.	
+Hill	.	.	Celestine	.	F	B	23 Nov 1913	38	.	.	12	120	6	30 Nov 1913	.	4210	1175	.	
+Hill	.	.	Grace	.	F	B	5 Jan 1913	31	.	.	3	81	4	9 Jan 1913	.	127	887	.	
+Hollingsworth	.	.	James	.	M	B	14 Mar 1913	.	.	22	1strw	175	1	15 Mar 1913	.	1011	948	*	
+Holloway	.	.	Baby	.	M	B	26 Sep 1913	.	.	3	2ndrw	174	1	27 Sep 1913	.	.	1132	*	
+Holloway	.	.	Robert	S	M	B	26 Aug 1913	52	.	.	12	75	4	31 Aug 1913	.	3229	1108	.	
+Holmes	.	.	Ralph	.	M	B	4 Jan 1913	15	.	.	5	27	1	8 Jan 1913	.	108	886	.	
+Howard	.	.	Archie	G	M	B	14 Jan 1913	53	.	.	1	20	4	19 Jan 1913	.	273	902	.	
+Hubbard	.	.	John	H	M	B	8 Aug 1913	49	.	.	10	76	4	10 Aug 1913	.	2856	1092	.	
+Hunt	.	.	Allen	.	M	B	3 Jun 1913	43	.	.	.	.	.	10 Jun 1913	Strangers Rest	2037	1042	.	
+Hunt	.	.	Susan	A	F	B	22 May 1913	64	.	.	6	163	6	24 May 1913	.	1915	1021	.	
+Jackson	.	.	Baby	.	F	B	3 May 1913	.	5	.	.	.	.	26 May 1913	Strangers Rest	1708	1028	*	
+Jackson	.	.	Chas	.	M	B	.	30	.	.	.	.	.	2 Jul 1913	Strangers Rest	.	1061	.	
+Jackson	.	.	Lee	.	M	B	25 Mar 1913	29	.	.	10	81	4	27 Mar 1913	.	1155	958	.	
+Jackson	.	.	Riley	.	M	B	21 Mar 1913	21	.	.	5	57	4	27 Mar 1913	.	1158	956	.	
+James	.	.	Liza	.	F	B	4 Apr 1913	42	.	.	11	30	4	6 Apr 1913	.	1291	965	.	
+Jenkins	.	.	Jessie	.	M	B	24 Sep 1913	39	.	.	12	146	6	28 Sep 1913	.	3442	1133	.	
+Johnson	.	.	Gertie	.	F	B	10 Jul 1913	.	.	.	5	75	4	13 Jul 1913	.	2475	1068	.	
+Johnson	.	.	Infant	.	F	B	20 Feb 1913	.	14	.	2ndrw	175	1	21 Feb 1913	.	728	925	*	
+Johnson	.	.	Isabel	.	F	B	.	2	.	.	3rdrw	34	1	9 Feb 1913	.	579	920	*	
+Johnson	.	.	Lou	Ella	F	B	31 Dec 1913	25	.	.	.	.	.	10 Jan 1913	Strangers Rest	72	889	.	
+Johnson	.	.	William	.	M	B	14 Jan 1913	46	.	.	8	124	6	19 Jan 1913	.	272	903	.	
+Jones	.	.	Baby	.	M	B	13 Jun 1913	.	0	.	.	.	.	16 Jun 1913	Strangers Rest	2179	1049	*	
+Jones	.	.	Herbert	.	M	B	26 Aug 1913	4	.	.	3rdrw	174	1	29 Aug 1913	.	3142	1104	*	
+Jones	.	.	James	W	M	B	13 Jun 1913	.	0	.	.	.	.	31 Jul 1913	Strangers Rest	2756	1080	*	
+Jones	.	.	Lizzie	.	F	B	26 Apr 1913	18	.	.	4	56	4	28 Apr 1913	.	1606	998	.	
+Jones	.	.	Maggie	.	F	B	5 Nov 1913	59	.	.	1	75	4	9 Nov 1913	.	3950	1160	.	
+Jordon	.	.	Will	.	M	B	7 Oct 1913	40	.	.	.	.	.	12 Oct 1913	Strangers Rest	3620	1147	.	
+Kensry	.	.	Mary	.	F	B	21 Apr 1913	1	.	.	3rdrw	175	1	23 Apr 1913	.	1523	988	*	
+Kimbrough	.	.	Charles	.	M	B	9 Apr 1913	49	.	.	6	125	6	13 Apr 1913	.	1374	972	.	
+King	.	.	Infant	.	M	B	28 Sep 1913	.	2	.	.	.	.	7 Oct 1913	Strangers Rest	3472	1139	*	
+Kirkpatrick	.	.	Hallie	.	M	B	11 Jan 1913	17	.	.	9	58	4	14 Jan 1913	.	198	893	.	
+Kitchen	.	.	Infant	.	.	B	16 Aug 1913	.	.	.	.	.	.	5 Sep 1913	Strangers Rest	3127	1115	*	
+Knox	.	.	Sophia	.	F	B	6 Apr 1913	75	.	.	4	124	6	8 Apr 1913	.	1309	969	.	
+Lee	.	.	Laura	.	F	B	30 Jul 1913	48	.	.	10	192	6	3 Aug 1913	.	2762	1084	.	
+Lee	.	.	Pharmis	.	M	B	4 May 1913	48	.	.	3	188	1	8 May 1913	.	1743	1003	.	
+Lefall	.	.	Baby	.	F	B	7 Dec 1913	.	.	2	.	.	.	10 Dec 1913	Strangers Rest	4312	1181	.	
+Lettridge	.	.	Maria	.	F	B	24 Apr 1913	30	.	.	5	56	4	27 Apr 1913	.	1582	997	.	
+Lewis	.	.	Bruce	.	M	B	19 Nov 1913	28	.	.	1	83	4	21 Nov 1913	.	4099	1169	.	
+Lewis	.	.	Hester	.	F	B	14 Nov 1913	57	.	.	4	123	6	16 Nov 1913	.	4032	1164	.	
+Little	.	.	Cecilia	.	F	B	12 Apr 1913	78	.	.	8	81	4	15 Apr 1913	.	1410	975	.	
+Loolla	.	.	Jose	.	M	B	14 May 1913	26	.	.	.	.	.	17 May 1913	Strangers Rest	1835	1011	.	
+Love	.	.	William	B	M	B	28 Feb 1913	46	.	.	8	181	1	2 Apr 1913	.	1223	963	.	
+Lucas	.	.	Charles	W	M	B	15 Apr 1913	46	.	.	7	181	1	17 Apr 1913	.	1437	978	.	
+Mares	.	.	V	H	M	B	10 Jan 1913	22	.	.	.	.	.	16 Jan 1913	Strangers Rest	195	899	.	
+Marshell	.	.	Ethel	.	F	B	27 May 1913	16	.	.	11	123	6	29 May 1913	.	2020	1032	.	
+Martin	.	.	Danial	.	M	B	.	42	.	.	6	123	6	31 Aug 1913	.	3172	1110	.	
+Martin	.	.	James	.	M	B	13 Oct 1913	.	.	.	21	187	1	14 Oct 1913	.	3653	1149	.	
+Martin	.	.	Julia	.	F	B	27 Nov 1913	23	.	.	6	93	4	30 Nov 1913	.	4209	1174	.	
+Martin	.	.	Minnie	.	F	B	14 Jan 1913	42	.	.	2	81	4	18 Jan 1913	.	230	901	.	
+Martinea	.	.	Felia	.	M	M	27 Jan 1913	22	.	.	.	.	.	4 Feb 1913	Strangers Rest	473	915	.	
+McAdams	.	.	Georgia	.	M	B	2 Feb 1913	15	.	.	1	81	4	4 Feb 1913	.	468	916	.	
+McKennis	.	.	Baby	.	M	B	30 Jan 1913	.	.	2	.	.	.	31 Jan 1913	Strangers Rest	412	914	*	
+McMillen	.	.	Eldridge	.	M	B	1 Jan 1913	30	.	.	10	26	4	5 Jan 1913	.	47	885	.	
+Miller	.	.	Juanita	.	F	B	20 Oct 1913	17	.	.	4	37	1	22 Oct 1913	.	3735	1154	.	
+Miller	.	.	Veia	.	F	B	7 Feb 1913	3	.	.	2ndrw	34	1	9 Feb 1913	.	543	919	*	
+Millis	.	.	Infant	.	F	B	6 Jun 1913	.	0	.	.	.	.	9 Jun 1913	Strangers Rest	2100	1039	*	
+Minor	.	.	Emma	.	F	B	27 Dec 1913	36	.	.	4	26	1	28 Dec 1913	.	4532	1188	.	
+Mitchell	.	.	John	.	M	B	6 Jun 1913	55	.	.	2	43	4	8 Jun 1913	.	2090	1038	.	
+Mitchell	.	.	Mattie	.	F	B	21 May 1913	.	.	.	.	.	.	26 May 1913	Strangers Rest	.	1025	.	
+Mitchell	.	.	Mildred	W	F	B	19 Feb 1913	.	.	.	.	.	.	13 Mar 1913	Strangers Rest	955	946	.	
+Montgomery	.	.	Gorden	.	M	B	Sep	.	1	.	.	.	.	4 Sep 1913	Strangers Rest	3221	1112	*	
+Moore	.	.	Edith	.	F	B	11 Feb 1913	1	.	.	3rdrw	176	1	13 Feb 1913	.	615	922	*	
+Moore	.	.	Minnie	.	F	B	16 Mar 1913	27	.	.	7	74	4	16 Mar 1913	.	1026	951	.	
+Moppins	.	.	Ellis	.	M	B	29 Dec 1913	33	.	.	6	68	1	29 Dec 1913	.	4550	1189	.	
+Morton	.	.	George	.	M	B	.	37	.	.	10	57	4	22 Apr 1913	.	.	985	.	
+Mott	.	.	Gertrude	.	F	B	15 Apr 1913	.	.	.	3rdrw	175	1	16 Apr 1913	.	1417	977	.	
+Munhelland	.	.	Aulson	.	M	B	22 Feb 1913	94	.	.	9	145	6	23 Feb 1913	.	765	928	.	
+Munholland	.	.	Matilda	.	F	B	14 Jan 1913	93	.	.	11	74	4	16 Jan 1913	.	229	896	.	
+Munson	.	.	John	.	M	B	.	.	.	.	.	.	.	16 Jan 1913	Strangers Rest	194	898	.	
+Murray	.	.	Earl	.	M	B	13 May 1913	29	.	.	3	56	4	16 May 1913	.	1821	1008	.	
+Nash	.	.	Baby	.	M	B	25 May 1913	.	2	.	.	.	.	10 Jun 1913	Strangers Rest	2130	1041	*	
+Newins	.	.	Helen	.	F	B	25 Feb 1913	.	8	.	3rdrw	175	1	5 Mar 1913	.	890	936	*	
+Nicholis	.	.	Ellin	.	F	B	18 Apr 1913	73	.	.	6	188	1	21 Apr 1913	.	1492	984	.	
+Noble	.	.	Francis	.	F	B	12 Jul 1913	69	.	.	1	188	1	13 Jul 1913	.	2513	1069	.	
+North	.	.	Thomas	.	M	B	1 Apr 1913	40	.	.	3	182	1	23 Jun 1913	.	2203	1053	.	
+Oliver	.	.	Hazel	May	F	B	25 Aug 1913	6	.	.	3rdrw	35	1	27 Aug 1913	.	3143	1102	*	
+Oliver	.	.	Leon	.	M	B	19 May 1913	30	.	.	5	80	4	21 May 1913	.	.	1015	.	
+Owens	.	.	Martha	.	F	B	23 Jun 1913	59	.	.	12	92	4	26 Jun 1913	.	2313	1054	.	
+Parker	.	.	Baby	.	M	B	6 Oct 1913	.	.	1	.	.	.	7 Oct 1913	Strangers Rest	3557	1142	*	
+Parker	.	.	Helen	F	F	B	1 Dec 1913	19	.	.	1	123	6	10 Dec 1913	.	4311	1179	.	
+Patterson	.	.	Georgia	.	F	B	30 Jul 1913	81	.	.	10	149	6	3 Aug 1913	.	2769	1083	.	
+Patton	.	.	John	.	M	B	.	55	.	.	9	56	4	Jul	.	2572	1070	.	
+Paxton	.	.	William	.	M	B	7 Jan 1913	49	.	.	5	180	1	13 Jan 1913	.	.	890	.	
+Payton	.	.	Ed	.	M	B	3 May 1913	40	.	.	.	.	.	.	Strangers Rest	1836	1012	.	
+Pettiford	.	.	James	A	M	B	28 Jun 1913	74	.	.	.	.	.	2 Jul 1913	Strangers Rest	2344	1063	.	
+Pigeow	.	.	Mable	Marie	F	B	8 Jul 1913	5	.	.	2ndrw	174	1	9 Jul 1913	.	.	1066	*	
+Pollard	.	.	James	.	M	B	12 Jan 1913	75	.	.	.	.	.	19 Jan 1913	Strangers Rest	259	904	.	
+Poole	.	.	William	.	M	B	3 Jul 1913	49	.	.	9	123	6	6 Jul 1913	.	2377	1065	.	
+Price	.	.	Washington	.	M	B	1 Jul 1913	86	.	.	10	74	4	2 Jul 1913	.	152	1062	.	
+Pryor	.	.	John	W	M	B	2 Apr 1913	33	.	.	4	57	4	6 Apr 1913	.	1292	966	.	
+Raminos	.	.	Santiago	.	M	M	10 Jan 1913	27	.	.	.	.	.	16 Jan 1913	Strangers Rest	196	900	.	
+Rhone	.	.	William	.	M	B	23 May 1913	30	.	.	4	182	1	3 Jun 1913	.	2039	1035	.	
+Rice	.	.	Rosa	.	F	B	20 Sep 1913	33	.	.	5	76	4	23 Sep 1913	.	3433	1129	.	
+Richardson	.	.	Maranda	.	F	B	20 Apr 1913	52	.	.	3	57	4	25 Apr 1913	.	1572	991	.	
+Richardson	.	.	Opal	.	F	B	20 Nov 1913	8	.	.	4	186	1	23 Nov 1913	.	4115	1122	.	
+Ricto	.	.	Gussie	May	F	B	11 Jun 1913	1	.	.	1strw	174	1	13 Jun 1913	.	2160	1045	*	
+Roberson	.	.	Lillie	.	F	B	19 Jun 1913	35	.	.	12	57	4	22 Jun 1913	.	2252	1052	.	
+Roberts	.	.	Menona	.	F	B	13 Mar 1913	100	.	.	3	27	4	16 Mar 1913	.	1075	949	.	
+Robinson	.	.	Mary	.	F	B	11 Apr 1913	48	.	.	1	56	4	29 May 1913	.	1970	1030	.	
+Robinson	.	.	Oscar	.	M	B	22 May 1913	.	9	.	3rdrw	175	1	25 May 1913	.	1947	1023	*	
+Robinson	.	.	Sam	.	M	B	30 Jan 1913	35	.	.	.	.	.	11 Mar 1913	Strangers Rest	581	945	.	
+Rogers	.	.	Harry	.	M	B	16 Feb 1913	.	1	.	.	.	.	7 Mar 1913	Strangers Rest	700	940	*	
+Rosales	.	.	Ruperto	.	M	B	4 Nov 1913	17	.	.	.	.	.	9 Nov 1913	Strangers Rest	3922	1161	.	
+Ross	.	.	Sarah	.	F	B	3 Apr 1913	57	.	.	9	81	4	6 Apr 1913	.	1270	967	.	
+Saunders	.	.	Frances	E	F	B	27 Mar 1913	.	9	.	2ndrw	34	1	29 Mar 1913	.	1163	961	*	
+Sayers	.	.	James	.	M	B	9 Apr 1913	46	.	.	10	171	6	13 Apr 1913	.	1372	973	.	
+Scott	.	.	A	D	M	B	8 Aug 1913	60	.	.	8	57	4	10 Aug 1913	.	2889	1091	.	
+Scott	.	.	John	H	M	B	31 Aug 1913	53	.	.	10	183	1	2 Sep 1913	.	3202	1111	.	
+Shelton	.	.	Leilla	.	F	B	14 Sep 1913	30	.	.	3	75	4	17 Sep 1913	.	3359	1125	.	
+Shinn	.	.	Gall	.	M	B	8 Nov 1913	24	.	.	.	.	.	15 Nov 1913	Strangers Rest	4139	1163	.	
+Shirley	.	.	Thomas	.	M	B	19 Sep 1913	55	.	.	.	.	.	22 Sep 1913	Strangers Rest	3401	1127	.	
+Sightsry	.	.	Baby	.	M	B	14 Jan 1913	.	.	0	.	.	.	20 Jan 1913	Strangers Rest	271	906	*	
+Simmons	.	.	Levera	.	F	B	26 Apr 1913	.	7wks	.	.	.	.	3 May 1913	Strangers Rest	1669	999	*	
+Sly	.	.	Joe	.	M	B	17 Sep 1913	33	.	.	.	.	.	22 Sep 1913	Strangers Rest	3406	1128	.	
+Smith	.	.	Alfred	.	M	B	18 Aug 1913	.	8	.	2ndrw	174	1	19 Aug 1913	.	3035	1096	*	
+Smith	.	.	Anna	.	F	B	29 Jun 1913	36	.	.	1	80	4	1 Jul 1913	.	2351	1059	.	
+Smith	.	.	Antonia	.	M	B	22 Dec 1913	50	.	.	.	.	.	27 Dec 1913	Strangers Rest	4486	1187	.	
+Smith	.	.	Baby	.	M	B	2 Feb 1913	.	.	0	.	.	.	11 Feb 1913	Strangers Rest	848	921	*	
+Smith	.	.	Hattie	.	F	B	7 Sep 1913	38	.	.	2	103	6	9 Sep 1913	.	3276	1122	.	
+Smith	.	.	Mildred	.	F	B	16 Dec 1913	1	.	.	1strw	35	1	18 Dec 1913	.	4397	1183	*	
+Smith	.	.	Ruby	.	F	B	24 May 1913	26	.	.	12	123	6	26 May 1913	.	1926	1024	.	
+Sonion	.	.	Paul	.	M	B	30 Jul 1913	24	.	.	6	126	6	2 Aug 1913	.	2770	1081	.	
+Sorrell	.	.	Richard	.	M	B	19 Dec 1913	32	.	.	.	.	.	.	Strangers Rest	110	891	.	
+Speaker	.	.	John	T	M	B	16 Aug 1913	67	.	.	9	76	4	19 Aug 1913	.	3036	1097	.	
+Stapleton	.	.	Henry	.	M	B	11 Sep 1913	35	.	.	.	.	.	18 Sep 1913	Strangers Rest	3368	1126	.	
+Starks	.	.	William	.	M	B	27 Jul 1913	60	.	.	5	187	1	31 Jul 1913	.	2719	1077	.	
+Steele	.	.	Ollie	.	M	B	19 May 1913	30	.	.	2	188	1	21 May 1913	.	1915	1017	.	
+Stencil	.	.	Henry	.	M	B	19 Dec 1913	50	.	.	.	.	.	27 Dec 1913	Strangers Rest	4485	1186	.	
+Steward	.	.	George	.	M	B	18 Feb 1913	71	.	.	6	115	6	21 Feb 1913	.	731	926	.	
+Street	.	.	Rice	.	M	B	9 Dec 1913	87	.	.	6	64	1	9 Dec 1913	.	.	1178	.	
+Swain	.	.	Theodore	.	M	B	28 Feb 1913	5	.	.	3rdrw	34	1	3 Mar 1913	.	864	935	.	
+Thatcher	.	.	Jessie	.	F	B	12 Feb 1913	1	.	.	3rdrw	176	1	14 Feb 1913	.	635	923	*	
+Thatcher	.	.	Steve	.	M	B	21 Feb 1913	60	.	.	7	153	6	24 Feb 1913	.	766	929	.	
+Thompson	.	.	Dixie	.	F	B	2 Jul 1913	20	.	.	11	56	4	6 Jul 1913	.	2409	1064	.	
+Thompson	.	.	Nelson	.	M	B	8 Apr 1913	48	.	.	.	.	.	14 Apr 1913	Strangers Rest	.	974	.	
+Thurston	.	.	Henry	.	M	B	24 Mar 1913	25	.	.	1	22	4	28 Mar 1913	.	1171	960	.	
+Tucker	.	.	Junita	.	F	B	7 Feb 1913	.	4	.	1strw	175	1	9 Feb 1913	.	541	918	*	
+Turner	.	.	Etta	.	F	B	3 Sep 1913	25	.	.	6	183	1	4 Sep 1913	.	3227	1113	.	
+Twyan	.	.	Albert	James	M	B	6 Sep 1913	28	.	.	6	27	4	8 Sep 1913	.	3268	1117	.	
+Unknown	.	.	Baby	.	.	B	20 Dec 1912	.	.	.	.	.	.	3 Jan 1913	Strangers Rest	4368	881	*	
+Unknown	.	.	Infant	.	F	B	.	.	.	0	.	.	.	31 Jan 1913	Strangers Rest	.	913	*	
+Unknown	.	.	Infant	.	F	B	22 Apr 1913	0	.	.	.	.	.	26 Apr 1913	Strangers Rest	1573	993	*	
+Unknown	.	.	Infant	.	F	B	10 Apr 1913	0	.	.	.	.	.	26 May 1913	Strangers Rest	1704	1026	*	
+Unknown	.	.	Man	.	M	B	7 Sep 1913	.	.	.	.	.	.	10 Sep 1913	Strangers Rest	3281	1123	.	
+Unknown	.	.	Man	.	M	M	6 Sep 1913	.	.	.	.	.	.	8 Sep 1913	Strangers Rest	3280	1120	.	
+Vance	.	.	Alex	.	M	B	27 Oct 1913	33	.	.	.	.	.	5 Nov 1913	Strangers Rest	3811	1167	.	
+Walker	.	.	Maggie	.	F	B	9 Oct 1913	43	.	.	.	.	.	14 Oct 1913	Strangers Rest	3594	1148	.	
+Walker	.	.	Oliver	.	M	B	24 Dec 1913	33	.	.	7	50	1	27 Dec 1913	.	4514	1185	.	
+Walker	.	.	Sada	.	F	B	1 Mar 1913	50	.	.	8	30	4	9 Mar 1913	.	932	941	.	
+Walls	.	.	Marie	O	F	B	3 Mar 1913	4	10	.	3rdrw	175	1	10 Mar 1913	.	966	943	*	
+Ward	.	.	Oliver	F	M	B	8 Aug 1913	54	.	.	6	151	6	10 Aug 1913	.	2871	1093	.	
+Washington	.	.	Louisa	.	F	B	6 Aug 1913	62	.	.	11	150	6	10 Aug 1913	.	2855	1090	.	
+Waste	.	.	Dora	.	F	B	25 Mar 1913	38	.	.	2	189	1	27 Mar 1913	.	.	957	.	
+Watson	.	.	Nelson	.	M	B	31 Dec 1912	55	.	.	10	58	4	3 Jan 1913	.	26	882	.	
+Webb	.	.	Baby	.	M	B	21 May 1913	0	.	.	.	.	.	22 May 1913	Strangers Rest	1904	1018	.	
+Webb	.	.	Dicy	.	F	B	17 Aug 1913	66	.	.	7	57	4	20 Aug 1913	.	3022	1098	.	
+Webb	.	.	Frank	.	M	B	25 Jun 1913	25	5	3	4	30	4	30 Jun 1913	.	5876	1058	.	
+Webster	.	.	Pearl	.	F	B	29 Sep 1913	27	.	.	11	151	6	2 Oct 1913	.	3486	1134	.	
+Welch	.	.	Clarence	.	M	B	18 Oct 1913	18	.	.	1	19	4	21 Oct 1913	.	3721	1153	.	
+Weslond	.	.	John	S	M	B	20 Sep 1913	80	.	.	.	.	.	8 Oct 1913	Strangers Rest	3582	1144	.	
+Wheeler	.	.	Maggie	.	F	B	.	57	.	.	2	45	4	14 May 1913	.	1808	1007	.	
+White	.	.	Edward	.	M	B	3 May 1913	56	.	.	2	57	4	7 May 1913	.	1683	1002	.	
+White	.	.	Richard	.	M	B	15 Aug 1913	30	.	.	11	183	1	17 Aug 1913	.	2994	1095	.	
+Whitney	.	.	Earnest	.	M	B	24 Jul 1913	26	.	.	4	75	4	27 Jul 1913	.	2656	1075	.	
+Wiggens	.	.	William	.	M	B	21 Aug 1913	28	.	.	.	.	.	5 Sep 1913	Strangers Rest	3128	1114	.	
+Wiggens	.	.	Henry	.	M	B	30 Jul 1913	44	.	.	4	22	4	6 Aug 1913	.	2807	1086	.	
+William	.	.	Baby	.	M	B	10 Dec 1912	.	.	0	.	.	.	18 Feb 1913	Strangers Rest	603	924	*	
+Williams	.	.	Aaron	.	M	B	12 Jan 1913	65	.	.	11	181	1	19 Jan 1913	.	260	905	.	
+Williams	.	.	Baby	.	M	B	17 Apr 1913	0	.	.	.	.	.	26 Apr 1913	Strangers Rest	1491	994	*	
+Williams	.	.	Charles	.	M	B	21 Jan 1913	52	.	.	6	30	4	26 Jan 1913	.	115	909	.	
+Williams	.	.	Charles	H	M	B	28 Feb 1913	58	.	.	7	31	4	2 Mar 1913	.	848	931	.	
+Williams	.	.	Chris	.	M	B	24 Dec 1912	45	.	.	.	.	.	13 Jan 1913	Strangers Rest	113	892	.	
+Williams	.	.	Joseph	.	M	B	27 Mar 1913	52	.	.	9	181	1	30 Mar 1913	.	1200	962	.	
+Williamson	.	.	Thonus	B	M	B	19 Nov 1913	60	.	.	12	165	6	23 Nov 1913	.	4114	1171	.	
+Wilson	.	.	Baby	.	F	B	3 Oct 1913	.	2	.	.	.	.	7 Oct 1913	Strangers Rest	3543	1136	*	
+Winston	.	.	Marvin	P	M	B	2 Dec 1913	35	.	.	5	49	1	5 Dec 1913	.	4248	1177	.	
+Wolf	.	.	Frank	.	M	B	22 Apr 1913	50	.	.	4	188	1	26 Apr 1913	.	1603	992	.	
+Woods	.	.	Nathan	.	M	B	3 Oct 1913	74	.	.	8	28	1	9 Oct 1913	.	3533	1135	.	
+Wright	.	.	Edward	.	M	B	18 Jun 1913	67	.	.	10	123	6	22 Jun 1913	.	2260	1050	.	
+Wyman	.	.	Charles	.	M	B	5 Jun 1913	65	.	.	.	.	.	14 Jun 1913	Strangers Rest	2182	1047	.	
+Young	.	.	Baby	.	M	B	7 Jul 1913	.	0	.	.	.	.	31 Jul 1913	Strangers Rest	2476	1079	*	
+Young	.	.	Eziza	.	F	B	1 Jan 1913	3	.	.	2ndrw	75	1	4 Jan 1913	.	49	883	*	
+Young	.	.	Frank	.	M	B	13 Jun 1913	49	.	.	2	22	4	15 Jun 1913	.	2192	1048	.	
+Young	.	.	William	.	M	B	22 Aug 1913	22	.	.	8	76	4	27 Aug 1913	.	3141	1103	.	
+Young	.	.	William	K	M	B	26 Feb 1913	31	.	.	7	146	6	2 Mar 1913	.	835	934	.	
+Abernathy	.	.	William	.	M	B	27 Feb 1914	25	.	.	9	122	6	1 Mar 1914	.	754	1229	.	https://www.sos.mo.gov/images/archives/deathcerts/1914/1914_00004965.PDF
+Allington	.	.	Amanda	.	F	B	.	98	.	.	7	114	4	7 Oct 1914	.	3342	1395	.	
+Armstead	.	.	George	.	M	B	19 Oct 1914	46	.	.	7	41	4	21 Oct 1914	.	3496	1406	.	
+Axley	.	.	Francis	.	F	B	10 Apr 1914	31	.	.	1	46	1	12 Apr 1914	.	1293	1263	.	
+Baldwin	.	.	James	W	M	B	27 Sep 1914	50	.	.	3	140	6	20 Oct 1914	.	3484	1404	.	
+Banks	.	.	Elizabeth	.	F	B	22 Apr 1914	41	.	.	4	64	1	26 Apr 1914	.	1457	1276	.	
+Bass	.	.	Luella	.	F	B	27 Dec 1914	44	.	.	11	121	6	31 Dec 1914	.	4393	1443	.	
+Bean	.	.	Harry	W	.	B	8 May 1914	41	.	.	3	123	6	10 May 1914	.	1622	1287	.	
+Bean	.	.	Hazel	B	F	B	18 May 1914	19	.	.	2	123	6	20 May 1914	.	1729	1296	.	
+Bennett	.	.	Maggie	.	F	B	4 Aug 1914	38	.	.	3	115	4	9 Aug 1914	.	2625	1350	.	
+Brasfield	.	.	May	.	F	B	30 Jun 1914	2	.	.	1strw	174	1	2 Jul 1914	.	2239	1331	*	
+Brasfield	.	.	Pauline	.	F	B	22 Feb 1914	3	.	.	1strw	174	1	24 Feb 1914	.	697	1225	*	
+Breedlove	.	.	Sarah	.	F	B	30 Aug 1914	34	.	.	3	162	1	4 Sep 1914	.	3137	1372	.	
+Brethic	.	.	Dora	.	F	B	17 May 1914	41	.	.	8	115	4	19 May 1914	.	1702	1295	.	
+Brethic	.	.	George	.	M	B	7 Jan 1914	40	.	.	7	125	4	10 Feb 1914	.	530	1913	.	
+Brown	.	.	Dortha	.	F	B	25 May 1914	.	4	.	1strw	174	1	26 May 1914	.	1868	1301	*	
+Bornw	.	.	Francis	.	F	B	20 Oct 1914	65	.	.	10	163	1	22 Oct 1914	.	3501	1409	.	
+Cahill	.	.	Melvin	.	M	B	8 Jan 1914	.	3	.	1strw	174	1	8 Jan 1914	.	70	1192	*	
+Campbell	.	.	Emma	.	F	B	24 Mar 1914	60	.	.	8	46	1	29 Mar 1914	.	1092	1245	.	
+Carter	.	.	Ada	.	F	B	18 Dec 1908	23	.	.	6	193	6	8 May 1914	.	1596	1293	.	
+Carter	.	.	Luvenia	.	F	B	13 Feb 1914	18	.	.	1	125	4	13 Feb 1914	.	562	1215	.	
+Carter	.	.	Wallace	.	M	B	10 Jun 1914	38	.	.	12	162	1	12 Jun 1914	.	1994	1313	.	
+Chapman	.	.	Henry	.	M	B	28 Jun 1914	27	.	.	1	115	4	2 Jul 1914	.	2244	1332	.	
+Claybridge	.	.	Frank	.	M	B	14 Apr 1914	30	.	.	11	184	1	19 Apr 1914	.	1372	1270	.	
+Claybrook	.	.	Mollie	D	F	B	26 Mar 1914	38	.	.	1	125	6	29 Mar 1914	.	1120	1247	.	
+Cole	.	.	Mary	E	F	B	20 Jan 1914	54	.	.	6	152	6	23 Jan 1914	.	299	1201	.	
+Coleman	.	.	Louis	.	M	B	1 Jun 1914	61	.	.	12	124	4	2 Jun 1914	.	1896	1305	.	
+Cook	.	.	Daisy	Lee	F	B	22 Aug 1914	39	.	.	8	162	6	26 Aug 1914	.	3001	1365	.	
+Counsellor	.	.	Clara	M	F	B	5 Mar 1914	39	.	.	12	21	4	8 Mar 1914	.	858	1234	.	
+Cox	.	.	Viola	.	F	B	10 Mar 1914	26	.	.	1	124	4	12 Mar 1914	.	902	1236	.	
+Dale	.	.	John	.	M	B	20 May 1914	4	.	.	3rdrw	36	1	24 May 1914	.	1788	1299	*	
+Darby	.	.	Effie	.	F	B	4 Feb 1914	37	.	.	9	57	1	6 Feb 1914	.	496	1209	.	
+Davis	.	.	Charles	.	M	B	14 Jan 1914	.	5	.	2ndrw	174	1	19 Jan 1914	.	220	1197	*	
+Davis	.	.	Louise	.	F	B	.	70	.	.	11	152	6	21 Oct 1914	.	1054	1407	.	
+Davis	.	.	Thomas	.	M	B	6 Feb 1914	50	.	.	5	185	1	13 Feb 1914	.	592	1214	.	
+Dennis	.	.	Chas	.	M	B	7 Aug 1914	47	.	.	4	115	4	16 Aug 1914	.	2844	1360	.	
+Dixon	.	.	Bessie	Thomas	F	B	21 Apr 1914	40	.	.	5	162	1	26 Aug 1914	.	1476	1277	.	
+Dixon	.	.	James	.	M	B	7 Apr 1914	38	.	.	6	42	4	10 Apr 1914	.	1261	1261	.	
+Dodson	.	.	Lester	.	M	B	24 Aug 1914	25	.	.	7	162	1	26 Apr 1914	.	3002	1366	.	
+Donons	.	.	Robert	.	M	B	25 Sep 1914	33	.	.	2	162	1	27 Sep 1914	.	2799	1383	.	
+Edwards	.	.	Harvey	R	M	B	16 Feb 1914	59	.	.	8	150	6	22 Feb 1914	.	661	1224	.	
+Elby	.	.	Julius	.	M	B	6 Nov 1914	63	.	.	6	127	4	8 Nov 1914	.	3741	1416	.	
+Ellis	.	Jr	Charles	A	M	B	24 Apr 1914	10	.	.	3rw	35	1	25 Apr 1914	.	1452	1275	*	
+Evans	.	.	Benjamin	.	M	B	2 Mar 1914	40	.	.	7	28	1	4 Mar 1914	.	799	1232	.	
+Evans	.	.	Leah	.	F	B	28 Sep 1914	81	.	.	4	114	6	1 Oct 1914	.	3267	1386	.	
+Ewing	.	.	Willa	May	F	B	8 Jun 1914	36	.	.	9	124	4	11 Jun 1914	.	1972	1311	.	
+Farr	.	.	Artie	.	M	B	10 May 1914	.	2	.	2ndrw	174	1	12 May 1914	.	1630	1289	*	
+Fields	.	.	Baby	.	F	B	17 Nov 1914	.	.	4	2ndrw	174	1	18 Nov 1914	.	4054	1427	*	
+Fields	.	.	Francis	.	F	B	29 Sep 1914	.	.	4	3	189	6	29 Sep 1914	.	3271	1385	*	
+Finley	.	.	John	H	M	B	3 Feb 1914	49	.	.	8	57	1	10 Feb 1914	.	525	1212	.	
+Fitchue	.	.	Louise	.	F	B	12 Feb 1914	31	.	.	7	183	1	14 Feb 1914	.	599	1216	.	
+Fleming	.	.	John	.	M	B	25 May 1914	38	.	.	7	115	4	28 May 1914	.	1840	1302	.	
+Fort	.	.	Ella	.	F	B	5 Feb 1914	43	.	.	1	186	1	7 Feb 1914	.	497	1210	.	
+Franklin	.	.	Jessie	.	F	B	16 Aug 1914	29	.	.	5	114	4	19 Aug 1914	.	2855	1362	.	
+Freeman	.	.	Flossie	.	F	B	23 Feb 1914	24	.	.	2	46	1	1 Mar 1914	.	698	1228	.	
+Gaines	.	.	Thomas	.	M	B	8 Mar 1914	45	.	.	12	114	6	15 Mar 1914	.	919	1240	.	
+Galvin	.	.	Janie	.	F	B	3 Sep 1914	30	.	.	6	115	4	6 Sep 1914	.	3136	1373	.	
+George	.	.	Sarah	.	F	B	23 Jun 1914	43	.	.	11	125	4	27 Jun 1914	.	2172	1324	.	
+Gill	.	.	William	.	M	B	6 Nov 1914	60	.	.	4	80	1	8 Nov 1914	.	2819	1419	.	
+Gillespie	.	.	Jasper	.	M	B	5 Aug 1914	59	.	.	9	162	1	9 Aug 1914	.	2627	1352	.	
+Gillespie	.	.	William	R	M	B	8 Jul 1914	28	.	.	11	162	1	12 Jul 1914	.	2333	1338	*	
+Goodwin	.	.	Annie	.	F	B	27 Mar 1914	51	.	.	12	184	1	1 Apr 1914	.	1137	1249	.	
+Gordan	.	.	Kelley	.	M	B	27 Jun 1914	34	.	.	6	124	4	1 Jul 1914	.	109	1330	.	
+Gouch	.	.	Mary	E	F	B	6 Jun 1914	74	.	.	11	124	4	8 Jun 1914	.	.	1307	.	
+Grayson	.	.	William	.	M	B	21 Jan 1914	41	.	.	11	57	1	25 Jan 1914	.	319	1204	.	
+Green	.	.	Rastus	.	M	B	18 Dec 1914	41	.	.	7	122	6	20 Dec 1914	.	4290	1439	.	
+Gregory	.	.	Mabel	Lucille	F	B	28 Oct 1914	.	6	.	3rdrw	174	1	29 Oct 1914	.	3639	1412	*	
+Hall	.	.	Mitchell	B	M	B	17 Oct 1914	53	.	.	12	127	4	21 Oct 1914	.	3511	1408	.	
+Hamilton	.	.	Eliza	.	F	B	2 Apr 1914	50	.	.	7	46	1	5 Apr 1914	.	1208	1260	.	
+Hanworth	.	.	Sallie	.	F	B	2 Jun 1914	52	.	.	8	122	6	6 Jul 1914	.	2267	1334	.	
+Harris	.	.	Fannie	.	F	B	6 Nov 1914	32	.	.	4	86	4	9 Nov 1914	.	3793	1422	.	
+Harris	.	.	Henrietta	.	F	B	14 Feb 1914	70	.	.	8	143	6	17 Feb 1914	.	616	1221	.	
+Harris	.	.	Louis	.	M	B	28 Jun 1914	2	.	.	1strw	174	1	30 Jun 1914	.	2221	1328	*	
+Harris	.	.	Samuel	M	M	B	14 Jan 1914	33	.	.	5	92	4	18 Jan 1914	.	195	1195	.	
+Harvey	.	.	William	.	M	B	13 Mar 1914	33	.	.	1	161	1	14 Mar 1914	.	929	1238	.	
+Harvy	.	.	George	.	M	B	15 Oct 1914	19	.	.	5	80	1	18 Oct 1914	.	1046	1400	.	
+Harvy	.	.	John	.	M	B	23 Jul 1914	59	.	.	2	46	4	26 Jul 1914	.	2580	1345	.	
+Harvy	.	.	Mattie	.	F	B	6 Nov 1914	69	.	.	1	46	4	8 Nov 1914	.	3747	1420	.	
+Haynes	.	.	Julia	.	F	B	28 Oct 1914	45	.	.	2	114	4	2 Nov 1914	.	3687	1414	.	
+Highlott	.	.	Walter	.	M	B	25 Sep 1914	38	.	.	12	125	4	4 Oct 1914	.	3265	1388	.	
+Hill	.	.	Irine	.	F	B	14 Apr 1914	16	.	.	10	115	4	17 Apr 1914	.	1351	1265	.	
+Hill	.	.	John	B	M	B	29 Jul 1914	52	.	.	6	141	6	20 Oct 1914	.	3483	1403	.	
+Hill	.	.	William	.	M	B	30 Aug 1914	31	.	.	2	183	1	1 Sep 1914	.	3037	1369	.	
+Holt	.	.	John	.	M	B	29 Nov 1914	49	.	.	7	163	1	14 Dec 1914	.	4303	1436	.	
+Hopkins	.	.	Sylvester	.	M	B	13 May 1914	5	.	.	3rdrw	35	1	17 May 1914	.	1684	1294	*	
+Houston	.	.	Robert	.	M	B	10 Jun 1914	46	.	.	4	27	1	14 Jun 1914	.	2004	1314	.	
+Hughs	.	.	Alec	.	.	B	3 Dec 1914	40	.	.	1	162	1	16 Dec 1914	.	4257	1437	.	
+Jackson	.	.	Gertrude	.	M	B	15 Mar 1914	34	.	.	10	125	4	22 Mar 1914	.	1013	1244	.	
+Jackson	.	.	Martha	.	F	B	2 Apr 1914	.	.	.	10	152	6	29 Sep 1914	.	3187	1384	.	
+James	.	.	Joseph	Perry	M	B	1 Jan 1914	29	.	.	3	186	1	5 Jan 1914	.	37	1191	.	
+Johnson	.	.	Cora	Lee	F	B	10 Jun 1914	.	4	.	2ndrw	174	1	11 Jun 1914	.	1995	1312	*	
+Johnson	.	.	Irine	.	F	B	7 Feb 1914	58	.	.	6	185	1	9 Feb 1914	.	510	1211	.	
+Jones	.	.	Catherine	May	F	B	23 May 1914	19	.	.	11	42	4	25 May 1914	.	1773	1300	.	
+Jones	.	.	Willie	.	M	B	13 Jun 1914	17	.	.	8	124	4	24 Jun 1914	.	.	1315	.	
+Jordan	.	.	Frank	.	M	B	5 Dec 1914	76	.	.	8	163	1	8 Dec 1914	.	3784	1432	.	
+Kelly	.	.	Teresa	.	F	B	1 Jan 1914	3	.	.	3rdrw	174	1	3 Jan 1914	.	21	1190	*	
+Kennard	.	.	Henry	.	M	B	19 May 1914	41	.	.	7	161	1	21 May 1914	.	1730	1297	.	
+Kennedy	.	.	Henry	M	M	B	29 Oct 1914	47	.	.	6	47	1	30 Oct 1914	.	147	1413	.	
+Lee	.	.	Daudy	.	M	B	19 Nov 1914	50	.	.	9	163	1	12 Dec 1914	.	4067	1430	.	
+Logan	.	.	Fred	D	M	B	27 Apr 1914	32	.	.	11	27	4	30 Apr 1914	.	.	1283	.	
+Lonajon	.	.	Cyrus	.	M	B	25 Jul 1914	66	.	.	3	187	6	27 Jul 1914	.	2555	1346	.	
+Long	.	.	Gertrude	Fern	F	B	.	.	4	.	3rdrw	174	1	10 May 1914	.	1623	1288	*	
+Lucas	.	.	Thomas	E	M	B	7 May 1914	25	.	.	10	180	6	13 May 1914	.	1645	1290	.	
+Martin	.	.	Martha	.	F	B	2 Oct 1914	67	.	.	6	126	4	4 Oct 1914	.	.	1389	.	
+Martin	.	.	Thelma	E	F	B	26 Oct 1914	1	.	.	1strw	35	1	27 Oct 1914	.	3612	1411	*	
+Maxwell	.	.	Dudley	.	M	B	22 Jan 1914	19	.	.	2	186	1	25 Jan 1914	.	323	1206	.	
+McClain	.	.	Amanda	.	F	B	9 Apr 1914	80	.	.	11	115	4	11 Apr 1914	.	1298	1262	.	
+McDonald	.	.	Louisa	.	F	B	19 Jan 1914	88	.	.	6	150	6	20 Jan 1914	.	255	1200	.	
+Meadows	.	.	Earl	.	M	B	4 Sep 1914	24	.	.	3	125	4	6 Sep 1914	.	3148	1374	.	
+Miller	.	.	Ola	.	F	B	22 Oct 1914	24	.	.	1	114	4	25 Oct 1914	.	3590	1410	.	
+Moore	.	.	Dorothy	.	F	B	22 Jan 1914	3	.	.	3rdrw	174	1	23 Jan 1914	.	322	1203	*	
+Moore	.	.	John	.	M	B	16 Feb 1914	67	.	.	3	46	1	19 Feb 1914	.	.	1222	.	
+Moore	.	.	Sidney	.	M	B	12 Mar 1914	12	.	.	9	125	4	15 Mar 1914	.	.	1239	.	
+Morris	.	.	Ella	.	F	B	6 Jun 1914	39	.	.	10	124	4	10 Jun 1914	.	429	1309	.	
+Morton	.	.	Wilson	.	M	B	1 Sep 1914	44	.	.	6	41	4	3 Sep 1914	.	3066	1371	.	
+Mosby	.	.	Fredric	Albert	M	B	10 Nov 1914	.	.	5	2ndrw	174	1	11 Nov 1914	.	3822	1426	*	
+Murphy	.	.	Lula	.	F	B	17 Jan 1914	36	.	.	12	57	1	20 Jan 1914	.	258	1199	.	
+Nelson	.	.	Anson	Rebecca	F	B	11 Feb 1914	45	.	.	8	161	1	15 Feb 1914	.	593	1219	.	
+Nelson	.	.	Jim	.	M	B	18 Feb 1914	54	.	.	2	161	1	13 Mar 1914	.	696	1231	.	
+Parker	.	.	Wade	.	M	B	17 Jan 1914	45	.	.	7	37	1	25 Jan 1914	.	.	1205	.	
+Parsons	.	.	George	F	M	B	12 Feb 1914	45	.	.	12	115	4	16 Feb 1914	.	598	1220	.	
+Payne	.	.	Baby	.	F	B	31 Oct 1914	.	.	0	3rdrw	174	1	3 Nov 1914	.	3682	1415	*	
+Payne	.	.	Fredric	.	M	B	8 Jul 1914	.	.	0	9	155	6	8 Jul 1914	.	2337	1336	*	
+Pearl	.	.	Thomas	H	M	B	18 Jul 1914	34	.	.	2	115	4	23 Jul 1914	.	2469	1341	.	
+Perkins	.	.	Julia	.	F	B	21 Jan 1914	39	.	.	7	182	1	23 Jan 1914	.	321	1202	.	
+Pleasant	.	.	Annie	.	F	B	8 Oct 1914	35	.	.	6	114	4	11 Oct 1914	.	194	1398	.	
+Prater	.	.	Sterling	.	M	B	.	59	.	.	4	124	4	.	.	2180	1325	.	
+Rainey	.	.	Mary	.	F	B	18 Aug 1914	55	.	.	8	162	1	20 Aug 1914	.	2869	1363	.	
+Ransburg	.	.	Cleveland	E	M	B	30 May 1914	.	14	.	1strw	174	1	1 Jun 1914	.	1879	1303	*	
+Raymond	.	.	Marceline	.	F	B	5 May 1914	.	2	.	3rdrw	174	1	13 May 1914	.	1650	1292	*	
+Reals	.	.	Viola	.	F	B	26 Apr 1914	37	.	.	9	115	4	30 Apr 1914	.	1528	1282	.	
+Reeves	.	.	Easel	.	F	B	20 Jun 1914	21	.	.	9	153	6	22 Jun 1914	.	2114	1317	.	
+Richardson	.	.	Elizabeth	.	F	B	6 Aug 1914	56	.	.	9	115	6	9 Aug 1914	.	2714	1351	.	
+Richardson	.	.	Paul	.	M	B	29 May 1914	.	6	.	3rdrw	174	1	1 Jun 1914	.	1878	1304	*	
+Richardson	.	.	Sammuel	.	M	B	19 Apr 1914	63	.	.	4	162	1	27 Apr 1914	.	1489	1278	.	
+Robertson	.	.	William	.	M	B	19 Sep 1914	44	.	.	5	125	4	21 Sep 1914	.	3188	1381	.	
+Robinson	.	.	Anderson	.	M	B	29 Apr 1914	36	.	.	.	.	.	3 May 1914	.	1529	1285	.	
+Rogers	.	.	John	V	M	B	22 Sep 1906	43	.	.	5	141	6	20 Oct 1914	.	3485	1402	.	
+Sample	.	.	Frank	.	M	B	13 Sep 1914	57	.	.	12	163	1	17 Sep 1914	.	3180	1378	.	
+Sauders	.	.	Edna	.	F	B	22 Sep 1914	20	.	.	6	125	4	25 Sep 1914	.	2791	1382	.	
+Savington	.	.	Christina	.	F	B	12 Dec 1906	22	.	.	6	140	6	20 Oct 1914	.	3486	1405	.	
+Sawyers	.	.	Garland	.	M	B	1 Nov 1914	43	.	.	3	114	4	8 Nov 1914	.	3743	1421	.	
+Seals	.	.	Joseph	E	M	B	27 Dec 1914	61	.	.	3	80	1	28 Dec 1914	.	4196	1441	.	
+Seals	.	.	Ruth	M.K.N.	F	B	23 Feb 1914	37	.	.	8	196	6	26 Feb 1914	.	302	1226	.	
+Shaw	.	.	Perry	Wendell	M	B	6 Oct 1914	2	2	.	3rdrw	35	1	7 Oct 1914	.	3343	1396	*	
+Shelton	.	.	Annie	.	F	B	2 Mar 1914	70	.	.	9	46	1	8 Mar 1914	.	841	1235	.	
+Shippley	.	.	Sunson	.	F	B	7 Jan 1914	50	.	.	6	9	4	11 Jan 1914	.	112	1194	.	
+Smith	.	.	Charles	.	M	B	18 Dec 1914	29	.	.	4	126	4	20 Dec 1914	.	4289	1438	.	
+Smith	.	.	Emma	Francis	F	B	4 Mar 1914	33	.	.	3	193	6	8 Mar 1914	.	831	1233	.	
+Smith	.	.	Henry	.	M	B	12 Feb 1914	48	.	.	8	125	4	15 Feb 1914	.	591	1217	.	
+Smith	.	.	Isac	.	M	B	12 Jan 1914	51	.	.	4	193	6	7 May 1914	.	.	1286	.	
+Smith	.	.	Martha	.	F	B	4 Jul 1914	37	.	.	7	83	4	6 Jul 1914	.	2290	1335	.	
+Spence	.	.	Fannie	Lawson	F	B	14 Oct 1914	29	.	.	11	163	1	18 Oct 1914	.	3463	1401	.	
+Stewart	.	.	Bert	.	M	B	25 Jun 1914	51	.	.	5	124	4	29 Jun 1914	.	2207	1326	.	
+Stewart	.	.	Jas.	H	M	B	26 Mar 1914	33	.	.	6	80	1	29 Mar 1914	.	1146	1246	.	
+Thatcher	.	.	Della	.	F	B	25 Jan 1914	24	.	.	10	57	1	28 Jan 1914	.	372	1208	.	
+Thatcher	.	.	Viola	.	F	B	11 May 1914	6	.	.	7	57	1	13 May 1914	.	1649	1291	*	
+Thompson	.	.	Elsa	.	M	B	25 Dec 1914	60	.	.	3	126	4	29 Dec 1914	.	4392	1442	.	
+Tillman	.	.	Lafayette	A	M	B	3 Oct 1914	55	.	.	12	161	6	6 Oct 1914	.	3322	1393	.	
+Tolliver	.	.	Evelyn	.	F	B	30 Apr 1914	8	.	.	3rdrw	35	1	3 May 1914	.	1534	1284	*	
+Triplet	.	.	Elizabeth	.	F	B	12 Apr 1914	.	7	.	2ndrw	174	1	13 Apr 1914	.	1307	1264	*	
+Truley	.	.	Georgie	.	F	B	14 Mar 1914	36	.	.	2	124	4	17 Mar 1914	.	958	1241	.	
+Twymon	.	.	Emma	.	F	B	17 Jan 1914	36	.	.	10	46	1	19 Jan 1914	.	254	1198	.	
+Vaughn	.	.	Cornelius	Boone	M	B	.	.	11	5	1strw	35	1	8 Nov 1914	.	3735	1418	*	
+Walker	.	.	Chester	.	M	B	2 Aug 1914	24	.	.	10	162	1	7 Aug 1914	.	2624	1348	.	
+Walkins	.	.	George	.	M	B	20 Apr 1914	49	.	.	5	64	1	22 Apr 1914	.	.	1274	.	
+Washington	.	.	Mary	.	F	B	.	43	.	.	12	121	6	27 Dec 1914	.	4192	1440	.	
+Watkins	.	Jr	Frank	.	M	B	4 Dec 1914	.	.	4	2rw	173	1	5 Dec 1914	.	.	1431	*	
+Webb	.	.	Bertha	E	F	B	8 Nov 1914	24	.	.	10	116	6	11 Nov 1914	.	3812	1423	.	
+Wein	.	.	Matilda	.	F	B	5 Sep 1914	42	.	.	11	27	4	7 Sep 1914	.	3080	1375	.	
+Wheeler	.	.	Delilah	.	F	B	15 Sep 1914	61	.	.	4	125	4	19 Sep 1914	.	3179	1380	.	
+Wheeler	.	.	Earnest	.	M	B	17 Mar 1914	40	.	.	6	162	1	22 Mar 1914	.	.	1243	.	
+Wheeler	.	.	John	.	M	B	10 Feb 1914	55	.	.	7	124	4	15 Feb 1914	.	588	1218	.	
+White	.	.	Bettie	.	F	B	.	48	.	.	3	124	4	15 Jun 1914	.	2022	1316	.	
+White	.	.	Isac	W	M	B	2 Nov 1914	59	.	.	5	126	4	8 Nov 1914	.	3692	1417	.	
+Williams	.	.	Alice	C	F	B	9 Jul 1914	.	1	.	2ndrw	174	1	10 Jul 1914	.	2336	1337	*	
+Williams	.	.	Isac	.	M	B	12 Jan 1914	65	.	.	8	37	1	18 Jan 1914	.	215	1196	.	
+Wilson	.	.	Clifford	Wendell	M	B	8 Dec 1914	.	6	.	3rdrw	173	1	9 Dec 1914	.	4127	1433	*	
+Wisley	.	.	Henry	.	M	B	24 Aug 1914	48	.	.	2	125	4	19 Aug 1914	.	2987	1367	.	
+Woods	.	.	Juanita	.	F	B	25 Aug 1914	.	3 wks	.	3rdrw	174	1	27 Aug 1914	.	3010	1368	*	
+Woods	.	.	Walter	.	M	B	14 Oct 1914	36	.	.	2	24	4	15 Oct 1914	.	3433	1399	.	
+Woods	.	.	William	H	M	B	19 Feb 1914	28	.	.	10	122	6	23 Feb 1914	.	660	1223	.	
+Abannon	.	.	Baby	.	M	B	23 Aug 1914	.	.	1	.	.	.	11 Nov 1914	Strangers Rest	3218	1424	.	
+Adams	.	.	John	A	M	B	16 Jun 1914	56	.	.	.	.	.	2 Jul 1914	Strangers Rest	2243	1333	.	
+Bass	.	.	Willie	.	F	B	2 Aug 1914	20	.	.	.	.	.	11 Aug 1914	Strangers Rest	.	1354	.	
+Baukston	.	.	Davie	M	F	B	20 Feb 1914	.	16	.	.	.	.	2 Mar 1914	Strangers Rest	755	1230	*	
+Blue	.	.	Infant	.	F	B	23 Jun 1914	.	.	0	.	.	.	15 Aug 1914	Strangers Rest	542	1356	*	
+Bonee	.	.	James	.	M	B	7 Apr 1914	53	.	.	.	.	.	20 Apr 1914	Strangers Rest	1310	1272	.	
+Bowen	.	.	Joe	.	M	B	13 Apr 1914	35	.	.	.	.	.	18 Apr 1914	Strangers Rest	1369	1269	.	
+Brasfield	.	.	Infant	.	M	B	25 Apr 1914	3	.	.	.	.	.	.	Strangers Rest	1511	1281	*	
+Brown	.	.	Anderson	.	M	B	5 Jan 1914	25	.	.	.	.	.	27 Feb 1914	Strangers Rest	795	1227	.	
+Brown	.	.	Baby	.	M	B	7 Jun 1914	.	.	0	.	.	.	11 Jun 1914	Strangers Rest	1973	1310	.	
+Brown	.	.	Charles	.	B	B	17 Apr 1914	37	.	.	.	.	.	28 Apr 1914	Strangers Rest	1453	1279	.	
+Brown	.	.	Edwin	H	M	B	27 Mar 1914	.	.	9	.	.	.	1 Apr 1914	Strangers Rest	1136	1250	*	
+Brown	.	.	George	.	M	B	1 Mar 1914	66	.	.	.	.	.	2 Apr 1914	Strangers Rest	1095	1255	.	
+Buchanan	.	.	Charles	.	M	B	6 Sep 1914	44	.	.	.	.	.	18 Sep 1914	Strangers Rest	3217	1379	.	
+Buckner	.	.	Baby	.	F	B	24 Oct 1913	.	.	0	.	.	.	15 Aug 1914	Strangers Rest	3948	1358	*	
+Carter	.	.	David	.	M	B	13 Aug 1914	35	.	.	.	.	.	18 Aug 1914	Strangers Rest	2902	1361	.	
+Clardy	.	.	George	.	M	B	3 Jun 1914	43	.	.	.	.	.	8 Jun 1914	Strangers Rest	1959	1308	.	
+Coleman	.	.	Baby	.	M	B	26 Apr 1914	.	.	0	.	.	.	26 Jun 1914	Strangers Rest	2005	1323	*	
+Collins	.	.	Baby	.	F	B	11 Mar 1914	.	3	.	.	.	.	1 Apr 1914	Strangers Rest	1000	1251	*	
+Collins	.	.	Ray	Henry	M	B	24 Mar 1914	.	5	.	.	.	.	30 Mar 1914	Strangers Rest	1147	1248	*	
+Crawford	.	.	Charles	.	M	B	6 Sep 1914	23	.	.	.	.	.	10 Sep 1914	Strangers Rest	3172	1377	.	
+Dennis	.	.	Theo	.	M	B	31 Aug 1914	39	.	.	.	.	.	2 Sep 1914	Strangers Rest	3040	1370	.	
+Dooley	.	.	Baby	.	F	B	14 Dec 1914	.	.	0	.	.	.	9 Dec 1914	Strangers Rest	3771	1434	*	
+Douglas	.	.	Baby	.	F	B	8 Nov 1914	.	.	11	.	.	.	11 Nov 1914	Strangers Rest	3792	1425	*	
+Everett	.	.	Ella	May	F	B	30 Dec 1914	.	15	.	.	.	.	2 Apr 1914	Strangers Rest	1156	1257	*	
+Feister	.	.	Isac	.	M	B	1 Jun 1914	39	.	.	.	.	.	6 Jun 1914	Strangers Rest	.	1306	.	
+Gassett	.	.	Isaac	.	M	B	21 Aug 1914	50	.	.	.	.	.	24 Aug 1914	Strangers Rest	2966	1364	.	
+Givens	.	.	Stillborn	.	M	B	16 Sep 1914	.	.	0	.	.	.	5 Oct 1914	Strangers Rest	3291	1391	*	
+Halsey	.	.	Trinsley	.	M	B	1 Aug 1914	33	.	.	.	.	.	7 Aug 1914	Strangers Rest	2652	1349	.	
+Hamilton	.	.	Chas	.	M	B	29 Jul 1914	27	.	.	.	.	.	31 Jul 1914	Strangers Rest	2606	1347	.	
+Hill	.	.	Baby	.	M	B	10 Mar 1914	.	.	0	.	.	.	2 Apr 1914	Strangers Rest	1129	1258	*	
+Isby	.	.	Maggie	.	F	B	17 Jun 1914	32	.	.	.	.	.	24 Jun 1914	Strangers Rest	2139	1320	.	
+Johnson	.	.	Peter	.	M	B	5 Mar 1914	35	.	.	.	.	.	17 Mar 1914	Strangers Rest	957	1242	.	
+Lapsley	.	.	Cora	.	F	B	30 Jun 1914	4	.	.	.	.	.	30 Jun 1914	Strangers Rest	2171	1329	*	
+Laurence	.	.	Owen	.	M	B	8 Mar 1914	56	.	.	.	.	.	12 Mar 1914	Strangers Rest	893	1237	.	
+Lewis	.	.	Emil	.	M	B	19 Jul 1914	39	.	.	.	.	.	20 Jul 1914	Strangers Rest	2457	1339	.	
+Madine	.	.	Robert	.	M	Mex	25 Dec 1913	35	.	.	.	.	.	2 Apr 1914	Strangers Rest	.	1253	.	
+McFerson	.	.	Baby (twin)	.	M	B	1 Jul 1914	.	.	0	.	.	.	25 Jul 1914	Strangers Rest	2526	1343	*	
+McFerson	.	.	Baby (twin)	.	M	B	1 Jul 1914	.	.	0	.	.	.	25 Jul 1914	Strangers Rest	2525	1344	*	
+Miller	.	.	Geo	.	M	B	12 Nov 1914	40	.	.	.	.	.	18 Nov 1914	Strangers Rest	3888	1428	.	
+Miller	.	.	John	.	M	B	9 Aug 1914	40	.	.	.	.	.	11 Aug 1914	Strangers Rest	2743	1353	.	
+Miller	.	.	Stillborn	.	F	B	20 Sep 1914	.	.	0	.	.	.	5 Oct 1914	Strangers Rest	3290	1390	*	
+Morton	.	.	Marcelus	M	M	B	18 Nov 1914	.	10	.	.	.	.	20 Nov 1914	Strangers Rest	3921	1429	*	
+Munas	.	.	Patto	.	M	B	23 Jul 1914	30	.	.	.	.	.	25 Jul 1914	Strangers Rest	2527	1342	.	
+Parks	.	.	Infant	.	M	.	23 Jul 1914	.	.	1	.	.	.	29 Apr 1914	Strangers Rest	1512	1280	*	
+Pero	.	.	William	H	M	B	6 Dec 1914	.	4	.	.	.	.	9 Dec 1914	Strangers Rest	4128	1435	*	
+Randall	.	.	Baby	.	F	B	1 Jul 1914	.	.	1	.	.	.	15 Aug 1914	Strangers Rest	2292	1357	*	
+Roberts	.	.	Eugene	.	M	B	25 Mar 1914	56	.	.	.	.	.	2 Apr 1914	Strangers Rest	1157	1256	.	
+Shelby	.	.	Baby	.	M	B	18 May 1914	.	.	0	.	.	.	1 Oct 1914	Strangers Rest	2256	1387	.	
+Shelton	.	.	Tom	.	M	B	11 Apr 1914	65	.	.	.	.	.	20 Apr 1914	Strangers Rest	1367	1271	.	
+Smith	.	.	Luther	.	M	B	21 Jun 1914	29	.	.	.	.	.	22 Jun 1914	Strangers Rest	2110	1319	.	
+Sprangles	.	.	Baby	.	F	B	12 Apr 1914	.	.	0	.	.	.	18 Apr 1914	Strangers Rest	1353	1268	*	
+Stewart	.	.	Geo	.	.	B	22 Mar 1914	53	.	.	.	.	.	3 Apr 1914	Strangers Rest	1180	1259	.	
+Tate	.	.	Scott	.	M	B	9 Apr 1914	35	.	.	.	.	.	20 Apr 1914	Strangers Rest	1373	1273	.	
+Thompson	.	.	Oval	.	M	B	16 Apr 1914	50	.	.	.	.	.	18 Apr 1914	Strangers Rest	1366	1267	.	
+Trewble	.	.	John	.	M	B	1 Jan 1914	45	.	.	.	.	.	.	Strangers Rest	306	1207	.	
+Unknown	.	.	Infant	.	.	B	13 May 1914	.	.	0	.	.	.	26 Jun 1914	Strangers Rest	1764	1322	*	
+Unknown	.	.	Infant	.	.	B	1 May 1914	.	.	0	.	.	.	26 Jun 1914	Strangers Rest	1763	1321	*	
+Unknown	.	.	Man	.	M	B	20 Jun 1914	33	.	.	.	.	.	22 Jun 1914	Strangers Rest	2109	1318	.	
+Unknown	.	.	Man	.	M	B	19 May 1914	58	.	.	.	.	.	24 May 1914	Strangers Rest	.	1298	.	
+Unknown	.	.	Man	.	M	B	10 Aug 1914	68	.	.	.	.	.	12 Aug 1914	Strangers Rest	2742	1355	.	
+Unknown	.	.	Man	.	M	Mex	28 Jun 1914	33	.	.	.	.	.	29 Jun 1914	Strangers Rest	2196	1327	.	
+Wallace	.	.	Ellen	.	F	B	29 Jan 1914	60	.	.	.	.	.	2 Apr 1914	Strangers Rest	444	1252	.	
+Washington	.	.	Baby	.	F	B	25 Sep 1914	.	.	0	.	.	.	7 Oct 1914	Strangers Rest	3319	1397	*	
+Welbum	.	.	Sol	.	M	B	1 Oct 1914	29	.	.	.	.	.	6 Oct 1914	Strangers Rest	3331	1394	.	
+Wilkerson	.	.	Lee	.	M	B	9 Apr 1914	50	.	.	.	.	.	18 Apr 1914	Strangers Rest	1365	1266	.	
+Willis	.	.	Baby	.	M	B	22 Aug 1914	1	.	.	.	.	.	15 Aug 1914	Strangers Rest	3042	1359	*	
+Wilson	.	.	Earl	.	M	B	8 Sep 1914	28	.	.	.	.	.	10 Sep 1914	Strangers Rest	3170	1376	.	
+Wright	.	.	Emma	L	F	B	15 Nov 1913	.	.	12 hrs	.	.	.	2 Apr 1914	Strangers Rest	4189	1254	*	
+Wright	.	.	Geraldine	.	F	B	24 Sep 1914	5	.	.	.	.	.	5 Oct 1914	Strangers Rest	3308	1392	*	
+Wyatt	.	.	Allen	.	M	B	10 Jun 1914	24	.	.	.	.	.	20 Jul 1914	Strangers Rest	2420	1340	.																	
