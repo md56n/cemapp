@@ -12,4 +12,4 @@ Highland Cemetery Internment Records (1912-1914)<br />
 Records from the Highland Cemetery Book (1909-1914)<br />
 Highland Cemetery Lots (Block 1)<br />
 Highland Cemetery Tombstone Photos<br />
-Missouri Death Records (1910)<br />
+Missouri Death Records (1909-1910)<br />
