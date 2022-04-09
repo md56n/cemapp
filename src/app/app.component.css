@@ -1,0 +1,80 @@
+.header {
+    height: 10vh;
+    width: 100vw;
+    background: #a6b9ff;
+}
+
+.toolbarbutton {
+    float: left;
+    height: 10vh;
+    width: 15vw;
+    background: none;
+    border: none;
+}
+
+.arrow {
+    float: left;
+    height: 6vh;
+    width: 4vw;
+    padding-left: 5vw;
+}
+
+.siteTitle {
+    float: left;
+    height: 8vh;
+    width: 40vw;
+    padding-left: 15vw;
+    padding-top: 2vh;
+    color: #ffffff;
+    text-align: center;
+    font-size: 6vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.searchPage {
+    float: left;
+    height: 8vh;
+    width: 20vw;
+    margin-top: 1vh;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    background: #ffffff;
+    color: #a6b9ff;
+    font-size: 4vh;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 10px;
+    border-color: #ffffff;
+}
+
+.background {
+    height: 90vh;
+    width: 100vw;
+    background: #ffffff;
+    text-align: center;
+}
+
+.cemImg {
+    height: 50vh;
+    margin-top: 8vh;
+    margin-left: 25vw;
+    margin-right: 25vw;
+    padding-bottom: 5vh;
+}
+
+.title {
+    float: left;
+    margin-left: 10vw;
+    color: #a6b9ff;
+    text-align: left;
+    font-size: 3vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.date {
+    margin-right: 10vw;
+    text-align: end;
+    color: #a6b9ff;
+    font-size: 3vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

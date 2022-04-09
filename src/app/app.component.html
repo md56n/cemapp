@@ -1,1 +1,20 @@
-<router-outlet></router-outlet>
+<div class="header">
+    <button class="toolbarbutton" (click)="back()" *ngIf="!home">
+      <img class="arrow" src='../assets/leftarrow.png'>
+    </button>
+    <div class="toolbarbutton" *ngIf="home"></div>
+    <div class="siteTitle" *ngIf="home">Highland Cemetery</div>
+    <div class="siteTitle" *ngIf="!home&&!searched">Search Cemetery Records</div>
+    <div class="siteTitle" *ngIf="!home&&searched&&!showResult">Search Results</div>
+    <div class="siteTitle" *ngIf="!home&&searched&&showResult">{{recordType}} Record</div>
+    <button class="searchPage" (click)="search()" *ngIf="home">Search Records</button>
+</div>
+<div class="background" *ngIf="home">
+  <img class="cemImg" src="../assets/temp.jpeg">
+  <div class="title">Internment Records</div><div class="date">1912-1914</div>
+  <div class="title">Cemetery Records</div><div class="date">1909-1914</div>
+  <div class="title">State Death Records</div><div class="date">1909-1910</div>
+  <div class="title">Highland Cemetery Lots</div><div class="date">Block 1</div>
+  <div class="title">Assorted Tombstone Photos</div><div class="date"></div>
+</div>
+<app-search-records *ngIf="!home"></app-search-records>

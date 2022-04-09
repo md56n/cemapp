@@ -1,5 +1,4 @@
-import { Component } from '@angular/core';
-// import { AngularFireDatabase } from '@angular/fire/compat/database';
+import { Component, OnInit } from '@angular/core';
 
 export interface CemModel {
   Last: string;
@@ -21,6 +20,7 @@ export interface CemModel {
   Permit: string;
   Int: string;
   Baby: boolean;
+  DeathRecord: string;
   RecordType: string;
 }
 
@@ -50,7 +50,6 @@ export interface IntModel {
   Date: string;
   RelativeOrFriend: string;
   Remarks: string;
-  Photo: string;
   RecordType: string;
 }
 
@@ -59,28 +58,29 @@ export interface IntModel {
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
-export class AppComponent {
+export class AppComponent implements OnInit {
+  home = true;
+  searched = false;
+  showResult = false;
   tempArr: CemModel[] = [];
   tempArr2: IntModel[] = [];
   done = false;
+  recordType = '';
 
-  constructor(
-    // private db: AngularFireDatabase
-  ){ }
+  constructor() { }
 
   ngOnInit(): void {
     fetch( './assets/cemetery.csv' ).then(response => response.text()).then( responseText => {
-      let temp = responseText.split('\n');
+      let temp = responseText.split('\r\n');
       let newtemp = [];
       for(let i=0; i<temp.length; i++) {
-        newtemp[i] = temp[i].split(',');
+        newtemp[i] = temp[i].split('\t');
         for(let j=0; j<newtemp[i].length; j++) {
           if(newtemp[i][j]=='.') {
             newtemp[i][j] = '';
           }
         }
         let tempbool = false;
-        newtemp[i][18] = newtemp[i][18].slice(0, -3);
         if(newtemp[i][18]=='*') {
           tempbool = true;
         }
@@ -104,15 +104,16 @@ export class AppComponent {
           Permit: newtemp[i][16],
           Int: newtemp[i][17],
           Baby: tempbool,
+          DeathRecord: newtemp[i][19],
           RecordType: 'Cemetery'
         });
       }
       // console.log(this.tempArr);
-      fetch( './assets/Internment.csv' ).then(response => response.text()).then( responseText => {
-        let temp = responseText.split('\n');
+      fetch( './assets/internment.csv' ).then(response => response.text()).then( responseText => {
+        let temp = responseText.split('\r\n');
         let newtemp = [];
         for(let i=0; i<temp.length; i++) {
-          newtemp[i] = temp[i].split(',');
+          newtemp[i] = temp[i].split('\t');
           for(let j=0; j<newtemp[i].length; j++) {
             if(newtemp[i][j]=='.') {
               newtemp[i][j] = '';
@@ -144,7 +145,6 @@ export class AppComponent {
             Date: newtemp[i][22],
             RelativeOrFriend: newtemp[i][23],
             Remarks: newtemp[i][24],
-            Photo: newtemp[i][25],
             RecordType: 'Internment'
           });
         }
@@ -152,18 +152,23 @@ export class AppComponent {
         // console.log(this.tempArr2);
       });
     });
-    // this.saveData("test");
   }
 
-  // saveData(inputValue: string) {
-  //   const ref = this.db.list("items");
+  search() {
+    this.home = false;
+  }
 
-  //   ref.push(inputValue).then((res) => {
-  //     console.log(res);
-  //   }).catch((error) => {
-  //     console.error(error);
-  //   })
-  // }
+  back() {
+    if(!this.searched){
+      this.home = true;
+    }
+    else if(!this.showResult) {
+      this.searched = false;
+    }
+    else {
+      this.showResult = false;
+    }
+  }
 }
 
 // searches include unknown man/baby etc

@@ -1,13 +1,4 @@
-<div class="header">
-    <span>Highland Cemetery</span>
-</div>
-<div class="background" *ngIf="!searched">
-    <div class="toolbar">
-        <button class="toolbarbutton" (click)="back()">
-            <img class="arrow" src='../assets/leftarrow.png'>
-        </button>
-        <div class="text">Search Cemetery Records</div>
-    </div>
+<div class="background" *ngIf="!home.searched">
     <form [formGroup]="searchForm" (ngSubmit)="search()">
         <div class="field">First: </div><input formControlName="firstName"  placeholder="Enter first name"/>
         <div class="field">Middle: </div><input formControlName="middleName"  placeholder="Enter middle name"/>
@@ -26,13 +17,7 @@
         <button type="submit" [disabled]="isValid(searchForm.value.deathYear)" class="submit">Submit</button>
     </form>
 </div>
-<div class="background" *ngIf="searched && !showResult">
-    <div class="toolbar">
-        <button class="toolbarbutton" (click)="backToSearch()">
-            <img class="arrow" src='../assets/leftarrow.png'>
-        </button>
-        <div class="text">Search Results</div>
-    </div>
+<div class="background" *ngIf="home.searched && !home.showResult">
     <div *ngFor="let result of searches">
         <div class="cards" *ngIf="result.RecordType=='Cemetery'" (click)="select(result)">
             <div class="name">Name: {{result.Title}} {{result.FirstName}} {{result.Middle}} {{result.Last}} {{result.Suffix}}</div>
@@ -46,13 +31,7 @@
         </div>
     </div>
 </div>
-<div class="background" *ngIf="showResult">
-    <div class="toolbar">
-        <button class="toolbarbutton" (click)="backtosearch()">
-            <img class="arrow" src='../assets/leftarrow.png'>
-        </button>
-        <div class="text">{{result.RecordType}} Record</div>
-    </div>
+<div class="background" *ngIf="home.showResult">
     <div class="box" *ngIf="result.RecordType=='Cemetery'">
         <div class="titles">Name: {{result.Title}} {{result.FirstName}} {{result.Middle}} {{result.Last}} {{result.Suffix}}</div>
         <div class="titles">Sex: {{result.Sex}}</div>
@@ -87,8 +66,8 @@
         <div class="titles">Relative or Friend: {{result.RelativeOrFriend}}</div>
         <div class="titles">Comments: {{result.Remarks}}</div>
     </div>
-    <div *ngIf="result.RecordType=='Internment'">
-        <div *ngIf="result.Photo!='.'">
+    <div *ngIf="result.RecordType=='Internment'" style="text-align: center;">
+        <div *ngIf="result.Int>826&&result.Int<912">
             <img class="photo" src='../assets/{{result.Int}}.jpg'>
         </div>
     </div>

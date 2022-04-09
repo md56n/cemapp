@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import { FormControl, FormGroup } from '@angular/forms';
-import { Router } from '@angular/router';
 import { AppComponent } from '../app.component';
 
 @Component({
@@ -20,17 +19,12 @@ export class SearchRecordsComponent implements OnInit {
   genders = ['Male', 'Female'];
   races = ['Black', 'Mexican', 'White'];
   searches: any[] = [];
-  searched = false;
-  showResult = false;
+  
   result: any;
 
-  constructor(private router: Router, private home: AppComponent) { }
+  constructor(public home: AppComponent) { }
 
   ngOnInit(): void {
-  }
-
-  back() {
-    this.router.navigateByUrl('/');
   }
 
   changeGender(e:any) {
@@ -41,6 +35,7 @@ export class SearchRecordsComponent implements OnInit {
   }
 
   search() {
+    this.searches = [];
     // skip first name search
     if(this.searchForm.value.firstName == null) {
       let nums = [];
@@ -153,11 +148,11 @@ export class SearchRecordsComponent implements OnInit {
       }
       this.searches = tempsearched;
     }
-    this.searched = true;
+    this.home.searched = true;
   }
 
   backToSearch() {
-    this.searched = false;
+    this.home.searched = false;
     this.searches = [];
     this.searchForm = new FormGroup({
       firstName: new FormControl(),
@@ -171,7 +166,8 @@ export class SearchRecordsComponent implements OnInit {
 
   select(result: any) {
     this.result = result;
-    this.showResult = true;
+    this.home.showResult = true;
+    this.home.recordType = this.result.RecordType;
   }
 
   isValid(input: any):boolean {
@@ -185,6 +181,6 @@ export class SearchRecordsComponent implements OnInit {
   }
 
   backtosearch() {
-    this.showResult = false;
+    this.home.showResult = false;
   }
 }
