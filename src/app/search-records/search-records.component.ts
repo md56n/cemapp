@@ -53,7 +53,7 @@ export class SearchRecordsComponent implements OnInit {
       let nums = [];
       // search cem records for first name and linked int records
       for(let i=0; i<this.home.tempArr.length-1; i++) {
-        if(this.home.tempArr[i].FirstName.toUpperCase().includes(this.searchForm.value.firstName.toUpperCase()) || this.home.tempArr[i].FirstName=='') {
+        if(this.home.tempArr[i].FirstName.toUpperCase().includes(this.searchForm.value.firstName.toUpperCase()) || this.home.tempArr[i].FirstName=='' || this.home.tempArr[i].FirstName=='Unknown' || this.home.tempArr[i].FirstName=='Infant') {
           nums.push(this.home.tempArr[i].Int);
           this.searches.push(this.home.tempArr[i]);
           for(let j=0; j<this.home.tempArr2.length-1; j++) {
@@ -66,7 +66,7 @@ export class SearchRecordsComponent implements OnInit {
       }
       // search int records for first name and linked cem records
       for(let i=0; i<this.home.tempArr2.length-1; i++) {
-        if((this.home.tempArr2[i].First.toUpperCase().includes(this.searchForm.value.firstName.toUpperCase()) || this.home.tempArr2[i].First=='') && !nums.includes(this.home.tempArr[i].Int)) {
+        if((this.home.tempArr2[i].First.toUpperCase().includes(this.searchForm.value.firstName.toUpperCase()) || this.home.tempArr2[i].First=='' || this.home.tempArr2[i].First=='Unknown' || this.home.tempArr2[i].First=='Infant') && !nums.includes(this.home.tempArr[i].Int)) {
           nums.push(this.home.tempArr2[i].Int);
           this.searches.push(this.home.tempArr2[i]);
           for(let j=0; j<this.home.tempArr.length-1; j++) {
@@ -96,7 +96,7 @@ export class SearchRecordsComponent implements OnInit {
     if(this.searchForm.value.lastName != null) {
       let tempsearched = [];
       for(let i=0; i<this.searches.length; i++) {
-        if(this.searches[i].Last.toUpperCase().includes(this.searchForm.value.lastName.toUpperCase()) || this.searches[i].Last=='') {
+        if(this.searches[i].Last.toUpperCase().includes(this.searchForm.value.lastName.toUpperCase()) || this.searches[i].Last=='' || this.searches[i].Last=='Man' || this.searches[i].Last=='Woman') {
           tempsearched.push(this.searches[i]);
         }
       }

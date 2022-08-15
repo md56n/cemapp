@@ -56,10 +56,22 @@
 
 .cemImg {
     height: 50vh;
-    margin-top: 8vh;
+    margin-top: 5vh;
     margin-left: 25vw;
     margin-right: 25vw;
-    padding-bottom: 5vh;
+    padding-bottom: 4vh;
+}
+
+
+.line {
+    height: 1px;
+    width: 82vw;
+    border: 0;
+    border-top: 3px solid #a6b9ff;
+    margin-top: 1vh;
+    margin-left: 9vw;
+    margin-bottom: 2vh;
+    padding: 0;
 }
 
 .title {

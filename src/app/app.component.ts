@@ -171,7 +171,4 @@ export class AppComponent implements OnInit {
   }
 }
 
-// searches include unknown man/baby etc
 // check result if baby age has weeks/months
-// results coming back twice
-// search could include initials

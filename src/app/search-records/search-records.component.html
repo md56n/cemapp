@@ -37,7 +37,7 @@
         <div class="titles">Sex: {{result.Sex}}</div>
         <div class="titles">Race: {{result.Race}}</div>
         <div class="titles">Date of Death: {{result.DateOfDeath}}</div>
-        <div class="titles">Age: {{result.Age}} {{result.Months}} {{result.Days}}</div>
+        <div class="titles" style="display:inline;">Age: {{result.Age}}<div *ngIf="result.Age.length>0" style="display:inline;"> years </div>{{result.Months}}<div *ngIf="result.Months.length>0" style="display:inline;"> months </div>{{result.Days}}<div *ngIf="result.Days.length>0" style="display:inline;"> days</div></div>
         <div class="titles">Grave {{result.Grave}} Lot {{result.Lot}} Block {{result.Block}}</div>
         <div class="titles">Burial Date: {{result.BurialDate}}</div>
         <div class="titles">Permit Number: {{result.Permit}}</div>
@@ -52,7 +52,7 @@
         <div class="titles">Residence: {{result.Residence}}</div>
         <div class="titles">Date of Death: {{result.DateOfDeath}}</div>
         <div class="titles">Place of Death: {{result.PlaceOfDeath}}</div>
-        <div class="titles">Age: {{result.Years}} {{result.Months}} {{result.Days}}</div>
+        <div class="titles" style="display:inline;">Age: {{result.Years}}<div *ngIf="result.Years.length>0" style="display:inline;"> years </div>{{result.Months}}<div *ngIf="result.Months.length>0" style="display:inline;"> months </div>{{result.Days}}<div *ngIf="result.Days.length>0" style="display:inline;"> days</div></div>
         <div class="titles">Attending Physician: {{result.AttendingPhysician}}</div>
         <div class="titles">Cause of Death: {{result.CauseOfDeath}}</div>
         <div class="titles">Undertaker: {{result.Undertaker}}</div>
