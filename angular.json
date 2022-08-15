@@ -98,16 +98,6 @@
             ],
             "scripts": []
           }
-        },
-        "deploy": {
-          "builder": "@angular/fire:deploy",
-          "options": {
-            "prerender": false,
-            "ssr": false,
-            "browserTarget": "cemapp:build:production",
-            "firebaseProject": "highland-cem",
-            "firebaseHostingSite": "highland-cem"
-          }
         }
       }
     }
