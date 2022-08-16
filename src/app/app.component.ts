@@ -85,7 +85,7 @@ export class AppComponent implements OnInit {
         if(newtemp[i][18]=='*') {
           tempbool = true;
         }
-        if(newtemp[i][2].includes('First')) {
+        if(newtemp[i][3][0]=='F') {
           console.log(newtemp[i][3]);
         }
         if(newtemp[i][3]!='First Name' && newtemp[i].length>1) {
@@ -124,7 +124,7 @@ export class AppComponent implements OnInit {
               newtemp[i][j] = '';
             }
           }
-          if(newtemp[i][2].includes('First')) {
+          if(newtemp[i][2][0]=='F') {
             console.log(newtemp[i][2]);
           }
           if(newtemp[i][2]!='First' && newtemp[i].length>1) {
