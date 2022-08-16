@@ -72,7 +72,7 @@ export class AppComponent implements OnInit {
 
   ngOnInit(): void {
     fetch( './assets/cemetery.csv' ).then(response => response.text()).then( responseText => {
-      let temp = responseText.split('\r\n');
+      let temp = responseText.split(/\r|\n/);
       let newtemp = [];
       console.log(temp);
       for(let i=0; i<temp.length; i++) {
