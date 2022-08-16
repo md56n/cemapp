@@ -109,7 +109,7 @@ export class AppComponent implements OnInit {
           RecordType: 'Cemetery'
         });
       }
-      // console.log(this.tempArr);
+      console.log(this.tempArr);
       fetch( './assets/internment.csv' ).then(response => response.text()).then( responseText => {
         let temp = responseText.split('\r\n');
         let newtemp = [];
@@ -150,7 +150,7 @@ export class AppComponent implements OnInit {
           });
         }
         this.done = true;
-        // console.log(this.tempArr2);
+        console.log(this.tempArr2);
       });
     });
   }
@@ -175,5 +175,3 @@ export class AppComponent implements OnInit {
     this.about = !this.about;
   }
 }
-
-// check result if baby age has weeks/months
