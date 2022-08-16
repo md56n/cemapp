@@ -85,7 +85,7 @@ export class AppComponent implements OnInit {
         if(newtemp[i][18]=='*') {
           tempbool = true;
         }
-        if(newtemp[i][3]!='First Name' && newtemp[i].length>1) {
+        if(newtemp[i][3]!='First' && newtemp[i].length>1) {
           this.tempArr.push({
             Last: newtemp[i][0],
             Title: newtemp[i][1],
@@ -121,7 +121,7 @@ export class AppComponent implements OnInit {
               newtemp[i][j] = '';
             }
           }
-          if(newtemp[i][2]!='First' && newtemp[i].length>1) {
+          if(newtemp[i][2]!='First Name' && newtemp[i].length>1) {
             this.tempArr2.push({
             Int: newtemp[i][0],
             Year: newtemp[i][1],
