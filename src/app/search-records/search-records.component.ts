@@ -148,7 +148,6 @@ export class SearchRecordsComponent implements OnInit {
       }
       this.searches = tempsearched;
     }
-    console.log(this.searches);
     this.home.searched = true;
   }
 
