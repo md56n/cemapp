@@ -9,6 +9,19 @@ form {
     padding-top: 2vh;
 }
 
+.help {
+    height: 5vh;
+    width: 46vw;
+    margin-left: 27vw;
+    margin-right: 27vw;
+    margin-top: 2vh;
+    color: #a6b9ff;
+    font-size: 3vh;
+    text-align: center;
+    display: inline-block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 .field {
     height: 5vh;
     width: 10vw;

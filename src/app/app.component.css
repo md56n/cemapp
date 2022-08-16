@@ -8,8 +8,26 @@
     float: left;
     height: 10vh;
     width: 15vw;
+    padding-right: 5vw;
+    margin-right: 15vw;
     background: none;
     border: none;
+}
+
+.aboutButton {
+    float: left;
+    height: 8vh;
+    width: 20vw;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    margin-top: 1vh;
+    background: #ffffff;
+    color: #a6b9ff;
+    font-size: 3vh;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 10px;
+    border-color: #ffffff;
 }
 
 .arrow {
@@ -23,7 +41,6 @@
     float: left;
     height: 8vh;
     width: 40vw;
-    padding-left: 15vw;
     padding-top: 2vh;
     color: #ffffff;
     text-align: center;
@@ -62,6 +79,16 @@
     padding-bottom: 4vh;
 }
 
+.description {
+    width: 70vw;
+    margin-top: 3vh;
+    margin-left: 15vw;
+    color: #a6b9ff;
+    font-size: 3vh;
+    text-align: left;
+    font-weight: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 
 .line {
     height: 1px;
@@ -83,8 +110,16 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.date {
+.column {
     margin-right: 10vw;
+    text-align: end;
+    color: #a6b9ff;
+    font-size: 3vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.date {
+    margin-right: 15vw;
     text-align: end;
     color: #a6b9ff;
     font-size: 3vh;

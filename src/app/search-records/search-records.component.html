@@ -1,4 +1,5 @@
 <div class="background" *ngIf="!home.searched">
+    <div class="help">Enter your search filters or click submit to view all records</div>
     <form [formGroup]="searchForm" (ngSubmit)="search()">
         <div class="field">First: </div><input formControlName="firstName"  placeholder="Enter first name"/>
         <div class="field">Middle: </div><input formControlName="middleName"  placeholder="Enter middle name"/>

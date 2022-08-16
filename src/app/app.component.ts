@@ -66,6 +66,7 @@ export class AppComponent implements OnInit {
   tempArr2: IntModel[] = [];
   done = false;
   recordType = '';
+  about = false;
 
   constructor() { }
 
@@ -168,6 +169,10 @@ export class AppComponent implements OnInit {
     else {
       this.showResult = false;
     }
+  }
+
+  aboutbutton() {
+    this.about = !this.about;
   }
 }
 
