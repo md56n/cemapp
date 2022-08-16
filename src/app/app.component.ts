@@ -85,29 +85,31 @@ export class AppComponent implements OnInit {
         if(newtemp[i][18]=='*') {
           tempbool = true;
         }
-        this.tempArr.push({
-          Last: newtemp[i][0],
-          Title: newtemp[i][1],
-          Suffix: newtemp[i][2],
-          FirstName: newtemp[i][3],
-          Middle: newtemp[i][4],
-          Sex: newtemp[i][5],
-          Race: newtemp[i][6],
-          DateOfDeath: newtemp[i][7],
-          Age: newtemp[i][8],
-          Months: newtemp[i][9],
-          Days: newtemp[i][10],
-          Grave: newtemp[i][11],
-          Lot: newtemp[i][12],
-          Block: newtemp[i][13],
-          BurialDate: newtemp[i][14],
-          Comments: newtemp[i][15],
-          Permit: newtemp[i][16],
-          Int: newtemp[i][17],
-          Baby: tempbool,
-          DeathRecord: newtemp[i][19],
-          RecordType: 'Cemetery'
-        });
+        if(newtemp[i][3]!='First Name' && newtemp[i].length>1) {
+          this.tempArr.push({
+            Last: newtemp[i][0],
+            Title: newtemp[i][1],
+            Suffix: newtemp[i][2],
+            FirstName: newtemp[i][3],
+            Middle: newtemp[i][4],
+            Sex: newtemp[i][5],
+            Race: newtemp[i][6],
+            DateOfDeath: newtemp[i][7],
+            Age: newtemp[i][8],
+            Months: newtemp[i][9],
+            Days: newtemp[i][10],
+            Grave: newtemp[i][11],
+            Lot: newtemp[i][12],
+            Block: newtemp[i][13],
+            BurialDate: newtemp[i][14],
+            Comments: newtemp[i][15],
+            Permit: newtemp[i][16],
+            Int: newtemp[i][17],
+            Baby: tempbool,
+            DeathRecord: newtemp[i][19],
+            RecordType: 'Cemetery'
+          });
+        }
       }
       fetch( './assets/internment.csv' ).then(response => response.text()).then( responseText => {
         let temp = responseText.split(/\r|\n/);
@@ -119,7 +121,8 @@ export class AppComponent implements OnInit {
               newtemp[i][j] = '';
             }
           }
-          this.tempArr2.push({
+          if(newtemp[i][2]!='First' && newtemp[i].length>1) {
+            this.tempArr2.push({
             Int: newtemp[i][0],
             Year: newtemp[i][1],
             First: newtemp[i][2],
@@ -146,7 +149,8 @@ export class AppComponent implements OnInit {
             RelativeOrFriend: newtemp[i][23],
             Remarks: newtemp[i][24],
             RecordType: 'Internment'
-          });
+            });
+          }
         }
         this.done = true;
       });
