@@ -85,9 +85,6 @@ export class AppComponent implements OnInit {
         if(newtemp[i][18]=='*') {
           tempbool = true;
         }
-        if(newtemp[i][3][0]=='F') {
-          console.log(newtemp[i][3]);
-        }
         if(newtemp[i][3]!='First Name' && newtemp[i].length>1) {
           this.tempArr.push({
             Last: newtemp[i][0],
@@ -123,9 +120,6 @@ export class AppComponent implements OnInit {
             if(newtemp[i][j]=='.') {
               newtemp[i][j] = '';
             }
-          }
-          if(newtemp[i][2][0]=='F') {
-            console.log(newtemp[i][2]);
           }
           if(newtemp[i][2]!='First' && newtemp[i].length>1) {
             this.tempArr2.push({
