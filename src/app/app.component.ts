@@ -74,8 +74,10 @@ export class AppComponent implements OnInit {
     fetch( './assets/cemetery.csv' ).then(response => response.text()).then( responseText => {
       let temp = responseText.split('\r\n');
       let newtemp = [];
+      console.log(temp);
       for(let i=0; i<temp.length; i++) {
         newtemp[i] = temp[i].split('\t');
+        console.log(newtemp[i]);
         for(let j=0; j<newtemp[i].length; j++) {
           if(newtemp[i][j]=='.') {
             newtemp[i][j] = '';
